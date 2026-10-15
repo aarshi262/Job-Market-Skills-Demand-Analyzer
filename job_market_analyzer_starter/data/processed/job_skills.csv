@@ -1,0 +1,1210 @@
+job_id,job_title,location,experience_level,salary_mid_lpa,skills,skill
+DEMO0001,Product Analyst,Hyderabad,Mid-level,7.5,"SQL, Tableau, Power BI",Sql
+DEMO0001,Product Analyst,Hyderabad,Mid-level,7.5,"SQL, Tableau, Power BI",Tableau
+DEMO0001,Product Analyst,Hyderabad,Mid-level,7.5,"SQL, Tableau, Power BI",Power Bi
+DEMO0002,Business Analyst,Chennai,Associate,,"Communication, SQL, Git, Power BI, Pandas, Excel, A/B Testing",Communication
+DEMO0002,Business Analyst,Chennai,Associate,,"Communication, SQL, Git, Power BI, Pandas, Excel, A/B Testing",Sql
+DEMO0002,Business Analyst,Chennai,Associate,,"Communication, SQL, Git, Power BI, Pandas, Excel, A/B Testing",Git
+DEMO0002,Business Analyst,Chennai,Associate,,"Communication, SQL, Git, Power BI, Pandas, Excel, A/B Testing",Power Bi
+DEMO0002,Business Analyst,Chennai,Associate,,"Communication, SQL, Git, Power BI, Pandas, Excel, A/B Testing",Pandas
+DEMO0002,Business Analyst,Chennai,Associate,,"Communication, SQL, Git, Power BI, Pandas, Excel, A/B Testing",Excel
+DEMO0002,Business Analyst,Chennai,Associate,,"Communication, SQL, Git, Power BI, Pandas, Excel, A/B Testing",A/B Testing
+DEMO0003,Data Analyst,Kolkata,Mid-level,,"Pandas, Excel, Statistics",Pandas
+DEMO0003,Data Analyst,Kolkata,Mid-level,,"Pandas, Excel, Statistics",Excel
+DEMO0003,Data Analyst,Kolkata,Mid-level,,"Pandas, Excel, Statistics",Statistics
+DEMO0004,Reporting Analyst,Mumbai,Entry-level,,"ETL, Communication, Statistics, Power BI, Excel",Etl
+DEMO0004,Reporting Analyst,Mumbai,Entry-level,,"ETL, Communication, Statistics, Power BI, Excel",Communication
+DEMO0004,Reporting Analyst,Mumbai,Entry-level,,"ETL, Communication, Statistics, Power BI, Excel",Statistics
+DEMO0004,Reporting Analyst,Mumbai,Entry-level,,"ETL, Communication, Statistics, Power BI, Excel",Power Bi
+DEMO0004,Reporting Analyst,Mumbai,Entry-level,,"ETL, Communication, Statistics, Power BI, Excel",Excel
+DEMO0005,BI Analyst,Mumbai,Entry-level,,"Statistics, A/B Testing, Power BI, Tableau",Statistics
+DEMO0005,BI Analyst,Mumbai,Entry-level,,"Statistics, A/B Testing, Power BI, Tableau",A/B Testing
+DEMO0005,BI Analyst,Mumbai,Entry-level,,"Statistics, A/B Testing, Power BI, Tableau",Power Bi
+DEMO0005,BI Analyst,Mumbai,Entry-level,,"Statistics, A/B Testing, Power BI, Tableau",Tableau
+DEMO0006,Product Analyst,Mumbai,Mid-level,,"Power BI, ETL, Statistics, SQL, A/B Testing, Pandas, Git",Power Bi
+DEMO0006,Product Analyst,Mumbai,Mid-level,,"Power BI, ETL, Statistics, SQL, A/B Testing, Pandas, Git",Etl
+DEMO0006,Product Analyst,Mumbai,Mid-level,,"Power BI, ETL, Statistics, SQL, A/B Testing, Pandas, Git",Statistics
+DEMO0006,Product Analyst,Mumbai,Mid-level,,"Power BI, ETL, Statistics, SQL, A/B Testing, Pandas, Git",Sql
+DEMO0006,Product Analyst,Mumbai,Mid-level,,"Power BI, ETL, Statistics, SQL, A/B Testing, Pandas, Git",A/B Testing
+DEMO0006,Product Analyst,Mumbai,Mid-level,,"Power BI, ETL, Statistics, SQL, A/B Testing, Pandas, Git",Pandas
+DEMO0006,Product Analyst,Mumbai,Mid-level,,"Power BI, ETL, Statistics, SQL, A/B Testing, Pandas, Git",Git
+DEMO0007,Junior Data Analyst,Mumbai,Entry-level,,"Python, Tableau, A/B Testing, Power BI, ETL, Statistics",Python
+DEMO0007,Junior Data Analyst,Mumbai,Entry-level,,"Python, Tableau, A/B Testing, Power BI, ETL, Statistics",Tableau
+DEMO0007,Junior Data Analyst,Mumbai,Entry-level,,"Python, Tableau, A/B Testing, Power BI, ETL, Statistics",A/B Testing
+DEMO0007,Junior Data Analyst,Mumbai,Entry-level,,"Python, Tableau, A/B Testing, Power BI, ETL, Statistics",Power Bi
+DEMO0007,Junior Data Analyst,Mumbai,Entry-level,,"Python, Tableau, A/B Testing, Power BI, ETL, Statistics",Etl
+DEMO0007,Junior Data Analyst,Mumbai,Entry-level,,"Python, Tableau, A/B Testing, Power BI, ETL, Statistics",Statistics
+DEMO0008,Data Analyst,Delhi NCR,Mid-level,,"ETL, Python, Pandas, Excel",Etl
+DEMO0008,Data Analyst,Delhi NCR,Mid-level,,"ETL, Python, Pandas, Excel",Python
+DEMO0008,Data Analyst,Delhi NCR,Mid-level,,"ETL, Python, Pandas, Excel",Pandas
+DEMO0008,Data Analyst,Delhi NCR,Mid-level,,"ETL, Python, Pandas, Excel",Excel
+DEMO0009,Reporting Analyst,Pune,Mid-level,,"ETL, Statistics, Excel, Tableau, Pandas",Etl
+DEMO0009,Reporting Analyst,Pune,Mid-level,,"ETL, Statistics, Excel, Tableau, Pandas",Statistics
+DEMO0009,Reporting Analyst,Pune,Mid-level,,"ETL, Statistics, Excel, Tableau, Pandas",Excel
+DEMO0009,Reporting Analyst,Pune,Mid-level,,"ETL, Statistics, Excel, Tableau, Pandas",Tableau
+DEMO0009,Reporting Analyst,Pune,Mid-level,,"ETL, Statistics, Excel, Tableau, Pandas",Pandas
+DEMO0010,Product Analyst,Bengaluru,Entry-level,,"Communication, Power BI, Python, Statistics, A/B Testing, Tableau, Pandas",Communication
+DEMO0010,Product Analyst,Bengaluru,Entry-level,,"Communication, Power BI, Python, Statistics, A/B Testing, Tableau, Pandas",Power Bi
+DEMO0010,Product Analyst,Bengaluru,Entry-level,,"Communication, Power BI, Python, Statistics, A/B Testing, Tableau, Pandas",Python
+DEMO0010,Product Analyst,Bengaluru,Entry-level,,"Communication, Power BI, Python, Statistics, A/B Testing, Tableau, Pandas",Statistics
+DEMO0010,Product Analyst,Bengaluru,Entry-level,,"Communication, Power BI, Python, Statistics, A/B Testing, Tableau, Pandas",A/B Testing
+DEMO0010,Product Analyst,Bengaluru,Entry-level,,"Communication, Power BI, Python, Statistics, A/B Testing, Tableau, Pandas",Tableau
+DEMO0010,Product Analyst,Bengaluru,Entry-level,,"Communication, Power BI, Python, Statistics, A/B Testing, Tableau, Pandas",Pandas
+DEMO0011,BI Analyst,Pune,Entry-level,6.5,"SQL, Power BI, Communication, Excel",Sql
+DEMO0011,BI Analyst,Pune,Entry-level,6.5,"SQL, Power BI, Communication, Excel",Power Bi
+DEMO0011,BI Analyst,Pune,Entry-level,6.5,"SQL, Power BI, Communication, Excel",Communication
+DEMO0011,BI Analyst,Pune,Entry-level,6.5,"SQL, Power BI, Communication, Excel",Excel
+DEMO0012,BI Analyst,Kolkata,Entry-level,11.0,"Communication, Pandas, Power BI, Git, A/B Testing, Statistics, Python",Communication
+DEMO0012,BI Analyst,Kolkata,Entry-level,11.0,"Communication, Pandas, Power BI, Git, A/B Testing, Statistics, Python",Pandas
+DEMO0012,BI Analyst,Kolkata,Entry-level,11.0,"Communication, Pandas, Power BI, Git, A/B Testing, Statistics, Python",Power Bi
+DEMO0012,BI Analyst,Kolkata,Entry-level,11.0,"Communication, Pandas, Power BI, Git, A/B Testing, Statistics, Python",Git
+DEMO0012,BI Analyst,Kolkata,Entry-level,11.0,"Communication, Pandas, Power BI, Git, A/B Testing, Statistics, Python",A/B Testing
+DEMO0012,BI Analyst,Kolkata,Entry-level,11.0,"Communication, Pandas, Power BI, Git, A/B Testing, Statistics, Python",Statistics
+DEMO0012,BI Analyst,Kolkata,Entry-level,11.0,"Communication, Pandas, Power BI, Git, A/B Testing, Statistics, Python",Python
+DEMO0013,Reporting Analyst,Chennai,Entry-level,,"Power BI, Communication, A/B Testing, SQL, Excel, Statistics, Pandas",Power Bi
+DEMO0013,Reporting Analyst,Chennai,Entry-level,,"Power BI, Communication, A/B Testing, SQL, Excel, Statistics, Pandas",Communication
+DEMO0013,Reporting Analyst,Chennai,Entry-level,,"Power BI, Communication, A/B Testing, SQL, Excel, Statistics, Pandas",A/B Testing
+DEMO0013,Reporting Analyst,Chennai,Entry-level,,"Power BI, Communication, A/B Testing, SQL, Excel, Statistics, Pandas",Sql
+DEMO0013,Reporting Analyst,Chennai,Entry-level,,"Power BI, Communication, A/B Testing, SQL, Excel, Statistics, Pandas",Excel
+DEMO0013,Reporting Analyst,Chennai,Entry-level,,"Power BI, Communication, A/B Testing, SQL, Excel, Statistics, Pandas",Statistics
+DEMO0013,Reporting Analyst,Chennai,Entry-level,,"Power BI, Communication, A/B Testing, SQL, Excel, Statistics, Pandas",Pandas
+DEMO0014,Business Analyst,Remote,Associate,,"Python, Communication, ETL, Machine Learning, Power BI, Pandas, Git",Python
+DEMO0014,Business Analyst,Remote,Associate,,"Python, Communication, ETL, Machine Learning, Power BI, Pandas, Git",Communication
+DEMO0014,Business Analyst,Remote,Associate,,"Python, Communication, ETL, Machine Learning, Power BI, Pandas, Git",Etl
+DEMO0014,Business Analyst,Remote,Associate,,"Python, Communication, ETL, Machine Learning, Power BI, Pandas, Git",Machine Learning
+DEMO0014,Business Analyst,Remote,Associate,,"Python, Communication, ETL, Machine Learning, Power BI, Pandas, Git",Power Bi
+DEMO0014,Business Analyst,Remote,Associate,,"Python, Communication, ETL, Machine Learning, Power BI, Pandas, Git",Pandas
+DEMO0014,Business Analyst,Remote,Associate,,"Python, Communication, ETL, Machine Learning, Power BI, Pandas, Git",Git
+DEMO0015,Data Analyst,Kolkata,Entry-level,5.5,"SQL, Pandas, Statistics",Sql
+DEMO0015,Data Analyst,Kolkata,Entry-level,5.5,"SQL, Pandas, Statistics",Pandas
+DEMO0015,Data Analyst,Kolkata,Entry-level,5.5,"SQL, Pandas, Statistics",Statistics
+DEMO0016,Data Analyst,Kolkata,Entry-level,,"Git, Excel, SQL, A/B Testing, Communication, Machine Learning",Git
+DEMO0016,Data Analyst,Kolkata,Entry-level,,"Git, Excel, SQL, A/B Testing, Communication, Machine Learning",Excel
+DEMO0016,Data Analyst,Kolkata,Entry-level,,"Git, Excel, SQL, A/B Testing, Communication, Machine Learning",Sql
+DEMO0016,Data Analyst,Kolkata,Entry-level,,"Git, Excel, SQL, A/B Testing, Communication, Machine Learning",A/B Testing
+DEMO0016,Data Analyst,Kolkata,Entry-level,,"Git, Excel, SQL, A/B Testing, Communication, Machine Learning",Communication
+DEMO0016,Data Analyst,Kolkata,Entry-level,,"Git, Excel, SQL, A/B Testing, Communication, Machine Learning",Machine Learning
+DEMO0017,Data Analyst,Bengaluru,Mid-level,,"Tableau, Machine Learning, A/B Testing, Pandas, ETL, Excel",Tableau
+DEMO0017,Data Analyst,Bengaluru,Mid-level,,"Tableau, Machine Learning, A/B Testing, Pandas, ETL, Excel",Machine Learning
+DEMO0017,Data Analyst,Bengaluru,Mid-level,,"Tableau, Machine Learning, A/B Testing, Pandas, ETL, Excel",A/B Testing
+DEMO0017,Data Analyst,Bengaluru,Mid-level,,"Tableau, Machine Learning, A/B Testing, Pandas, ETL, Excel",Pandas
+DEMO0017,Data Analyst,Bengaluru,Mid-level,,"Tableau, Machine Learning, A/B Testing, Pandas, ETL, Excel",Etl
+DEMO0017,Data Analyst,Bengaluru,Mid-level,,"Tableau, Machine Learning, A/B Testing, Pandas, ETL, Excel",Excel
+DEMO0018,Reporting Analyst,Mumbai,Mid-level,5.5,"Python, SQL, Git, Excel, A/B Testing, ETL, Tableau",Python
+DEMO0018,Reporting Analyst,Mumbai,Mid-level,5.5,"Python, SQL, Git, Excel, A/B Testing, ETL, Tableau",Sql
+DEMO0018,Reporting Analyst,Mumbai,Mid-level,5.5,"Python, SQL, Git, Excel, A/B Testing, ETL, Tableau",Git
+DEMO0018,Reporting Analyst,Mumbai,Mid-level,5.5,"Python, SQL, Git, Excel, A/B Testing, ETL, Tableau",Excel
+DEMO0018,Reporting Analyst,Mumbai,Mid-level,5.5,"Python, SQL, Git, Excel, A/B Testing, ETL, Tableau",A/B Testing
+DEMO0018,Reporting Analyst,Mumbai,Mid-level,5.5,"Python, SQL, Git, Excel, A/B Testing, ETL, Tableau",Etl
+DEMO0018,Reporting Analyst,Mumbai,Mid-level,5.5,"Python, SQL, Git, Excel, A/B Testing, ETL, Tableau",Tableau
+DEMO0019,Product Analyst,Pune,Mid-level,9.5,"Communication, Git, Statistics, Tableau, Power BI, A/B Testing, Pandas",Communication
+DEMO0019,Product Analyst,Pune,Mid-level,9.5,"Communication, Git, Statistics, Tableau, Power BI, A/B Testing, Pandas",Git
+DEMO0019,Product Analyst,Pune,Mid-level,9.5,"Communication, Git, Statistics, Tableau, Power BI, A/B Testing, Pandas",Statistics
+DEMO0019,Product Analyst,Pune,Mid-level,9.5,"Communication, Git, Statistics, Tableau, Power BI, A/B Testing, Pandas",Tableau
+DEMO0019,Product Analyst,Pune,Mid-level,9.5,"Communication, Git, Statistics, Tableau, Power BI, A/B Testing, Pandas",Power Bi
+DEMO0019,Product Analyst,Pune,Mid-level,9.5,"Communication, Git, Statistics, Tableau, Power BI, A/B Testing, Pandas",A/B Testing
+DEMO0019,Product Analyst,Pune,Mid-level,9.5,"Communication, Git, Statistics, Tableau, Power BI, A/B Testing, Pandas",Pandas
+DEMO0020,Data Analyst,Delhi NCR,Entry-level,,"Machine Learning, Communication, ETL",Machine Learning
+DEMO0020,Data Analyst,Delhi NCR,Entry-level,,"Machine Learning, Communication, ETL",Communication
+DEMO0020,Data Analyst,Delhi NCR,Entry-level,,"Machine Learning, Communication, ETL",Etl
+DEMO0021,BI Analyst,Hyderabad,Entry-level,,"Python, Machine Learning, Git, Tableau, SQL",Python
+DEMO0021,BI Analyst,Hyderabad,Entry-level,,"Python, Machine Learning, Git, Tableau, SQL",Machine Learning
+DEMO0021,BI Analyst,Hyderabad,Entry-level,,"Python, Machine Learning, Git, Tableau, SQL",Git
+DEMO0021,BI Analyst,Hyderabad,Entry-level,,"Python, Machine Learning, Git, Tableau, SQL",Tableau
+DEMO0021,BI Analyst,Hyderabad,Entry-level,,"Python, Machine Learning, Git, Tableau, SQL",Sql
+DEMO0022,Reporting Analyst,Remote,Associate,,"A/B Testing, Statistics, Power BI, Tableau",A/B Testing
+DEMO0022,Reporting Analyst,Remote,Associate,,"A/B Testing, Statistics, Power BI, Tableau",Statistics
+DEMO0022,Reporting Analyst,Remote,Associate,,"A/B Testing, Statistics, Power BI, Tableau",Power Bi
+DEMO0022,Reporting Analyst,Remote,Associate,,"A/B Testing, Statistics, Power BI, Tableau",Tableau
+DEMO0023,Product Analyst,Bengaluru,Associate,,"Python, Machine Learning, Git, Pandas, SQL",Python
+DEMO0023,Product Analyst,Bengaluru,Associate,,"Python, Machine Learning, Git, Pandas, SQL",Machine Learning
+DEMO0023,Product Analyst,Bengaluru,Associate,,"Python, Machine Learning, Git, Pandas, SQL",Git
+DEMO0023,Product Analyst,Bengaluru,Associate,,"Python, Machine Learning, Git, Pandas, SQL",Pandas
+DEMO0023,Product Analyst,Bengaluru,Associate,,"Python, Machine Learning, Git, Pandas, SQL",Sql
+DEMO0024,Data Analyst,Pune,Entry-level,,"Statistics, SQL, A/B Testing, Power BI, Git",Statistics
+DEMO0024,Data Analyst,Pune,Entry-level,,"Statistics, SQL, A/B Testing, Power BI, Git",Sql
+DEMO0024,Data Analyst,Pune,Entry-level,,"Statistics, SQL, A/B Testing, Power BI, Git",A/B Testing
+DEMO0024,Data Analyst,Pune,Entry-level,,"Statistics, SQL, A/B Testing, Power BI, Git",Power Bi
+DEMO0024,Data Analyst,Pune,Entry-level,,"Statistics, SQL, A/B Testing, Power BI, Git",Git
+DEMO0025,Junior Data Analyst,Remote,Entry-level,,"Python, Statistics, Pandas",Python
+DEMO0025,Junior Data Analyst,Remote,Entry-level,,"Python, Statistics, Pandas",Statistics
+DEMO0025,Junior Data Analyst,Remote,Entry-level,,"Python, Statistics, Pandas",Pandas
+DEMO0026,Junior Data Analyst,Delhi NCR,Associate,,"Tableau, Power BI, ETL, SQL, Communication",Tableau
+DEMO0026,Junior Data Analyst,Delhi NCR,Associate,,"Tableau, Power BI, ETL, SQL, Communication",Power Bi
+DEMO0026,Junior Data Analyst,Delhi NCR,Associate,,"Tableau, Power BI, ETL, SQL, Communication",Etl
+DEMO0026,Junior Data Analyst,Delhi NCR,Associate,,"Tableau, Power BI, ETL, SQL, Communication",Sql
+DEMO0026,Junior Data Analyst,Delhi NCR,Associate,,"Tableau, Power BI, ETL, SQL, Communication",Communication
+DEMO0027,Reporting Analyst,Chennai,Mid-level,,"SQL, Excel, Tableau, Python, Communication",Sql
+DEMO0027,Reporting Analyst,Chennai,Mid-level,,"SQL, Excel, Tableau, Python, Communication",Excel
+DEMO0027,Reporting Analyst,Chennai,Mid-level,,"SQL, Excel, Tableau, Python, Communication",Tableau
+DEMO0027,Reporting Analyst,Chennai,Mid-level,,"SQL, Excel, Tableau, Python, Communication",Python
+DEMO0027,Reporting Analyst,Chennai,Mid-level,,"SQL, Excel, Tableau, Python, Communication",Communication
+DEMO0028,Data Analyst,Chennai,Mid-level,,"Communication, Power BI, Tableau, SQL, Pandas, Git",Communication
+DEMO0028,Data Analyst,Chennai,Mid-level,,"Communication, Power BI, Tableau, SQL, Pandas, Git",Power Bi
+DEMO0028,Data Analyst,Chennai,Mid-level,,"Communication, Power BI, Tableau, SQL, Pandas, Git",Tableau
+DEMO0028,Data Analyst,Chennai,Mid-level,,"Communication, Power BI, Tableau, SQL, Pandas, Git",Sql
+DEMO0028,Data Analyst,Chennai,Mid-level,,"Communication, Power BI, Tableau, SQL, Pandas, Git",Pandas
+DEMO0028,Data Analyst,Chennai,Mid-level,,"Communication, Power BI, Tableau, SQL, Pandas, Git",Git
+DEMO0029,BI Analyst,Pune,Mid-level,6.5,"Tableau, ETL, Pandas, Statistics, Communication, Git, Python",Tableau
+DEMO0029,BI Analyst,Pune,Mid-level,6.5,"Tableau, ETL, Pandas, Statistics, Communication, Git, Python",Etl
+DEMO0029,BI Analyst,Pune,Mid-level,6.5,"Tableau, ETL, Pandas, Statistics, Communication, Git, Python",Pandas
+DEMO0029,BI Analyst,Pune,Mid-level,6.5,"Tableau, ETL, Pandas, Statistics, Communication, Git, Python",Statistics
+DEMO0029,BI Analyst,Pune,Mid-level,6.5,"Tableau, ETL, Pandas, Statistics, Communication, Git, Python",Communication
+DEMO0029,BI Analyst,Pune,Mid-level,6.5,"Tableau, ETL, Pandas, Statistics, Communication, Git, Python",Git
+DEMO0029,BI Analyst,Pune,Mid-level,6.5,"Tableau, ETL, Pandas, Statistics, Communication, Git, Python",Python
+DEMO0030,Data Analyst,Kolkata,Mid-level,,"Tableau, Power BI, Pandas, Statistics, Machine Learning",Tableau
+DEMO0030,Data Analyst,Kolkata,Mid-level,,"Tableau, Power BI, Pandas, Statistics, Machine Learning",Power Bi
+DEMO0030,Data Analyst,Kolkata,Mid-level,,"Tableau, Power BI, Pandas, Statistics, Machine Learning",Pandas
+DEMO0030,Data Analyst,Kolkata,Mid-level,,"Tableau, Power BI, Pandas, Statistics, Machine Learning",Statistics
+DEMO0030,Data Analyst,Kolkata,Mid-level,,"Tableau, Power BI, Pandas, Statistics, Machine Learning",Machine Learning
+DEMO0031,Product Analyst,Kolkata,Mid-level,,"Statistics, Excel, Power BI, Tableau, Communication, Pandas, ETL",Statistics
+DEMO0031,Product Analyst,Kolkata,Mid-level,,"Statistics, Excel, Power BI, Tableau, Communication, Pandas, ETL",Excel
+DEMO0031,Product Analyst,Kolkata,Mid-level,,"Statistics, Excel, Power BI, Tableau, Communication, Pandas, ETL",Power Bi
+DEMO0031,Product Analyst,Kolkata,Mid-level,,"Statistics, Excel, Power BI, Tableau, Communication, Pandas, ETL",Tableau
+DEMO0031,Product Analyst,Kolkata,Mid-level,,"Statistics, Excel, Power BI, Tableau, Communication, Pandas, ETL",Communication
+DEMO0031,Product Analyst,Kolkata,Mid-level,,"Statistics, Excel, Power BI, Tableau, Communication, Pandas, ETL",Pandas
+DEMO0031,Product Analyst,Kolkata,Mid-level,,"Statistics, Excel, Power BI, Tableau, Communication, Pandas, ETL",Etl
+DEMO0032,Reporting Analyst,Remote,Entry-level,,"A/B Testing, Pandas, Machine Learning, ETL",A/B Testing
+DEMO0032,Reporting Analyst,Remote,Entry-level,,"A/B Testing, Pandas, Machine Learning, ETL",Pandas
+DEMO0032,Reporting Analyst,Remote,Entry-level,,"A/B Testing, Pandas, Machine Learning, ETL",Machine Learning
+DEMO0032,Reporting Analyst,Remote,Entry-level,,"A/B Testing, Pandas, Machine Learning, ETL",Etl
+DEMO0033,Junior Data Analyst,Chennai,Associate,,"Git, Power BI, Excel",Git
+DEMO0033,Junior Data Analyst,Chennai,Associate,,"Git, Power BI, Excel",Power Bi
+DEMO0033,Junior Data Analyst,Chennai,Associate,,"Git, Power BI, Excel",Excel
+DEMO0034,Junior Data Analyst,Delhi NCR,Associate,,"Machine Learning, Python, A/B Testing, Communication, Tableau, Pandas, Excel",Machine Learning
+DEMO0034,Junior Data Analyst,Delhi NCR,Associate,,"Machine Learning, Python, A/B Testing, Communication, Tableau, Pandas, Excel",Python
+DEMO0034,Junior Data Analyst,Delhi NCR,Associate,,"Machine Learning, Python, A/B Testing, Communication, Tableau, Pandas, Excel",A/B Testing
+DEMO0034,Junior Data Analyst,Delhi NCR,Associate,,"Machine Learning, Python, A/B Testing, Communication, Tableau, Pandas, Excel",Communication
+DEMO0034,Junior Data Analyst,Delhi NCR,Associate,,"Machine Learning, Python, A/B Testing, Communication, Tableau, Pandas, Excel",Tableau
+DEMO0034,Junior Data Analyst,Delhi NCR,Associate,,"Machine Learning, Python, A/B Testing, Communication, Tableau, Pandas, Excel",Pandas
+DEMO0034,Junior Data Analyst,Delhi NCR,Associate,,"Machine Learning, Python, A/B Testing, Communication, Tableau, Pandas, Excel",Excel
+DEMO0035,BI Analyst,Remote,Associate,10.5,"Git, Excel, Python, Communication, Power BI",Git
+DEMO0035,BI Analyst,Remote,Associate,10.5,"Git, Excel, Python, Communication, Power BI",Excel
+DEMO0035,BI Analyst,Remote,Associate,10.5,"Git, Excel, Python, Communication, Power BI",Python
+DEMO0035,BI Analyst,Remote,Associate,10.5,"Git, Excel, Python, Communication, Power BI",Communication
+DEMO0035,BI Analyst,Remote,Associate,10.5,"Git, Excel, Python, Communication, Power BI",Power Bi
+DEMO0036,Business Analyst,Mumbai,Associate,10.0,"Pandas, Communication, SQL, A/B Testing, Machine Learning, ETL",Pandas
+DEMO0036,Business Analyst,Mumbai,Associate,10.0,"Pandas, Communication, SQL, A/B Testing, Machine Learning, ETL",Communication
+DEMO0036,Business Analyst,Mumbai,Associate,10.0,"Pandas, Communication, SQL, A/B Testing, Machine Learning, ETL",Sql
+DEMO0036,Business Analyst,Mumbai,Associate,10.0,"Pandas, Communication, SQL, A/B Testing, Machine Learning, ETL",A/B Testing
+DEMO0036,Business Analyst,Mumbai,Associate,10.0,"Pandas, Communication, SQL, A/B Testing, Machine Learning, ETL",Machine Learning
+DEMO0036,Business Analyst,Mumbai,Associate,10.0,"Pandas, Communication, SQL, A/B Testing, Machine Learning, ETL",Etl
+DEMO0037,Junior Data Analyst,Remote,Mid-level,,"ETL, A/B Testing, Pandas, Python, Machine Learning",Etl
+DEMO0037,Junior Data Analyst,Remote,Mid-level,,"ETL, A/B Testing, Pandas, Python, Machine Learning",A/B Testing
+DEMO0037,Junior Data Analyst,Remote,Mid-level,,"ETL, A/B Testing, Pandas, Python, Machine Learning",Pandas
+DEMO0037,Junior Data Analyst,Remote,Mid-level,,"ETL, A/B Testing, Pandas, Python, Machine Learning",Python
+DEMO0037,Junior Data Analyst,Remote,Mid-level,,"ETL, A/B Testing, Pandas, Python, Machine Learning",Machine Learning
+DEMO0038,Junior Data Analyst,Chennai,Associate,,"Machine Learning, Python, SQL, Tableau",Machine Learning
+DEMO0038,Junior Data Analyst,Chennai,Associate,,"Machine Learning, Python, SQL, Tableau",Python
+DEMO0038,Junior Data Analyst,Chennai,Associate,,"Machine Learning, Python, SQL, Tableau",Sql
+DEMO0038,Junior Data Analyst,Chennai,Associate,,"Machine Learning, Python, SQL, Tableau",Tableau
+DEMO0039,Junior Data Analyst,Bengaluru,Entry-level,,"Excel, Machine Learning, SQL, Git, Communication",Excel
+DEMO0039,Junior Data Analyst,Bengaluru,Entry-level,,"Excel, Machine Learning, SQL, Git, Communication",Machine Learning
+DEMO0039,Junior Data Analyst,Bengaluru,Entry-level,,"Excel, Machine Learning, SQL, Git, Communication",Sql
+DEMO0039,Junior Data Analyst,Bengaluru,Entry-level,,"Excel, Machine Learning, SQL, Git, Communication",Git
+DEMO0039,Junior Data Analyst,Bengaluru,Entry-level,,"Excel, Machine Learning, SQL, Git, Communication",Communication
+DEMO0040,Business Analyst,Hyderabad,Entry-level,12.0,"Machine Learning, ETL, Excel, Power BI",Machine Learning
+DEMO0040,Business Analyst,Hyderabad,Entry-level,12.0,"Machine Learning, ETL, Excel, Power BI",Etl
+DEMO0040,Business Analyst,Hyderabad,Entry-level,12.0,"Machine Learning, ETL, Excel, Power BI",Excel
+DEMO0040,Business Analyst,Hyderabad,Entry-level,12.0,"Machine Learning, ETL, Excel, Power BI",Power Bi
+DEMO0041,BI Analyst,Hyderabad,Mid-level,7.0,"ETL, Pandas, A/B Testing, Power BI, Excel, Tableau, Statistics",Etl
+DEMO0041,BI Analyst,Hyderabad,Mid-level,7.0,"ETL, Pandas, A/B Testing, Power BI, Excel, Tableau, Statistics",Pandas
+DEMO0041,BI Analyst,Hyderabad,Mid-level,7.0,"ETL, Pandas, A/B Testing, Power BI, Excel, Tableau, Statistics",A/B Testing
+DEMO0041,BI Analyst,Hyderabad,Mid-level,7.0,"ETL, Pandas, A/B Testing, Power BI, Excel, Tableau, Statistics",Power Bi
+DEMO0041,BI Analyst,Hyderabad,Mid-level,7.0,"ETL, Pandas, A/B Testing, Power BI, Excel, Tableau, Statistics",Excel
+DEMO0041,BI Analyst,Hyderabad,Mid-level,7.0,"ETL, Pandas, A/B Testing, Power BI, Excel, Tableau, Statistics",Tableau
+DEMO0041,BI Analyst,Hyderabad,Mid-level,7.0,"ETL, Pandas, A/B Testing, Power BI, Excel, Tableau, Statistics",Statistics
+DEMO0042,BI Analyst,Remote,Associate,,"Git, ETL, Statistics",Git
+DEMO0042,BI Analyst,Remote,Associate,,"Git, ETL, Statistics",Etl
+DEMO0042,BI Analyst,Remote,Associate,,"Git, ETL, Statistics",Statistics
+DEMO0043,Business Analyst,Mumbai,Entry-level,,"Python, Git, Tableau, ETL, Machine Learning, Power BI",Python
+DEMO0043,Business Analyst,Mumbai,Entry-level,,"Python, Git, Tableau, ETL, Machine Learning, Power BI",Git
+DEMO0043,Business Analyst,Mumbai,Entry-level,,"Python, Git, Tableau, ETL, Machine Learning, Power BI",Tableau
+DEMO0043,Business Analyst,Mumbai,Entry-level,,"Python, Git, Tableau, ETL, Machine Learning, Power BI",Etl
+DEMO0043,Business Analyst,Mumbai,Entry-level,,"Python, Git, Tableau, ETL, Machine Learning, Power BI",Machine Learning
+DEMO0043,Business Analyst,Mumbai,Entry-level,,"Python, Git, Tableau, ETL, Machine Learning, Power BI",Power Bi
+DEMO0044,Junior Data Analyst,Delhi NCR,Associate,,"Communication, ETL, Pandas, Statistics, SQL, Power BI, Python",Communication
+DEMO0044,Junior Data Analyst,Delhi NCR,Associate,,"Communication, ETL, Pandas, Statistics, SQL, Power BI, Python",Etl
+DEMO0044,Junior Data Analyst,Delhi NCR,Associate,,"Communication, ETL, Pandas, Statistics, SQL, Power BI, Python",Pandas
+DEMO0044,Junior Data Analyst,Delhi NCR,Associate,,"Communication, ETL, Pandas, Statistics, SQL, Power BI, Python",Statistics
+DEMO0044,Junior Data Analyst,Delhi NCR,Associate,,"Communication, ETL, Pandas, Statistics, SQL, Power BI, Python",Sql
+DEMO0044,Junior Data Analyst,Delhi NCR,Associate,,"Communication, ETL, Pandas, Statistics, SQL, Power BI, Python",Power Bi
+DEMO0044,Junior Data Analyst,Delhi NCR,Associate,,"Communication, ETL, Pandas, Statistics, SQL, Power BI, Python",Python
+DEMO0045,BI Analyst,Kolkata,Associate,13.0,"SQL, Git, Power BI, Excel, Communication, Statistics, Machine Learning",Sql
+DEMO0045,BI Analyst,Kolkata,Associate,13.0,"SQL, Git, Power BI, Excel, Communication, Statistics, Machine Learning",Git
+DEMO0045,BI Analyst,Kolkata,Associate,13.0,"SQL, Git, Power BI, Excel, Communication, Statistics, Machine Learning",Power Bi
+DEMO0045,BI Analyst,Kolkata,Associate,13.0,"SQL, Git, Power BI, Excel, Communication, Statistics, Machine Learning",Excel
+DEMO0045,BI Analyst,Kolkata,Associate,13.0,"SQL, Git, Power BI, Excel, Communication, Statistics, Machine Learning",Communication
+DEMO0045,BI Analyst,Kolkata,Associate,13.0,"SQL, Git, Power BI, Excel, Communication, Statistics, Machine Learning",Statistics
+DEMO0045,BI Analyst,Kolkata,Associate,13.0,"SQL, Git, Power BI, Excel, Communication, Statistics, Machine Learning",Machine Learning
+DEMO0046,Product Analyst,Remote,Mid-level,,"Tableau, ETL, Communication, Statistics",Tableau
+DEMO0046,Product Analyst,Remote,Mid-level,,"Tableau, ETL, Communication, Statistics",Etl
+DEMO0046,Product Analyst,Remote,Mid-level,,"Tableau, ETL, Communication, Statistics",Communication
+DEMO0046,Product Analyst,Remote,Mid-level,,"Tableau, ETL, Communication, Statistics",Statistics
+DEMO0047,BI Analyst,Mumbai,Mid-level,,"Tableau, Power BI, Excel, ETL, Statistics",Tableau
+DEMO0047,BI Analyst,Mumbai,Mid-level,,"Tableau, Power BI, Excel, ETL, Statistics",Power Bi
+DEMO0047,BI Analyst,Mumbai,Mid-level,,"Tableau, Power BI, Excel, ETL, Statistics",Excel
+DEMO0047,BI Analyst,Mumbai,Mid-level,,"Tableau, Power BI, Excel, ETL, Statistics",Etl
+DEMO0047,BI Analyst,Mumbai,Mid-level,,"Tableau, Power BI, Excel, ETL, Statistics",Statistics
+DEMO0048,Reporting Analyst,Delhi NCR,Entry-level,,"Tableau, Excel, Power BI, A/B Testing, Communication, Python, ETL",Tableau
+DEMO0048,Reporting Analyst,Delhi NCR,Entry-level,,"Tableau, Excel, Power BI, A/B Testing, Communication, Python, ETL",Excel
+DEMO0048,Reporting Analyst,Delhi NCR,Entry-level,,"Tableau, Excel, Power BI, A/B Testing, Communication, Python, ETL",Power Bi
+DEMO0048,Reporting Analyst,Delhi NCR,Entry-level,,"Tableau, Excel, Power BI, A/B Testing, Communication, Python, ETL",A/B Testing
+DEMO0048,Reporting Analyst,Delhi NCR,Entry-level,,"Tableau, Excel, Power BI, A/B Testing, Communication, Python, ETL",Communication
+DEMO0048,Reporting Analyst,Delhi NCR,Entry-level,,"Tableau, Excel, Power BI, A/B Testing, Communication, Python, ETL",Python
+DEMO0048,Reporting Analyst,Delhi NCR,Entry-level,,"Tableau, Excel, Power BI, A/B Testing, Communication, Python, ETL",Etl
+DEMO0049,Business Analyst,Delhi NCR,Associate,,"Excel, SQL, Communication, Tableau, Machine Learning, Power BI",Excel
+DEMO0049,Business Analyst,Delhi NCR,Associate,,"Excel, SQL, Communication, Tableau, Machine Learning, Power BI",Sql
+DEMO0049,Business Analyst,Delhi NCR,Associate,,"Excel, SQL, Communication, Tableau, Machine Learning, Power BI",Communication
+DEMO0049,Business Analyst,Delhi NCR,Associate,,"Excel, SQL, Communication, Tableau, Machine Learning, Power BI",Tableau
+DEMO0049,Business Analyst,Delhi NCR,Associate,,"Excel, SQL, Communication, Tableau, Machine Learning, Power BI",Machine Learning
+DEMO0049,Business Analyst,Delhi NCR,Associate,,"Excel, SQL, Communication, Tableau, Machine Learning, Power BI",Power Bi
+DEMO0050,Data Analyst,Remote,Mid-level,,"ETL, A/B Testing, SQL, Python, Git, Pandas, Tableau",Etl
+DEMO0050,Data Analyst,Remote,Mid-level,,"ETL, A/B Testing, SQL, Python, Git, Pandas, Tableau",A/B Testing
+DEMO0050,Data Analyst,Remote,Mid-level,,"ETL, A/B Testing, SQL, Python, Git, Pandas, Tableau",Sql
+DEMO0050,Data Analyst,Remote,Mid-level,,"ETL, A/B Testing, SQL, Python, Git, Pandas, Tableau",Python
+DEMO0050,Data Analyst,Remote,Mid-level,,"ETL, A/B Testing, SQL, Python, Git, Pandas, Tableau",Git
+DEMO0050,Data Analyst,Remote,Mid-level,,"ETL, A/B Testing, SQL, Python, Git, Pandas, Tableau",Pandas
+DEMO0050,Data Analyst,Remote,Mid-level,,"ETL, A/B Testing, SQL, Python, Git, Pandas, Tableau",Tableau
+DEMO0051,Reporting Analyst,Mumbai,Associate,6.0,"Machine Learning, A/B Testing, Tableau, Pandas, Communication, ETL",Machine Learning
+DEMO0051,Reporting Analyst,Mumbai,Associate,6.0,"Machine Learning, A/B Testing, Tableau, Pandas, Communication, ETL",A/B Testing
+DEMO0051,Reporting Analyst,Mumbai,Associate,6.0,"Machine Learning, A/B Testing, Tableau, Pandas, Communication, ETL",Tableau
+DEMO0051,Reporting Analyst,Mumbai,Associate,6.0,"Machine Learning, A/B Testing, Tableau, Pandas, Communication, ETL",Pandas
+DEMO0051,Reporting Analyst,Mumbai,Associate,6.0,"Machine Learning, A/B Testing, Tableau, Pandas, Communication, ETL",Communication
+DEMO0051,Reporting Analyst,Mumbai,Associate,6.0,"Machine Learning, A/B Testing, Tableau, Pandas, Communication, ETL",Etl
+DEMO0052,Reporting Analyst,Bengaluru,Entry-level,,"Python, SQL, Pandas",Python
+DEMO0052,Reporting Analyst,Bengaluru,Entry-level,,"Python, SQL, Pandas",Sql
+DEMO0052,Reporting Analyst,Bengaluru,Entry-level,,"Python, SQL, Pandas",Pandas
+DEMO0053,Junior Data Analyst,Mumbai,Mid-level,,"ETL, Power BI, Tableau",Etl
+DEMO0053,Junior Data Analyst,Mumbai,Mid-level,,"ETL, Power BI, Tableau",Power Bi
+DEMO0053,Junior Data Analyst,Mumbai,Mid-level,,"ETL, Power BI, Tableau",Tableau
+DEMO0054,Data Analyst,Delhi NCR,Mid-level,,"Python, Tableau, Communication",Python
+DEMO0054,Data Analyst,Delhi NCR,Mid-level,,"Python, Tableau, Communication",Tableau
+DEMO0054,Data Analyst,Delhi NCR,Mid-level,,"Python, Tableau, Communication",Communication
+DEMO0055,Junior Data Analyst,Bengaluru,Mid-level,,"Excel, Communication, SQL, Pandas, Statistics, Tableau",Excel
+DEMO0055,Junior Data Analyst,Bengaluru,Mid-level,,"Excel, Communication, SQL, Pandas, Statistics, Tableau",Communication
+DEMO0055,Junior Data Analyst,Bengaluru,Mid-level,,"Excel, Communication, SQL, Pandas, Statistics, Tableau",Sql
+DEMO0055,Junior Data Analyst,Bengaluru,Mid-level,,"Excel, Communication, SQL, Pandas, Statistics, Tableau",Pandas
+DEMO0055,Junior Data Analyst,Bengaluru,Mid-level,,"Excel, Communication, SQL, Pandas, Statistics, Tableau",Statistics
+DEMO0055,Junior Data Analyst,Bengaluru,Mid-level,,"Excel, Communication, SQL, Pandas, Statistics, Tableau",Tableau
+DEMO0056,Business Analyst,Chennai,Associate,11.5,"Git, ETL, Machine Learning, Tableau, Python, A/B Testing",Git
+DEMO0056,Business Analyst,Chennai,Associate,11.5,"Git, ETL, Machine Learning, Tableau, Python, A/B Testing",Etl
+DEMO0056,Business Analyst,Chennai,Associate,11.5,"Git, ETL, Machine Learning, Tableau, Python, A/B Testing",Machine Learning
+DEMO0056,Business Analyst,Chennai,Associate,11.5,"Git, ETL, Machine Learning, Tableau, Python, A/B Testing",Tableau
+DEMO0056,Business Analyst,Chennai,Associate,11.5,"Git, ETL, Machine Learning, Tableau, Python, A/B Testing",Python
+DEMO0056,Business Analyst,Chennai,Associate,11.5,"Git, ETL, Machine Learning, Tableau, Python, A/B Testing",A/B Testing
+DEMO0057,Business Analyst,Chennai,Entry-level,,"Pandas, Machine Learning, Tableau, A/B Testing, SQL",Pandas
+DEMO0057,Business Analyst,Chennai,Entry-level,,"Pandas, Machine Learning, Tableau, A/B Testing, SQL",Machine Learning
+DEMO0057,Business Analyst,Chennai,Entry-level,,"Pandas, Machine Learning, Tableau, A/B Testing, SQL",Tableau
+DEMO0057,Business Analyst,Chennai,Entry-level,,"Pandas, Machine Learning, Tableau, A/B Testing, SQL",A/B Testing
+DEMO0057,Business Analyst,Chennai,Entry-level,,"Pandas, Machine Learning, Tableau, A/B Testing, SQL",Sql
+DEMO0058,Data Analyst,Pune,Associate,,"Machine Learning, Pandas, SQL, Power BI, Statistics, Tableau, Git",Machine Learning
+DEMO0058,Data Analyst,Pune,Associate,,"Machine Learning, Pandas, SQL, Power BI, Statistics, Tableau, Git",Pandas
+DEMO0058,Data Analyst,Pune,Associate,,"Machine Learning, Pandas, SQL, Power BI, Statistics, Tableau, Git",Sql
+DEMO0058,Data Analyst,Pune,Associate,,"Machine Learning, Pandas, SQL, Power BI, Statistics, Tableau, Git",Power Bi
+DEMO0058,Data Analyst,Pune,Associate,,"Machine Learning, Pandas, SQL, Power BI, Statistics, Tableau, Git",Statistics
+DEMO0058,Data Analyst,Pune,Associate,,"Machine Learning, Pandas, SQL, Power BI, Statistics, Tableau, Git",Tableau
+DEMO0058,Data Analyst,Pune,Associate,,"Machine Learning, Pandas, SQL, Power BI, Statistics, Tableau, Git",Git
+DEMO0059,Data Analyst,Hyderabad,Mid-level,,"Power BI, Python, Tableau, Git, SQL, Communication, A/B Testing",Power Bi
+DEMO0059,Data Analyst,Hyderabad,Mid-level,,"Power BI, Python, Tableau, Git, SQL, Communication, A/B Testing",Python
+DEMO0059,Data Analyst,Hyderabad,Mid-level,,"Power BI, Python, Tableau, Git, SQL, Communication, A/B Testing",Tableau
+DEMO0059,Data Analyst,Hyderabad,Mid-level,,"Power BI, Python, Tableau, Git, SQL, Communication, A/B Testing",Git
+DEMO0059,Data Analyst,Hyderabad,Mid-level,,"Power BI, Python, Tableau, Git, SQL, Communication, A/B Testing",Sql
+DEMO0059,Data Analyst,Hyderabad,Mid-level,,"Power BI, Python, Tableau, Git, SQL, Communication, A/B Testing",Communication
+DEMO0059,Data Analyst,Hyderabad,Mid-level,,"Power BI, Python, Tableau, Git, SQL, Communication, A/B Testing",A/B Testing
+DEMO0060,Reporting Analyst,Pune,Entry-level,,"Pandas, Machine Learning, ETL, Power BI, Communication",Pandas
+DEMO0060,Reporting Analyst,Pune,Entry-level,,"Pandas, Machine Learning, ETL, Power BI, Communication",Machine Learning
+DEMO0060,Reporting Analyst,Pune,Entry-level,,"Pandas, Machine Learning, ETL, Power BI, Communication",Etl
+DEMO0060,Reporting Analyst,Pune,Entry-level,,"Pandas, Machine Learning, ETL, Power BI, Communication",Power Bi
+DEMO0060,Reporting Analyst,Pune,Entry-level,,"Pandas, Machine Learning, ETL, Power BI, Communication",Communication
+DEMO0061,BI Analyst,Chennai,Mid-level,,"Tableau, SQL, A/B Testing, Communication, Machine Learning, Pandas, Excel",Tableau
+DEMO0061,BI Analyst,Chennai,Mid-level,,"Tableau, SQL, A/B Testing, Communication, Machine Learning, Pandas, Excel",Sql
+DEMO0061,BI Analyst,Chennai,Mid-level,,"Tableau, SQL, A/B Testing, Communication, Machine Learning, Pandas, Excel",A/B Testing
+DEMO0061,BI Analyst,Chennai,Mid-level,,"Tableau, SQL, A/B Testing, Communication, Machine Learning, Pandas, Excel",Communication
+DEMO0061,BI Analyst,Chennai,Mid-level,,"Tableau, SQL, A/B Testing, Communication, Machine Learning, Pandas, Excel",Machine Learning
+DEMO0061,BI Analyst,Chennai,Mid-level,,"Tableau, SQL, A/B Testing, Communication, Machine Learning, Pandas, Excel",Pandas
+DEMO0061,BI Analyst,Chennai,Mid-level,,"Tableau, SQL, A/B Testing, Communication, Machine Learning, Pandas, Excel",Excel
+DEMO0062,Business Analyst,Remote,Mid-level,,"Communication, Pandas, Power BI, ETL",Communication
+DEMO0062,Business Analyst,Remote,Mid-level,,"Communication, Pandas, Power BI, ETL",Pandas
+DEMO0062,Business Analyst,Remote,Mid-level,,"Communication, Pandas, Power BI, ETL",Power Bi
+DEMO0062,Business Analyst,Remote,Mid-level,,"Communication, Pandas, Power BI, ETL",Etl
+DEMO0063,Data Analyst,Bengaluru,Mid-level,,"Git, Communication, Statistics, Excel",Git
+DEMO0063,Data Analyst,Bengaluru,Mid-level,,"Git, Communication, Statistics, Excel",Communication
+DEMO0063,Data Analyst,Bengaluru,Mid-level,,"Git, Communication, Statistics, Excel",Statistics
+DEMO0063,Data Analyst,Bengaluru,Mid-level,,"Git, Communication, Statistics, Excel",Excel
+DEMO0064,Business Analyst,Remote,Associate,,"Machine Learning, Tableau, Statistics",Machine Learning
+DEMO0064,Business Analyst,Remote,Associate,,"Machine Learning, Tableau, Statistics",Tableau
+DEMO0064,Business Analyst,Remote,Associate,,"Machine Learning, Tableau, Statistics",Statistics
+DEMO0065,Reporting Analyst,Hyderabad,Mid-level,,"Communication, Excel, Power BI",Communication
+DEMO0065,Reporting Analyst,Hyderabad,Mid-level,,"Communication, Excel, Power BI",Excel
+DEMO0065,Reporting Analyst,Hyderabad,Mid-level,,"Communication, Excel, Power BI",Power Bi
+DEMO0066,Product Analyst,Mumbai,Mid-level,,"SQL, A/B Testing, Statistics, ETL, Tableau",Sql
+DEMO0066,Product Analyst,Mumbai,Mid-level,,"SQL, A/B Testing, Statistics, ETL, Tableau",A/B Testing
+DEMO0066,Product Analyst,Mumbai,Mid-level,,"SQL, A/B Testing, Statistics, ETL, Tableau",Statistics
+DEMO0066,Product Analyst,Mumbai,Mid-level,,"SQL, A/B Testing, Statistics, ETL, Tableau",Etl
+DEMO0066,Product Analyst,Mumbai,Mid-level,,"SQL, A/B Testing, Statistics, ETL, Tableau",Tableau
+DEMO0067,Business Analyst,Kolkata,Mid-level,,"Excel, Communication, Pandas, Power BI",Excel
+DEMO0067,Business Analyst,Kolkata,Mid-level,,"Excel, Communication, Pandas, Power BI",Communication
+DEMO0067,Business Analyst,Kolkata,Mid-level,,"Excel, Communication, Pandas, Power BI",Pandas
+DEMO0067,Business Analyst,Kolkata,Mid-level,,"Excel, Communication, Pandas, Power BI",Power Bi
+DEMO0068,Junior Data Analyst,Delhi NCR,Associate,11.0,"ETL, Git, Python, Excel, Machine Learning",Etl
+DEMO0068,Junior Data Analyst,Delhi NCR,Associate,11.0,"ETL, Git, Python, Excel, Machine Learning",Git
+DEMO0068,Junior Data Analyst,Delhi NCR,Associate,11.0,"ETL, Git, Python, Excel, Machine Learning",Python
+DEMO0068,Junior Data Analyst,Delhi NCR,Associate,11.0,"ETL, Git, Python, Excel, Machine Learning",Excel
+DEMO0068,Junior Data Analyst,Delhi NCR,Associate,11.0,"ETL, Git, Python, Excel, Machine Learning",Machine Learning
+DEMO0069,Junior Data Analyst,Bengaluru,Mid-level,,"Power BI, Pandas, Communication",Power Bi
+DEMO0069,Junior Data Analyst,Bengaluru,Mid-level,,"Power BI, Pandas, Communication",Pandas
+DEMO0069,Junior Data Analyst,Bengaluru,Mid-level,,"Power BI, Pandas, Communication",Communication
+DEMO0070,Product Analyst,Mumbai,Mid-level,,"Communication, Machine Learning, Tableau",Communication
+DEMO0070,Product Analyst,Mumbai,Mid-level,,"Communication, Machine Learning, Tableau",Machine Learning
+DEMO0070,Product Analyst,Mumbai,Mid-level,,"Communication, Machine Learning, Tableau",Tableau
+DEMO0071,Product Analyst,Pune,Entry-level,11.0,"ETL, Excel, SQL, Tableau",Etl
+DEMO0071,Product Analyst,Pune,Entry-level,11.0,"ETL, Excel, SQL, Tableau",Excel
+DEMO0071,Product Analyst,Pune,Entry-level,11.0,"ETL, Excel, SQL, Tableau",Sql
+DEMO0071,Product Analyst,Pune,Entry-level,11.0,"ETL, Excel, SQL, Tableau",Tableau
+DEMO0072,Business Analyst,Delhi NCR,Mid-level,,"Git, Statistics, A/B Testing, Communication",Git
+DEMO0072,Business Analyst,Delhi NCR,Mid-level,,"Git, Statistics, A/B Testing, Communication",Statistics
+DEMO0072,Business Analyst,Delhi NCR,Mid-level,,"Git, Statistics, A/B Testing, Communication",A/B Testing
+DEMO0072,Business Analyst,Delhi NCR,Mid-level,,"Git, Statistics, A/B Testing, Communication",Communication
+DEMO0073,Data Analyst,Delhi NCR,Mid-level,,"Power BI, ETL, Pandas, Git",Power Bi
+DEMO0073,Data Analyst,Delhi NCR,Mid-level,,"Power BI, ETL, Pandas, Git",Etl
+DEMO0073,Data Analyst,Delhi NCR,Mid-level,,"Power BI, ETL, Pandas, Git",Pandas
+DEMO0073,Data Analyst,Delhi NCR,Mid-level,,"Power BI, ETL, Pandas, Git",Git
+DEMO0074,Product Analyst,Chennai,Mid-level,,"Communication, Pandas, Statistics, Excel, Power BI",Communication
+DEMO0074,Product Analyst,Chennai,Mid-level,,"Communication, Pandas, Statistics, Excel, Power BI",Pandas
+DEMO0074,Product Analyst,Chennai,Mid-level,,"Communication, Pandas, Statistics, Excel, Power BI",Statistics
+DEMO0074,Product Analyst,Chennai,Mid-level,,"Communication, Pandas, Statistics, Excel, Power BI",Excel
+DEMO0074,Product Analyst,Chennai,Mid-level,,"Communication, Pandas, Statistics, Excel, Power BI",Power Bi
+DEMO0075,Junior Data Analyst,Hyderabad,Entry-level,5.0,"ETL, Pandas, Excel, Python, SQL",Etl
+DEMO0075,Junior Data Analyst,Hyderabad,Entry-level,5.0,"ETL, Pandas, Excel, Python, SQL",Pandas
+DEMO0075,Junior Data Analyst,Hyderabad,Entry-level,5.0,"ETL, Pandas, Excel, Python, SQL",Excel
+DEMO0075,Junior Data Analyst,Hyderabad,Entry-level,5.0,"ETL, Pandas, Excel, Python, SQL",Python
+DEMO0075,Junior Data Analyst,Hyderabad,Entry-level,5.0,"ETL, Pandas, Excel, Python, SQL",Sql
+DEMO0076,Product Analyst,Mumbai,Associate,,"Pandas, Communication, Python, A/B Testing, Excel, Git, Power BI",Pandas
+DEMO0076,Product Analyst,Mumbai,Associate,,"Pandas, Communication, Python, A/B Testing, Excel, Git, Power BI",Communication
+DEMO0076,Product Analyst,Mumbai,Associate,,"Pandas, Communication, Python, A/B Testing, Excel, Git, Power BI",Python
+DEMO0076,Product Analyst,Mumbai,Associate,,"Pandas, Communication, Python, A/B Testing, Excel, Git, Power BI",A/B Testing
+DEMO0076,Product Analyst,Mumbai,Associate,,"Pandas, Communication, Python, A/B Testing, Excel, Git, Power BI",Excel
+DEMO0076,Product Analyst,Mumbai,Associate,,"Pandas, Communication, Python, A/B Testing, Excel, Git, Power BI",Git
+DEMO0076,Product Analyst,Mumbai,Associate,,"Pandas, Communication, Python, A/B Testing, Excel, Git, Power BI",Power Bi
+DEMO0077,Data Analyst,Hyderabad,Mid-level,,"Git, ETL, Statistics, SQL, Pandas",Git
+DEMO0077,Data Analyst,Hyderabad,Mid-level,,"Git, ETL, Statistics, SQL, Pandas",Etl
+DEMO0077,Data Analyst,Hyderabad,Mid-level,,"Git, ETL, Statistics, SQL, Pandas",Statistics
+DEMO0077,Data Analyst,Hyderabad,Mid-level,,"Git, ETL, Statistics, SQL, Pandas",Sql
+DEMO0077,Data Analyst,Hyderabad,Mid-level,,"Git, ETL, Statistics, SQL, Pandas",Pandas
+DEMO0078,Data Analyst,Mumbai,Entry-level,,"Statistics, Power BI, Python",Statistics
+DEMO0078,Data Analyst,Mumbai,Entry-level,,"Statistics, Power BI, Python",Power Bi
+DEMO0078,Data Analyst,Mumbai,Entry-level,,"Statistics, Power BI, Python",Python
+DEMO0079,Reporting Analyst,Pune,Entry-level,,"Tableau, Python, ETL",Tableau
+DEMO0079,Reporting Analyst,Pune,Entry-level,,"Tableau, Python, ETL",Python
+DEMO0079,Reporting Analyst,Pune,Entry-level,,"Tableau, Python, ETL",Etl
+DEMO0080,BI Analyst,Hyderabad,Associate,,"Python, Tableau, SQL",Python
+DEMO0080,BI Analyst,Hyderabad,Associate,,"Python, Tableau, SQL",Tableau
+DEMO0080,BI Analyst,Hyderabad,Associate,,"Python, Tableau, SQL",Sql
+DEMO0081,Data Analyst,Remote,Mid-level,,"Git, Power BI, Communication, SQL, Tableau, ETL",Git
+DEMO0081,Data Analyst,Remote,Mid-level,,"Git, Power BI, Communication, SQL, Tableau, ETL",Power Bi
+DEMO0081,Data Analyst,Remote,Mid-level,,"Git, Power BI, Communication, SQL, Tableau, ETL",Communication
+DEMO0081,Data Analyst,Remote,Mid-level,,"Git, Power BI, Communication, SQL, Tableau, ETL",Sql
+DEMO0081,Data Analyst,Remote,Mid-level,,"Git, Power BI, Communication, SQL, Tableau, ETL",Tableau
+DEMO0081,Data Analyst,Remote,Mid-level,,"Git, Power BI, Communication, SQL, Tableau, ETL",Etl
+DEMO0082,Data Analyst,Chennai,Associate,5.5,"Statistics, Communication, Python",Statistics
+DEMO0082,Data Analyst,Chennai,Associate,5.5,"Statistics, Communication, Python",Communication
+DEMO0082,Data Analyst,Chennai,Associate,5.5,"Statistics, Communication, Python",Python
+DEMO0083,Reporting Analyst,Remote,Associate,8.5,"Excel, A/B Testing, Git, Power BI, Pandas, Communication",Excel
+DEMO0083,Reporting Analyst,Remote,Associate,8.5,"Excel, A/B Testing, Git, Power BI, Pandas, Communication",A/B Testing
+DEMO0083,Reporting Analyst,Remote,Associate,8.5,"Excel, A/B Testing, Git, Power BI, Pandas, Communication",Git
+DEMO0083,Reporting Analyst,Remote,Associate,8.5,"Excel, A/B Testing, Git, Power BI, Pandas, Communication",Power Bi
+DEMO0083,Reporting Analyst,Remote,Associate,8.5,"Excel, A/B Testing, Git, Power BI, Pandas, Communication",Pandas
+DEMO0083,Reporting Analyst,Remote,Associate,8.5,"Excel, A/B Testing, Git, Power BI, Pandas, Communication",Communication
+DEMO0084,Product Analyst,Chennai,Entry-level,,"Statistics, Python, Machine Learning, Excel, Git",Statistics
+DEMO0084,Product Analyst,Chennai,Entry-level,,"Statistics, Python, Machine Learning, Excel, Git",Python
+DEMO0084,Product Analyst,Chennai,Entry-level,,"Statistics, Python, Machine Learning, Excel, Git",Machine Learning
+DEMO0084,Product Analyst,Chennai,Entry-level,,"Statistics, Python, Machine Learning, Excel, Git",Excel
+DEMO0084,Product Analyst,Chennai,Entry-level,,"Statistics, Python, Machine Learning, Excel, Git",Git
+DEMO0085,Reporting Analyst,Chennai,Entry-level,5.0,"ETL, Excel, Pandas, Statistics, Communication",Etl
+DEMO0085,Reporting Analyst,Chennai,Entry-level,5.0,"ETL, Excel, Pandas, Statistics, Communication",Excel
+DEMO0085,Reporting Analyst,Chennai,Entry-level,5.0,"ETL, Excel, Pandas, Statistics, Communication",Pandas
+DEMO0085,Reporting Analyst,Chennai,Entry-level,5.0,"ETL, Excel, Pandas, Statistics, Communication",Statistics
+DEMO0085,Reporting Analyst,Chennai,Entry-level,5.0,"ETL, Excel, Pandas, Statistics, Communication",Communication
+DEMO0086,Junior Data Analyst,Remote,Mid-level,,"Excel, Statistics, Git, ETL",Excel
+DEMO0086,Junior Data Analyst,Remote,Mid-level,,"Excel, Statistics, Git, ETL",Statistics
+DEMO0086,Junior Data Analyst,Remote,Mid-level,,"Excel, Statistics, Git, ETL",Git
+DEMO0086,Junior Data Analyst,Remote,Mid-level,,"Excel, Statistics, Git, ETL",Etl
+DEMO0087,Data Analyst,Pune,Mid-level,10.0,"ETL, Tableau, SQL, Python, A/B Testing, Statistics, Git",Etl
+DEMO0087,Data Analyst,Pune,Mid-level,10.0,"ETL, Tableau, SQL, Python, A/B Testing, Statistics, Git",Tableau
+DEMO0087,Data Analyst,Pune,Mid-level,10.0,"ETL, Tableau, SQL, Python, A/B Testing, Statistics, Git",Sql
+DEMO0087,Data Analyst,Pune,Mid-level,10.0,"ETL, Tableau, SQL, Python, A/B Testing, Statistics, Git",Python
+DEMO0087,Data Analyst,Pune,Mid-level,10.0,"ETL, Tableau, SQL, Python, A/B Testing, Statistics, Git",A/B Testing
+DEMO0087,Data Analyst,Pune,Mid-level,10.0,"ETL, Tableau, SQL, Python, A/B Testing, Statistics, Git",Statistics
+DEMO0087,Data Analyst,Pune,Mid-level,10.0,"ETL, Tableau, SQL, Python, A/B Testing, Statistics, Git",Git
+DEMO0088,Product Analyst,Pune,Associate,,"Excel, Git, Power BI",Excel
+DEMO0088,Product Analyst,Pune,Associate,,"Excel, Git, Power BI",Git
+DEMO0088,Product Analyst,Pune,Associate,,"Excel, Git, Power BI",Power Bi
+DEMO0089,Reporting Analyst,Kolkata,Associate,9.5,"Excel, SQL, Python, Communication, ETL, Statistics, Machine Learning",Excel
+DEMO0089,Reporting Analyst,Kolkata,Associate,9.5,"Excel, SQL, Python, Communication, ETL, Statistics, Machine Learning",Sql
+DEMO0089,Reporting Analyst,Kolkata,Associate,9.5,"Excel, SQL, Python, Communication, ETL, Statistics, Machine Learning",Python
+DEMO0089,Reporting Analyst,Kolkata,Associate,9.5,"Excel, SQL, Python, Communication, ETL, Statistics, Machine Learning",Communication
+DEMO0089,Reporting Analyst,Kolkata,Associate,9.5,"Excel, SQL, Python, Communication, ETL, Statistics, Machine Learning",Etl
+DEMO0089,Reporting Analyst,Kolkata,Associate,9.5,"Excel, SQL, Python, Communication, ETL, Statistics, Machine Learning",Statistics
+DEMO0089,Reporting Analyst,Kolkata,Associate,9.5,"Excel, SQL, Python, Communication, ETL, Statistics, Machine Learning",Machine Learning
+DEMO0090,BI Analyst,Bengaluru,Entry-level,,"Excel, Tableau, Communication, Machine Learning, ETL, SQL",Excel
+DEMO0090,BI Analyst,Bengaluru,Entry-level,,"Excel, Tableau, Communication, Machine Learning, ETL, SQL",Tableau
+DEMO0090,BI Analyst,Bengaluru,Entry-level,,"Excel, Tableau, Communication, Machine Learning, ETL, SQL",Communication
+DEMO0090,BI Analyst,Bengaluru,Entry-level,,"Excel, Tableau, Communication, Machine Learning, ETL, SQL",Machine Learning
+DEMO0090,BI Analyst,Bengaluru,Entry-level,,"Excel, Tableau, Communication, Machine Learning, ETL, SQL",Etl
+DEMO0090,BI Analyst,Bengaluru,Entry-level,,"Excel, Tableau, Communication, Machine Learning, ETL, SQL",Sql
+DEMO0091,BI Analyst,Mumbai,Mid-level,,"Statistics, Excel, SQL, Machine Learning, Pandas",Statistics
+DEMO0091,BI Analyst,Mumbai,Mid-level,,"Statistics, Excel, SQL, Machine Learning, Pandas",Excel
+DEMO0091,BI Analyst,Mumbai,Mid-level,,"Statistics, Excel, SQL, Machine Learning, Pandas",Sql
+DEMO0091,BI Analyst,Mumbai,Mid-level,,"Statistics, Excel, SQL, Machine Learning, Pandas",Machine Learning
+DEMO0091,BI Analyst,Mumbai,Mid-level,,"Statistics, Excel, SQL, Machine Learning, Pandas",Pandas
+DEMO0092,Data Analyst,Remote,Mid-level,11.0,"A/B Testing, SQL, Pandas, ETL, Machine Learning, Git",A/B Testing
+DEMO0092,Data Analyst,Remote,Mid-level,11.0,"A/B Testing, SQL, Pandas, ETL, Machine Learning, Git",Sql
+DEMO0092,Data Analyst,Remote,Mid-level,11.0,"A/B Testing, SQL, Pandas, ETL, Machine Learning, Git",Pandas
+DEMO0092,Data Analyst,Remote,Mid-level,11.0,"A/B Testing, SQL, Pandas, ETL, Machine Learning, Git",Etl
+DEMO0092,Data Analyst,Remote,Mid-level,11.0,"A/B Testing, SQL, Pandas, ETL, Machine Learning, Git",Machine Learning
+DEMO0092,Data Analyst,Remote,Mid-level,11.0,"A/B Testing, SQL, Pandas, ETL, Machine Learning, Git",Git
+DEMO0093,Data Analyst,Remote,Mid-level,10.0,"Python, Communication, Machine Learning, Statistics, Excel",Python
+DEMO0093,Data Analyst,Remote,Mid-level,10.0,"Python, Communication, Machine Learning, Statistics, Excel",Communication
+DEMO0093,Data Analyst,Remote,Mid-level,10.0,"Python, Communication, Machine Learning, Statistics, Excel",Machine Learning
+DEMO0093,Data Analyst,Remote,Mid-level,10.0,"Python, Communication, Machine Learning, Statistics, Excel",Statistics
+DEMO0093,Data Analyst,Remote,Mid-level,10.0,"Python, Communication, Machine Learning, Statistics, Excel",Excel
+DEMO0094,BI Analyst,Chennai,Associate,,"Statistics, Python, Excel, Git",Statistics
+DEMO0094,BI Analyst,Chennai,Associate,,"Statistics, Python, Excel, Git",Python
+DEMO0094,BI Analyst,Chennai,Associate,,"Statistics, Python, Excel, Git",Excel
+DEMO0094,BI Analyst,Chennai,Associate,,"Statistics, Python, Excel, Git",Git
+DEMO0095,Business Analyst,Pune,Mid-level,,"Excel, Python, Tableau, Power BI",Excel
+DEMO0095,Business Analyst,Pune,Mid-level,,"Excel, Python, Tableau, Power BI",Python
+DEMO0095,Business Analyst,Pune,Mid-level,,"Excel, Python, Tableau, Power BI",Tableau
+DEMO0095,Business Analyst,Pune,Mid-level,,"Excel, Python, Tableau, Power BI",Power Bi
+DEMO0096,Reporting Analyst,Delhi NCR,Associate,11.0,"ETL, Communication, A/B Testing, Statistics, Git, Excel",Etl
+DEMO0096,Reporting Analyst,Delhi NCR,Associate,11.0,"ETL, Communication, A/B Testing, Statistics, Git, Excel",Communication
+DEMO0096,Reporting Analyst,Delhi NCR,Associate,11.0,"ETL, Communication, A/B Testing, Statistics, Git, Excel",A/B Testing
+DEMO0096,Reporting Analyst,Delhi NCR,Associate,11.0,"ETL, Communication, A/B Testing, Statistics, Git, Excel",Statistics
+DEMO0096,Reporting Analyst,Delhi NCR,Associate,11.0,"ETL, Communication, A/B Testing, Statistics, Git, Excel",Git
+DEMO0096,Reporting Analyst,Delhi NCR,Associate,11.0,"ETL, Communication, A/B Testing, Statistics, Git, Excel",Excel
+DEMO0097,BI Analyst,Remote,Associate,,"Machine Learning, SQL, ETL, Statistics, Tableau, Communication",Machine Learning
+DEMO0097,BI Analyst,Remote,Associate,,"Machine Learning, SQL, ETL, Statistics, Tableau, Communication",Sql
+DEMO0097,BI Analyst,Remote,Associate,,"Machine Learning, SQL, ETL, Statistics, Tableau, Communication",Etl
+DEMO0097,BI Analyst,Remote,Associate,,"Machine Learning, SQL, ETL, Statistics, Tableau, Communication",Statistics
+DEMO0097,BI Analyst,Remote,Associate,,"Machine Learning, SQL, ETL, Statistics, Tableau, Communication",Tableau
+DEMO0097,BI Analyst,Remote,Associate,,"Machine Learning, SQL, ETL, Statistics, Tableau, Communication",Communication
+DEMO0098,Data Analyst,Chennai,Mid-level,6.0,"Communication, ETL, Power BI, Statistics, Machine Learning, Tableau",Communication
+DEMO0098,Data Analyst,Chennai,Mid-level,6.0,"Communication, ETL, Power BI, Statistics, Machine Learning, Tableau",Etl
+DEMO0098,Data Analyst,Chennai,Mid-level,6.0,"Communication, ETL, Power BI, Statistics, Machine Learning, Tableau",Power Bi
+DEMO0098,Data Analyst,Chennai,Mid-level,6.0,"Communication, ETL, Power BI, Statistics, Machine Learning, Tableau",Statistics
+DEMO0098,Data Analyst,Chennai,Mid-level,6.0,"Communication, ETL, Power BI, Statistics, Machine Learning, Tableau",Machine Learning
+DEMO0098,Data Analyst,Chennai,Mid-level,6.0,"Communication, ETL, Power BI, Statistics, Machine Learning, Tableau",Tableau
+DEMO0099,Business Analyst,Bengaluru,Mid-level,9.5,"Machine Learning, Git, ETL, Python, Statistics, Communication",Machine Learning
+DEMO0099,Business Analyst,Bengaluru,Mid-level,9.5,"Machine Learning, Git, ETL, Python, Statistics, Communication",Git
+DEMO0099,Business Analyst,Bengaluru,Mid-level,9.5,"Machine Learning, Git, ETL, Python, Statistics, Communication",Etl
+DEMO0099,Business Analyst,Bengaluru,Mid-level,9.5,"Machine Learning, Git, ETL, Python, Statistics, Communication",Python
+DEMO0099,Business Analyst,Bengaluru,Mid-level,9.5,"Machine Learning, Git, ETL, Python, Statistics, Communication",Statistics
+DEMO0099,Business Analyst,Bengaluru,Mid-level,9.5,"Machine Learning, Git, ETL, Python, Statistics, Communication",Communication
+DEMO0100,Reporting Analyst,Pune,Mid-level,,"Tableau, A/B Testing, Communication, Python, Statistics, SQL",Tableau
+DEMO0100,Reporting Analyst,Pune,Mid-level,,"Tableau, A/B Testing, Communication, Python, Statistics, SQL",A/B Testing
+DEMO0100,Reporting Analyst,Pune,Mid-level,,"Tableau, A/B Testing, Communication, Python, Statistics, SQL",Communication
+DEMO0100,Reporting Analyst,Pune,Mid-level,,"Tableau, A/B Testing, Communication, Python, Statistics, SQL",Python
+DEMO0100,Reporting Analyst,Pune,Mid-level,,"Tableau, A/B Testing, Communication, Python, Statistics, SQL",Statistics
+DEMO0100,Reporting Analyst,Pune,Mid-level,,"Tableau, A/B Testing, Communication, Python, Statistics, SQL",Sql
+DEMO0101,Junior Data Analyst,Pune,Entry-level,,"Python, ETL, Git, Excel, Pandas",Python
+DEMO0101,Junior Data Analyst,Pune,Entry-level,,"Python, ETL, Git, Excel, Pandas",Etl
+DEMO0101,Junior Data Analyst,Pune,Entry-level,,"Python, ETL, Git, Excel, Pandas",Git
+DEMO0101,Junior Data Analyst,Pune,Entry-level,,"Python, ETL, Git, Excel, Pandas",Excel
+DEMO0101,Junior Data Analyst,Pune,Entry-level,,"Python, ETL, Git, Excel, Pandas",Pandas
+DEMO0102,Business Analyst,Remote,Entry-level,,"Python, Excel, Tableau, ETL",Python
+DEMO0102,Business Analyst,Remote,Entry-level,,"Python, Excel, Tableau, ETL",Excel
+DEMO0102,Business Analyst,Remote,Entry-level,,"Python, Excel, Tableau, ETL",Tableau
+DEMO0102,Business Analyst,Remote,Entry-level,,"Python, Excel, Tableau, ETL",Etl
+DEMO0103,Reporting Analyst,Delhi NCR,Mid-level,9.5,"A/B Testing, Machine Learning, SQL, Pandas",A/B Testing
+DEMO0103,Reporting Analyst,Delhi NCR,Mid-level,9.5,"A/B Testing, Machine Learning, SQL, Pandas",Machine Learning
+DEMO0103,Reporting Analyst,Delhi NCR,Mid-level,9.5,"A/B Testing, Machine Learning, SQL, Pandas",Sql
+DEMO0103,Reporting Analyst,Delhi NCR,Mid-level,9.5,"A/B Testing, Machine Learning, SQL, Pandas",Pandas
+DEMO0104,Junior Data Analyst,Remote,Entry-level,,"Statistics, ETL, Communication, Machine Learning",Statistics
+DEMO0104,Junior Data Analyst,Remote,Entry-level,,"Statistics, ETL, Communication, Machine Learning",Etl
+DEMO0104,Junior Data Analyst,Remote,Entry-level,,"Statistics, ETL, Communication, Machine Learning",Communication
+DEMO0104,Junior Data Analyst,Remote,Entry-level,,"Statistics, ETL, Communication, Machine Learning",Machine Learning
+DEMO0105,BI Analyst,Hyderabad,Entry-level,7.0,"ETL, Machine Learning, Statistics",Etl
+DEMO0105,BI Analyst,Hyderabad,Entry-level,7.0,"ETL, Machine Learning, Statistics",Machine Learning
+DEMO0105,BI Analyst,Hyderabad,Entry-level,7.0,"ETL, Machine Learning, Statistics",Statistics
+DEMO0106,Junior Data Analyst,Chennai,Entry-level,,"Power BI, Machine Learning, Statistics",Power Bi
+DEMO0106,Junior Data Analyst,Chennai,Entry-level,,"Power BI, Machine Learning, Statistics",Machine Learning
+DEMO0106,Junior Data Analyst,Chennai,Entry-level,,"Power BI, Machine Learning, Statistics",Statistics
+DEMO0107,Data Analyst,Kolkata,Associate,5.0,"Excel, ETL, Statistics, Python, Git",Excel
+DEMO0107,Data Analyst,Kolkata,Associate,5.0,"Excel, ETL, Statistics, Python, Git",Etl
+DEMO0107,Data Analyst,Kolkata,Associate,5.0,"Excel, ETL, Statistics, Python, Git",Statistics
+DEMO0107,Data Analyst,Kolkata,Associate,5.0,"Excel, ETL, Statistics, Python, Git",Python
+DEMO0107,Data Analyst,Kolkata,Associate,5.0,"Excel, ETL, Statistics, Python, Git",Git
+DEMO0108,BI Analyst,Delhi NCR,Entry-level,,"Python, Git, Communication, ETL",Python
+DEMO0108,BI Analyst,Delhi NCR,Entry-level,,"Python, Git, Communication, ETL",Git
+DEMO0108,BI Analyst,Delhi NCR,Entry-level,,"Python, Git, Communication, ETL",Communication
+DEMO0108,BI Analyst,Delhi NCR,Entry-level,,"Python, Git, Communication, ETL",Etl
+DEMO0109,Reporting Analyst,Bengaluru,Mid-level,7.5,"Excel, A/B Testing, Machine Learning, Git, SQL, Statistics",Excel
+DEMO0109,Reporting Analyst,Bengaluru,Mid-level,7.5,"Excel, A/B Testing, Machine Learning, Git, SQL, Statistics",A/B Testing
+DEMO0109,Reporting Analyst,Bengaluru,Mid-level,7.5,"Excel, A/B Testing, Machine Learning, Git, SQL, Statistics",Machine Learning
+DEMO0109,Reporting Analyst,Bengaluru,Mid-level,7.5,"Excel, A/B Testing, Machine Learning, Git, SQL, Statistics",Git
+DEMO0109,Reporting Analyst,Bengaluru,Mid-level,7.5,"Excel, A/B Testing, Machine Learning, Git, SQL, Statistics",Sql
+DEMO0109,Reporting Analyst,Bengaluru,Mid-level,7.5,"Excel, A/B Testing, Machine Learning, Git, SQL, Statistics",Statistics
+DEMO0110,Product Analyst,Remote,Associate,,"Git, Statistics, Excel",Git
+DEMO0110,Product Analyst,Remote,Associate,,"Git, Statistics, Excel",Statistics
+DEMO0110,Product Analyst,Remote,Associate,,"Git, Statistics, Excel",Excel
+DEMO0111,Data Analyst,Pune,Mid-level,,"Power BI, ETL, Excel, Statistics, Python",Power Bi
+DEMO0111,Data Analyst,Pune,Mid-level,,"Power BI, ETL, Excel, Statistics, Python",Etl
+DEMO0111,Data Analyst,Pune,Mid-level,,"Power BI, ETL, Excel, Statistics, Python",Excel
+DEMO0111,Data Analyst,Pune,Mid-level,,"Power BI, ETL, Excel, Statistics, Python",Statistics
+DEMO0111,Data Analyst,Pune,Mid-level,,"Power BI, ETL, Excel, Statistics, Python",Python
+DEMO0112,Business Analyst,Chennai,Associate,,"Excel, Machine Learning, SQL, Tableau",Excel
+DEMO0112,Business Analyst,Chennai,Associate,,"Excel, Machine Learning, SQL, Tableau",Machine Learning
+DEMO0112,Business Analyst,Chennai,Associate,,"Excel, Machine Learning, SQL, Tableau",Sql
+DEMO0112,Business Analyst,Chennai,Associate,,"Excel, Machine Learning, SQL, Tableau",Tableau
+DEMO0113,Junior Data Analyst,Chennai,Associate,,"SQL, ETL, Power BI, Tableau, Statistics",Sql
+DEMO0113,Junior Data Analyst,Chennai,Associate,,"SQL, ETL, Power BI, Tableau, Statistics",Etl
+DEMO0113,Junior Data Analyst,Chennai,Associate,,"SQL, ETL, Power BI, Tableau, Statistics",Power Bi
+DEMO0113,Junior Data Analyst,Chennai,Associate,,"SQL, ETL, Power BI, Tableau, Statistics",Tableau
+DEMO0113,Junior Data Analyst,Chennai,Associate,,"SQL, ETL, Power BI, Tableau, Statistics",Statistics
+DEMO0114,Junior Data Analyst,Pune,Mid-level,6.5,"Python, Machine Learning, ETL, Statistics, Tableau",Python
+DEMO0114,Junior Data Analyst,Pune,Mid-level,6.5,"Python, Machine Learning, ETL, Statistics, Tableau",Machine Learning
+DEMO0114,Junior Data Analyst,Pune,Mid-level,6.5,"Python, Machine Learning, ETL, Statistics, Tableau",Etl
+DEMO0114,Junior Data Analyst,Pune,Mid-level,6.5,"Python, Machine Learning, ETL, Statistics, Tableau",Statistics
+DEMO0114,Junior Data Analyst,Pune,Mid-level,6.5,"Python, Machine Learning, ETL, Statistics, Tableau",Tableau
+DEMO0115,Product Analyst,Chennai,Mid-level,,"Tableau, Machine Learning, Communication, Pandas, Python",Tableau
+DEMO0115,Product Analyst,Chennai,Mid-level,,"Tableau, Machine Learning, Communication, Pandas, Python",Machine Learning
+DEMO0115,Product Analyst,Chennai,Mid-level,,"Tableau, Machine Learning, Communication, Pandas, Python",Communication
+DEMO0115,Product Analyst,Chennai,Mid-level,,"Tableau, Machine Learning, Communication, Pandas, Python",Pandas
+DEMO0115,Product Analyst,Chennai,Mid-level,,"Tableau, Machine Learning, Communication, Pandas, Python",Python
+DEMO0116,Data Analyst,Pune,Mid-level,,"ETL, A/B Testing, Pandas",Etl
+DEMO0116,Data Analyst,Pune,Mid-level,,"ETL, A/B Testing, Pandas",A/B Testing
+DEMO0116,Data Analyst,Pune,Mid-level,,"ETL, A/B Testing, Pandas",Pandas
+DEMO0117,Data Analyst,Chennai,Associate,,"ETL, Statistics, A/B Testing, Pandas",Etl
+DEMO0117,Data Analyst,Chennai,Associate,,"ETL, Statistics, A/B Testing, Pandas",Statistics
+DEMO0117,Data Analyst,Chennai,Associate,,"ETL, Statistics, A/B Testing, Pandas",A/B Testing
+DEMO0117,Data Analyst,Chennai,Associate,,"ETL, Statistics, A/B Testing, Pandas",Pandas
+DEMO0118,Reporting Analyst,Remote,Mid-level,4.5,"Pandas, Statistics, Tableau, Power BI, Excel",Pandas
+DEMO0118,Reporting Analyst,Remote,Mid-level,4.5,"Pandas, Statistics, Tableau, Power BI, Excel",Statistics
+DEMO0118,Reporting Analyst,Remote,Mid-level,4.5,"Pandas, Statistics, Tableau, Power BI, Excel",Tableau
+DEMO0118,Reporting Analyst,Remote,Mid-level,4.5,"Pandas, Statistics, Tableau, Power BI, Excel",Power Bi
+DEMO0118,Reporting Analyst,Remote,Mid-level,4.5,"Pandas, Statistics, Tableau, Power BI, Excel",Excel
+DEMO0119,Junior Data Analyst,Pune,Mid-level,,"Communication, Tableau, Machine Learning, Power BI",Communication
+DEMO0119,Junior Data Analyst,Pune,Mid-level,,"Communication, Tableau, Machine Learning, Power BI",Tableau
+DEMO0119,Junior Data Analyst,Pune,Mid-level,,"Communication, Tableau, Machine Learning, Power BI",Machine Learning
+DEMO0119,Junior Data Analyst,Pune,Mid-level,,"Communication, Tableau, Machine Learning, Power BI",Power Bi
+DEMO0120,BI Analyst,Mumbai,Entry-level,,"A/B Testing, Excel, Git, Communication, Tableau",A/B Testing
+DEMO0120,BI Analyst,Mumbai,Entry-level,,"A/B Testing, Excel, Git, Communication, Tableau",Excel
+DEMO0120,BI Analyst,Mumbai,Entry-level,,"A/B Testing, Excel, Git, Communication, Tableau",Git
+DEMO0120,BI Analyst,Mumbai,Entry-level,,"A/B Testing, Excel, Git, Communication, Tableau",Communication
+DEMO0120,BI Analyst,Mumbai,Entry-level,,"A/B Testing, Excel, Git, Communication, Tableau",Tableau
+DEMO0121,Junior Data Analyst,Hyderabad,Entry-level,,"Statistics, Git, Communication",Statistics
+DEMO0121,Junior Data Analyst,Hyderabad,Entry-level,,"Statistics, Git, Communication",Git
+DEMO0121,Junior Data Analyst,Hyderabad,Entry-level,,"Statistics, Git, Communication",Communication
+DEMO0122,Junior Data Analyst,Chennai,Entry-level,,"Pandas, A/B Testing, Communication, Excel, Python, Machine Learning, Statistics",Pandas
+DEMO0122,Junior Data Analyst,Chennai,Entry-level,,"Pandas, A/B Testing, Communication, Excel, Python, Machine Learning, Statistics",A/B Testing
+DEMO0122,Junior Data Analyst,Chennai,Entry-level,,"Pandas, A/B Testing, Communication, Excel, Python, Machine Learning, Statistics",Communication
+DEMO0122,Junior Data Analyst,Chennai,Entry-level,,"Pandas, A/B Testing, Communication, Excel, Python, Machine Learning, Statistics",Excel
+DEMO0122,Junior Data Analyst,Chennai,Entry-level,,"Pandas, A/B Testing, Communication, Excel, Python, Machine Learning, Statistics",Python
+DEMO0122,Junior Data Analyst,Chennai,Entry-level,,"Pandas, A/B Testing, Communication, Excel, Python, Machine Learning, Statistics",Machine Learning
+DEMO0122,Junior Data Analyst,Chennai,Entry-level,,"Pandas, A/B Testing, Communication, Excel, Python, Machine Learning, Statistics",Statistics
+DEMO0123,Business Analyst,Chennai,Mid-level,,"Git, SQL, Excel, A/B Testing, Python, Machine Learning",Git
+DEMO0123,Business Analyst,Chennai,Mid-level,,"Git, SQL, Excel, A/B Testing, Python, Machine Learning",Sql
+DEMO0123,Business Analyst,Chennai,Mid-level,,"Git, SQL, Excel, A/B Testing, Python, Machine Learning",Excel
+DEMO0123,Business Analyst,Chennai,Mid-level,,"Git, SQL, Excel, A/B Testing, Python, Machine Learning",A/B Testing
+DEMO0123,Business Analyst,Chennai,Mid-level,,"Git, SQL, Excel, A/B Testing, Python, Machine Learning",Python
+DEMO0123,Business Analyst,Chennai,Mid-level,,"Git, SQL, Excel, A/B Testing, Python, Machine Learning",Machine Learning
+DEMO0124,Product Analyst,Pune,Mid-level,,"Tableau, Python, A/B Testing, Git, Excel, Communication, Statistics",Tableau
+DEMO0124,Product Analyst,Pune,Mid-level,,"Tableau, Python, A/B Testing, Git, Excel, Communication, Statistics",Python
+DEMO0124,Product Analyst,Pune,Mid-level,,"Tableau, Python, A/B Testing, Git, Excel, Communication, Statistics",A/B Testing
+DEMO0124,Product Analyst,Pune,Mid-level,,"Tableau, Python, A/B Testing, Git, Excel, Communication, Statistics",Git
+DEMO0124,Product Analyst,Pune,Mid-level,,"Tableau, Python, A/B Testing, Git, Excel, Communication, Statistics",Excel
+DEMO0124,Product Analyst,Pune,Mid-level,,"Tableau, Python, A/B Testing, Git, Excel, Communication, Statistics",Communication
+DEMO0124,Product Analyst,Pune,Mid-level,,"Tableau, Python, A/B Testing, Git, Excel, Communication, Statistics",Statistics
+DEMO0125,Reporting Analyst,Bengaluru,Associate,,"SQL, Excel, A/B Testing",Sql
+DEMO0125,Reporting Analyst,Bengaluru,Associate,,"SQL, Excel, A/B Testing",Excel
+DEMO0125,Reporting Analyst,Bengaluru,Associate,,"SQL, Excel, A/B Testing",A/B Testing
+DEMO0126,BI Analyst,Kolkata,Associate,4.5,"Power BI, ETL, Pandas, Tableau, Machine Learning, SQL",Power Bi
+DEMO0126,BI Analyst,Kolkata,Associate,4.5,"Power BI, ETL, Pandas, Tableau, Machine Learning, SQL",Etl
+DEMO0126,BI Analyst,Kolkata,Associate,4.5,"Power BI, ETL, Pandas, Tableau, Machine Learning, SQL",Pandas
+DEMO0126,BI Analyst,Kolkata,Associate,4.5,"Power BI, ETL, Pandas, Tableau, Machine Learning, SQL",Tableau
+DEMO0126,BI Analyst,Kolkata,Associate,4.5,"Power BI, ETL, Pandas, Tableau, Machine Learning, SQL",Machine Learning
+DEMO0126,BI Analyst,Kolkata,Associate,4.5,"Power BI, ETL, Pandas, Tableau, Machine Learning, SQL",Sql
+DEMO0127,Product Analyst,Hyderabad,Associate,6.0,"A/B Testing, Statistics, Pandas, Python, ETL",A/B Testing
+DEMO0127,Product Analyst,Hyderabad,Associate,6.0,"A/B Testing, Statistics, Pandas, Python, ETL",Statistics
+DEMO0127,Product Analyst,Hyderabad,Associate,6.0,"A/B Testing, Statistics, Pandas, Python, ETL",Pandas
+DEMO0127,Product Analyst,Hyderabad,Associate,6.0,"A/B Testing, Statistics, Pandas, Python, ETL",Python
+DEMO0127,Product Analyst,Hyderabad,Associate,6.0,"A/B Testing, Statistics, Pandas, Python, ETL",Etl
+DEMO0128,BI Analyst,Kolkata,Associate,9.5,"Communication, Pandas, Power BI, Python, Statistics, Tableau",Communication
+DEMO0128,BI Analyst,Kolkata,Associate,9.5,"Communication, Pandas, Power BI, Python, Statistics, Tableau",Pandas
+DEMO0128,BI Analyst,Kolkata,Associate,9.5,"Communication, Pandas, Power BI, Python, Statistics, Tableau",Power Bi
+DEMO0128,BI Analyst,Kolkata,Associate,9.5,"Communication, Pandas, Power BI, Python, Statistics, Tableau",Python
+DEMO0128,BI Analyst,Kolkata,Associate,9.5,"Communication, Pandas, Power BI, Python, Statistics, Tableau",Statistics
+DEMO0128,BI Analyst,Kolkata,Associate,9.5,"Communication, Pandas, Power BI, Python, Statistics, Tableau",Tableau
+DEMO0129,Junior Data Analyst,Bengaluru,Entry-level,13.0,"Machine Learning, Power BI, ETL, Statistics, SQL, A/B Testing, Python",Machine Learning
+DEMO0129,Junior Data Analyst,Bengaluru,Entry-level,13.0,"Machine Learning, Power BI, ETL, Statistics, SQL, A/B Testing, Python",Power Bi
+DEMO0129,Junior Data Analyst,Bengaluru,Entry-level,13.0,"Machine Learning, Power BI, ETL, Statistics, SQL, A/B Testing, Python",Etl
+DEMO0129,Junior Data Analyst,Bengaluru,Entry-level,13.0,"Machine Learning, Power BI, ETL, Statistics, SQL, A/B Testing, Python",Statistics
+DEMO0129,Junior Data Analyst,Bengaluru,Entry-level,13.0,"Machine Learning, Power BI, ETL, Statistics, SQL, A/B Testing, Python",Sql
+DEMO0129,Junior Data Analyst,Bengaluru,Entry-level,13.0,"Machine Learning, Power BI, ETL, Statistics, SQL, A/B Testing, Python",A/B Testing
+DEMO0129,Junior Data Analyst,Bengaluru,Entry-level,13.0,"Machine Learning, Power BI, ETL, Statistics, SQL, A/B Testing, Python",Python
+DEMO0130,BI Analyst,Kolkata,Mid-level,,"Statistics, SQL, Pandas, ETL, Power BI, Python",Statistics
+DEMO0130,BI Analyst,Kolkata,Mid-level,,"Statistics, SQL, Pandas, ETL, Power BI, Python",Sql
+DEMO0130,BI Analyst,Kolkata,Mid-level,,"Statistics, SQL, Pandas, ETL, Power BI, Python",Pandas
+DEMO0130,BI Analyst,Kolkata,Mid-level,,"Statistics, SQL, Pandas, ETL, Power BI, Python",Etl
+DEMO0130,BI Analyst,Kolkata,Mid-level,,"Statistics, SQL, Pandas, ETL, Power BI, Python",Power Bi
+DEMO0130,BI Analyst,Kolkata,Mid-level,,"Statistics, SQL, Pandas, ETL, Power BI, Python",Python
+DEMO0131,Reporting Analyst,Pune,Entry-level,10.0,"Python, Excel, Pandas",Python
+DEMO0131,Reporting Analyst,Pune,Entry-level,10.0,"Python, Excel, Pandas",Excel
+DEMO0131,Reporting Analyst,Pune,Entry-level,10.0,"Python, Excel, Pandas",Pandas
+DEMO0132,Data Analyst,Pune,Associate,11.5,"Python, Statistics, Machine Learning",Python
+DEMO0132,Data Analyst,Pune,Associate,11.5,"Python, Statistics, Machine Learning",Statistics
+DEMO0132,Data Analyst,Pune,Associate,11.5,"Python, Statistics, Machine Learning",Machine Learning
+DEMO0133,Reporting Analyst,Chennai,Mid-level,,"Communication, Statistics, Git, A/B Testing, Machine Learning",Communication
+DEMO0133,Reporting Analyst,Chennai,Mid-level,,"Communication, Statistics, Git, A/B Testing, Machine Learning",Statistics
+DEMO0133,Reporting Analyst,Chennai,Mid-level,,"Communication, Statistics, Git, A/B Testing, Machine Learning",Git
+DEMO0133,Reporting Analyst,Chennai,Mid-level,,"Communication, Statistics, Git, A/B Testing, Machine Learning",A/B Testing
+DEMO0133,Reporting Analyst,Chennai,Mid-level,,"Communication, Statistics, Git, A/B Testing, Machine Learning",Machine Learning
+DEMO0134,Product Analyst,Pune,Mid-level,,"Communication, Machine Learning, Tableau",Communication
+DEMO0134,Product Analyst,Pune,Mid-level,,"Communication, Machine Learning, Tableau",Machine Learning
+DEMO0134,Product Analyst,Pune,Mid-level,,"Communication, Machine Learning, Tableau",Tableau
+DEMO0135,Junior Data Analyst,Remote,Entry-level,,"ETL, Power BI, SQL, Excel",Etl
+DEMO0135,Junior Data Analyst,Remote,Entry-level,,"ETL, Power BI, SQL, Excel",Power Bi
+DEMO0135,Junior Data Analyst,Remote,Entry-level,,"ETL, Power BI, SQL, Excel",Sql
+DEMO0135,Junior Data Analyst,Remote,Entry-level,,"ETL, Power BI, SQL, Excel",Excel
+DEMO0136,Reporting Analyst,Chennai,Entry-level,,"A/B Testing, SQL, Python, Git, Power BI, Tableau",A/B Testing
+DEMO0136,Reporting Analyst,Chennai,Entry-level,,"A/B Testing, SQL, Python, Git, Power BI, Tableau",Sql
+DEMO0136,Reporting Analyst,Chennai,Entry-level,,"A/B Testing, SQL, Python, Git, Power BI, Tableau",Python
+DEMO0136,Reporting Analyst,Chennai,Entry-level,,"A/B Testing, SQL, Python, Git, Power BI, Tableau",Git
+DEMO0136,Reporting Analyst,Chennai,Entry-level,,"A/B Testing, SQL, Python, Git, Power BI, Tableau",Power Bi
+DEMO0136,Reporting Analyst,Chennai,Entry-level,,"A/B Testing, SQL, Python, Git, Power BI, Tableau",Tableau
+DEMO0137,BI Analyst,Mumbai,Mid-level,8.5,"Communication, Machine Learning, Power BI, A/B Testing, Tableau",Communication
+DEMO0137,BI Analyst,Mumbai,Mid-level,8.5,"Communication, Machine Learning, Power BI, A/B Testing, Tableau",Machine Learning
+DEMO0137,BI Analyst,Mumbai,Mid-level,8.5,"Communication, Machine Learning, Power BI, A/B Testing, Tableau",Power Bi
+DEMO0137,BI Analyst,Mumbai,Mid-level,8.5,"Communication, Machine Learning, Power BI, A/B Testing, Tableau",A/B Testing
+DEMO0137,BI Analyst,Mumbai,Mid-level,8.5,"Communication, Machine Learning, Power BI, A/B Testing, Tableau",Tableau
+DEMO0138,Reporting Analyst,Bengaluru,Associate,,"Tableau, Excel, Communication, Git, Pandas",Tableau
+DEMO0138,Reporting Analyst,Bengaluru,Associate,,"Tableau, Excel, Communication, Git, Pandas",Excel
+DEMO0138,Reporting Analyst,Bengaluru,Associate,,"Tableau, Excel, Communication, Git, Pandas",Communication
+DEMO0138,Reporting Analyst,Bengaluru,Associate,,"Tableau, Excel, Communication, Git, Pandas",Git
+DEMO0138,Reporting Analyst,Bengaluru,Associate,,"Tableau, Excel, Communication, Git, Pandas",Pandas
+DEMO0139,Product Analyst,Mumbai,Entry-level,,"A/B Testing, Machine Learning, Power BI, Communication, Tableau",A/B Testing
+DEMO0139,Product Analyst,Mumbai,Entry-level,,"A/B Testing, Machine Learning, Power BI, Communication, Tableau",Machine Learning
+DEMO0139,Product Analyst,Mumbai,Entry-level,,"A/B Testing, Machine Learning, Power BI, Communication, Tableau",Power Bi
+DEMO0139,Product Analyst,Mumbai,Entry-level,,"A/B Testing, Machine Learning, Power BI, Communication, Tableau",Communication
+DEMO0139,Product Analyst,Mumbai,Entry-level,,"A/B Testing, Machine Learning, Power BI, Communication, Tableau",Tableau
+DEMO0140,Product Analyst,Pune,Associate,,"SQL, Excel, Pandas, Statistics",Sql
+DEMO0140,Product Analyst,Pune,Associate,,"SQL, Excel, Pandas, Statistics",Excel
+DEMO0140,Product Analyst,Pune,Associate,,"SQL, Excel, Pandas, Statistics",Pandas
+DEMO0140,Product Analyst,Pune,Associate,,"SQL, Excel, Pandas, Statistics",Statistics
+DEMO0141,Junior Data Analyst,Bengaluru,Entry-level,,"Tableau, Statistics, A/B Testing, SQL",Tableau
+DEMO0141,Junior Data Analyst,Bengaluru,Entry-level,,"Tableau, Statistics, A/B Testing, SQL",Statistics
+DEMO0141,Junior Data Analyst,Bengaluru,Entry-level,,"Tableau, Statistics, A/B Testing, SQL",A/B Testing
+DEMO0141,Junior Data Analyst,Bengaluru,Entry-level,,"Tableau, Statistics, A/B Testing, SQL",Sql
+DEMO0142,Data Analyst,Kolkata,Entry-level,6.0,"Machine Learning, Python, Tableau, SQL, Git, ETL",Machine Learning
+DEMO0142,Data Analyst,Kolkata,Entry-level,6.0,"Machine Learning, Python, Tableau, SQL, Git, ETL",Python
+DEMO0142,Data Analyst,Kolkata,Entry-level,6.0,"Machine Learning, Python, Tableau, SQL, Git, ETL",Tableau
+DEMO0142,Data Analyst,Kolkata,Entry-level,6.0,"Machine Learning, Python, Tableau, SQL, Git, ETL",Sql
+DEMO0142,Data Analyst,Kolkata,Entry-level,6.0,"Machine Learning, Python, Tableau, SQL, Git, ETL",Git
+DEMO0142,Data Analyst,Kolkata,Entry-level,6.0,"Machine Learning, Python, Tableau, SQL, Git, ETL",Etl
+DEMO0143,Data Analyst,Pune,Mid-level,,"Python, Machine Learning, Tableau, A/B Testing, SQL",Python
+DEMO0143,Data Analyst,Pune,Mid-level,,"Python, Machine Learning, Tableau, A/B Testing, SQL",Machine Learning
+DEMO0143,Data Analyst,Pune,Mid-level,,"Python, Machine Learning, Tableau, A/B Testing, SQL",Tableau
+DEMO0143,Data Analyst,Pune,Mid-level,,"Python, Machine Learning, Tableau, A/B Testing, SQL",A/B Testing
+DEMO0143,Data Analyst,Pune,Mid-level,,"Python, Machine Learning, Tableau, A/B Testing, SQL",Sql
+DEMO0144,Reporting Analyst,Delhi NCR,Associate,12.0,"Excel, Pandas, A/B Testing, Python, Git",Excel
+DEMO0144,Reporting Analyst,Delhi NCR,Associate,12.0,"Excel, Pandas, A/B Testing, Python, Git",Pandas
+DEMO0144,Reporting Analyst,Delhi NCR,Associate,12.0,"Excel, Pandas, A/B Testing, Python, Git",A/B Testing
+DEMO0144,Reporting Analyst,Delhi NCR,Associate,12.0,"Excel, Pandas, A/B Testing, Python, Git",Python
+DEMO0144,Reporting Analyst,Delhi NCR,Associate,12.0,"Excel, Pandas, A/B Testing, Python, Git",Git
+DEMO0145,BI Analyst,Delhi NCR,Entry-level,,"Communication, A/B Testing, SQL, Tableau, Statistics",Communication
+DEMO0145,BI Analyst,Delhi NCR,Entry-level,,"Communication, A/B Testing, SQL, Tableau, Statistics",A/B Testing
+DEMO0145,BI Analyst,Delhi NCR,Entry-level,,"Communication, A/B Testing, SQL, Tableau, Statistics",Sql
+DEMO0145,BI Analyst,Delhi NCR,Entry-level,,"Communication, A/B Testing, SQL, Tableau, Statistics",Tableau
+DEMO0145,BI Analyst,Delhi NCR,Entry-level,,"Communication, A/B Testing, SQL, Tableau, Statistics",Statistics
+DEMO0146,Product Analyst,Kolkata,Mid-level,,"A/B Testing, Excel, Tableau, Statistics, Power BI",A/B Testing
+DEMO0146,Product Analyst,Kolkata,Mid-level,,"A/B Testing, Excel, Tableau, Statistics, Power BI",Excel
+DEMO0146,Product Analyst,Kolkata,Mid-level,,"A/B Testing, Excel, Tableau, Statistics, Power BI",Tableau
+DEMO0146,Product Analyst,Kolkata,Mid-level,,"A/B Testing, Excel, Tableau, Statistics, Power BI",Statistics
+DEMO0146,Product Analyst,Kolkata,Mid-level,,"A/B Testing, Excel, Tableau, Statistics, Power BI",Power Bi
+DEMO0147,Junior Data Analyst,Bengaluru,Mid-level,9.0,"ETL, Power BI, A/B Testing, Excel, Machine Learning, Tableau, Statistics",Etl
+DEMO0147,Junior Data Analyst,Bengaluru,Mid-level,9.0,"ETL, Power BI, A/B Testing, Excel, Machine Learning, Tableau, Statistics",Power Bi
+DEMO0147,Junior Data Analyst,Bengaluru,Mid-level,9.0,"ETL, Power BI, A/B Testing, Excel, Machine Learning, Tableau, Statistics",A/B Testing
+DEMO0147,Junior Data Analyst,Bengaluru,Mid-level,9.0,"ETL, Power BI, A/B Testing, Excel, Machine Learning, Tableau, Statistics",Excel
+DEMO0147,Junior Data Analyst,Bengaluru,Mid-level,9.0,"ETL, Power BI, A/B Testing, Excel, Machine Learning, Tableau, Statistics",Machine Learning
+DEMO0147,Junior Data Analyst,Bengaluru,Mid-level,9.0,"ETL, Power BI, A/B Testing, Excel, Machine Learning, Tableau, Statistics",Tableau
+DEMO0147,Junior Data Analyst,Bengaluru,Mid-level,9.0,"ETL, Power BI, A/B Testing, Excel, Machine Learning, Tableau, Statistics",Statistics
+DEMO0148,Business Analyst,Kolkata,Entry-level,,"Git, Machine Learning, Excel, Power BI, ETL",Git
+DEMO0148,Business Analyst,Kolkata,Entry-level,,"Git, Machine Learning, Excel, Power BI, ETL",Machine Learning
+DEMO0148,Business Analyst,Kolkata,Entry-level,,"Git, Machine Learning, Excel, Power BI, ETL",Excel
+DEMO0148,Business Analyst,Kolkata,Entry-level,,"Git, Machine Learning, Excel, Power BI, ETL",Power Bi
+DEMO0148,Business Analyst,Kolkata,Entry-level,,"Git, Machine Learning, Excel, Power BI, ETL",Etl
+DEMO0149,Reporting Analyst,Bengaluru,Associate,,"ETL, Tableau, SQL, Pandas, A/B Testing, Git",Etl
+DEMO0149,Reporting Analyst,Bengaluru,Associate,,"ETL, Tableau, SQL, Pandas, A/B Testing, Git",Tableau
+DEMO0149,Reporting Analyst,Bengaluru,Associate,,"ETL, Tableau, SQL, Pandas, A/B Testing, Git",Sql
+DEMO0149,Reporting Analyst,Bengaluru,Associate,,"ETL, Tableau, SQL, Pandas, A/B Testing, Git",Pandas
+DEMO0149,Reporting Analyst,Bengaluru,Associate,,"ETL, Tableau, SQL, Pandas, A/B Testing, Git",A/B Testing
+DEMO0149,Reporting Analyst,Bengaluru,Associate,,"ETL, Tableau, SQL, Pandas, A/B Testing, Git",Git
+DEMO0150,Data Analyst,Chennai,Associate,,"Machine Learning, SQL, Tableau",Machine Learning
+DEMO0150,Data Analyst,Chennai,Associate,,"Machine Learning, SQL, Tableau",Sql
+DEMO0150,Data Analyst,Chennai,Associate,,"Machine Learning, SQL, Tableau",Tableau
+DEMO0151,Junior Data Analyst,Remote,Mid-level,,"ETL, A/B Testing, Git",Etl
+DEMO0151,Junior Data Analyst,Remote,Mid-level,,"ETL, A/B Testing, Git",A/B Testing
+DEMO0151,Junior Data Analyst,Remote,Mid-level,,"ETL, A/B Testing, Git",Git
+DEMO0152,Data Analyst,Mumbai,Associate,12.0,"Tableau, Machine Learning, Git",Tableau
+DEMO0152,Data Analyst,Mumbai,Associate,12.0,"Tableau, Machine Learning, Git",Machine Learning
+DEMO0152,Data Analyst,Mumbai,Associate,12.0,"Tableau, Machine Learning, Git",Git
+DEMO0153,Product Analyst,Hyderabad,Mid-level,,"SQL, ETL, Pandas",Sql
+DEMO0153,Product Analyst,Hyderabad,Mid-level,,"SQL, ETL, Pandas",Etl
+DEMO0153,Product Analyst,Hyderabad,Mid-level,,"SQL, ETL, Pandas",Pandas
+DEMO0154,Data Analyst,Pune,Mid-level,,"A/B Testing, SQL, Pandas, Machine Learning",A/B Testing
+DEMO0154,Data Analyst,Pune,Mid-level,,"A/B Testing, SQL, Pandas, Machine Learning",Sql
+DEMO0154,Data Analyst,Pune,Mid-level,,"A/B Testing, SQL, Pandas, Machine Learning",Pandas
+DEMO0154,Data Analyst,Pune,Mid-level,,"A/B Testing, SQL, Pandas, Machine Learning",Machine Learning
+DEMO0155,Reporting Analyst,Delhi NCR,Associate,,"Communication, A/B Testing, Statistics, Power BI, Tableau",Communication
+DEMO0155,Reporting Analyst,Delhi NCR,Associate,,"Communication, A/B Testing, Statistics, Power BI, Tableau",A/B Testing
+DEMO0155,Reporting Analyst,Delhi NCR,Associate,,"Communication, A/B Testing, Statistics, Power BI, Tableau",Statistics
+DEMO0155,Reporting Analyst,Delhi NCR,Associate,,"Communication, A/B Testing, Statistics, Power BI, Tableau",Power Bi
+DEMO0155,Reporting Analyst,Delhi NCR,Associate,,"Communication, A/B Testing, Statistics, Power BI, Tableau",Tableau
+DEMO0156,Product Analyst,Chennai,Mid-level,11.0,"ETL, A/B Testing, Pandas, Git",Etl
+DEMO0156,Product Analyst,Chennai,Mid-level,11.0,"ETL, A/B Testing, Pandas, Git",A/B Testing
+DEMO0156,Product Analyst,Chennai,Mid-level,11.0,"ETL, A/B Testing, Pandas, Git",Pandas
+DEMO0156,Product Analyst,Chennai,Mid-level,11.0,"ETL, A/B Testing, Pandas, Git",Git
+DEMO0157,Business Analyst,Pune,Associate,6.0,"Machine Learning, Power BI, ETL, Tableau, Python, Pandas, Communication",Machine Learning
+DEMO0157,Business Analyst,Pune,Associate,6.0,"Machine Learning, Power BI, ETL, Tableau, Python, Pandas, Communication",Power Bi
+DEMO0157,Business Analyst,Pune,Associate,6.0,"Machine Learning, Power BI, ETL, Tableau, Python, Pandas, Communication",Etl
+DEMO0157,Business Analyst,Pune,Associate,6.0,"Machine Learning, Power BI, ETL, Tableau, Python, Pandas, Communication",Tableau
+DEMO0157,Business Analyst,Pune,Associate,6.0,"Machine Learning, Power BI, ETL, Tableau, Python, Pandas, Communication",Python
+DEMO0157,Business Analyst,Pune,Associate,6.0,"Machine Learning, Power BI, ETL, Tableau, Python, Pandas, Communication",Pandas
+DEMO0157,Business Analyst,Pune,Associate,6.0,"Machine Learning, Power BI, ETL, Tableau, Python, Pandas, Communication",Communication
+DEMO0158,Data Analyst,Hyderabad,Entry-level,,"Statistics, Excel, Git, Power BI, SQL, Python",Statistics
+DEMO0158,Data Analyst,Hyderabad,Entry-level,,"Statistics, Excel, Git, Power BI, SQL, Python",Excel
+DEMO0158,Data Analyst,Hyderabad,Entry-level,,"Statistics, Excel, Git, Power BI, SQL, Python",Git
+DEMO0158,Data Analyst,Hyderabad,Entry-level,,"Statistics, Excel, Git, Power BI, SQL, Python",Power Bi
+DEMO0158,Data Analyst,Hyderabad,Entry-level,,"Statistics, Excel, Git, Power BI, SQL, Python",Sql
+DEMO0158,Data Analyst,Hyderabad,Entry-level,,"Statistics, Excel, Git, Power BI, SQL, Python",Python
+DEMO0159,Junior Data Analyst,Mumbai,Associate,,"Statistics, Tableau, SQL, Power BI",Statistics
+DEMO0159,Junior Data Analyst,Mumbai,Associate,,"Statistics, Tableau, SQL, Power BI",Tableau
+DEMO0159,Junior Data Analyst,Mumbai,Associate,,"Statistics, Tableau, SQL, Power BI",Sql
+DEMO0159,Junior Data Analyst,Mumbai,Associate,,"Statistics, Tableau, SQL, Power BI",Power Bi
+DEMO0160,Junior Data Analyst,Chennai,Entry-level,12.5,"Git, ETL, Statistics, Tableau, A/B Testing, Python",Git
+DEMO0160,Junior Data Analyst,Chennai,Entry-level,12.5,"Git, ETL, Statistics, Tableau, A/B Testing, Python",Etl
+DEMO0160,Junior Data Analyst,Chennai,Entry-level,12.5,"Git, ETL, Statistics, Tableau, A/B Testing, Python",Statistics
+DEMO0160,Junior Data Analyst,Chennai,Entry-level,12.5,"Git, ETL, Statistics, Tableau, A/B Testing, Python",Tableau
+DEMO0160,Junior Data Analyst,Chennai,Entry-level,12.5,"Git, ETL, Statistics, Tableau, A/B Testing, Python",A/B Testing
+DEMO0160,Junior Data Analyst,Chennai,Entry-level,12.5,"Git, ETL, Statistics, Tableau, A/B Testing, Python",Python
+DEMO0161,Business Analyst,Mumbai,Associate,,"SQL, Tableau, Git, Pandas",Sql
+DEMO0161,Business Analyst,Mumbai,Associate,,"SQL, Tableau, Git, Pandas",Tableau
+DEMO0161,Business Analyst,Mumbai,Associate,,"SQL, Tableau, Git, Pandas",Git
+DEMO0161,Business Analyst,Mumbai,Associate,,"SQL, Tableau, Git, Pandas",Pandas
+DEMO0162,Product Analyst,Kolkata,Entry-level,,"Tableau, Machine Learning, ETL, Communication, Python",Tableau
+DEMO0162,Product Analyst,Kolkata,Entry-level,,"Tableau, Machine Learning, ETL, Communication, Python",Machine Learning
+DEMO0162,Product Analyst,Kolkata,Entry-level,,"Tableau, Machine Learning, ETL, Communication, Python",Etl
+DEMO0162,Product Analyst,Kolkata,Entry-level,,"Tableau, Machine Learning, ETL, Communication, Python",Communication
+DEMO0162,Product Analyst,Kolkata,Entry-level,,"Tableau, Machine Learning, ETL, Communication, Python",Python
+DEMO0163,Reporting Analyst,Hyderabad,Mid-level,5.5,"Excel, ETL, SQL",Excel
+DEMO0163,Reporting Analyst,Hyderabad,Mid-level,5.5,"Excel, ETL, SQL",Etl
+DEMO0163,Reporting Analyst,Hyderabad,Mid-level,5.5,"Excel, ETL, SQL",Sql
+DEMO0164,BI Analyst,Remote,Entry-level,12.5,"Communication, ETL, A/B Testing",Communication
+DEMO0164,BI Analyst,Remote,Entry-level,12.5,"Communication, ETL, A/B Testing",Etl
+DEMO0164,BI Analyst,Remote,Entry-level,12.5,"Communication, ETL, A/B Testing",A/B Testing
+DEMO0165,BI Analyst,Pune,Entry-level,,"Git, ETL, Pandas",Git
+DEMO0165,BI Analyst,Pune,Entry-level,,"Git, ETL, Pandas",Etl
+DEMO0165,BI Analyst,Pune,Entry-level,,"Git, ETL, Pandas",Pandas
+DEMO0166,BI Analyst,Bengaluru,Entry-level,,"Pandas, Excel, Statistics, A/B Testing, Machine Learning",Pandas
+DEMO0166,BI Analyst,Bengaluru,Entry-level,,"Pandas, Excel, Statistics, A/B Testing, Machine Learning",Excel
+DEMO0166,BI Analyst,Bengaluru,Entry-level,,"Pandas, Excel, Statistics, A/B Testing, Machine Learning",Statistics
+DEMO0166,BI Analyst,Bengaluru,Entry-level,,"Pandas, Excel, Statistics, A/B Testing, Machine Learning",A/B Testing
+DEMO0166,BI Analyst,Bengaluru,Entry-level,,"Pandas, Excel, Statistics, A/B Testing, Machine Learning",Machine Learning
+DEMO0167,Data Analyst,Hyderabad,Mid-level,,"A/B Testing, Python, Excel",A/B Testing
+DEMO0167,Data Analyst,Hyderabad,Mid-level,,"A/B Testing, Python, Excel",Python
+DEMO0167,Data Analyst,Hyderabad,Mid-level,,"A/B Testing, Python, Excel",Excel
+DEMO0168,Product Analyst,Mumbai,Mid-level,,"Machine Learning, Tableau, SQL, Excel, ETL, A/B Testing, Pandas",Machine Learning
+DEMO0168,Product Analyst,Mumbai,Mid-level,,"Machine Learning, Tableau, SQL, Excel, ETL, A/B Testing, Pandas",Tableau
+DEMO0168,Product Analyst,Mumbai,Mid-level,,"Machine Learning, Tableau, SQL, Excel, ETL, A/B Testing, Pandas",Sql
+DEMO0168,Product Analyst,Mumbai,Mid-level,,"Machine Learning, Tableau, SQL, Excel, ETL, A/B Testing, Pandas",Excel
+DEMO0168,Product Analyst,Mumbai,Mid-level,,"Machine Learning, Tableau, SQL, Excel, ETL, A/B Testing, Pandas",Etl
+DEMO0168,Product Analyst,Mumbai,Mid-level,,"Machine Learning, Tableau, SQL, Excel, ETL, A/B Testing, Pandas",A/B Testing
+DEMO0168,Product Analyst,Mumbai,Mid-level,,"Machine Learning, Tableau, SQL, Excel, ETL, A/B Testing, Pandas",Pandas
+DEMO0169,Junior Data Analyst,Chennai,Associate,,"Tableau, Python, Communication",Tableau
+DEMO0169,Junior Data Analyst,Chennai,Associate,,"Tableau, Python, Communication",Python
+DEMO0169,Junior Data Analyst,Chennai,Associate,,"Tableau, Python, Communication",Communication
+DEMO0170,Product Analyst,Chennai,Mid-level,,"Git, Statistics, SQL",Git
+DEMO0170,Product Analyst,Chennai,Mid-level,,"Git, Statistics, SQL",Statistics
+DEMO0170,Product Analyst,Chennai,Mid-level,,"Git, Statistics, SQL",Sql
+DEMO0171,BI Analyst,Remote,Associate,,"ETL, Tableau, Machine Learning",Etl
+DEMO0171,BI Analyst,Remote,Associate,,"ETL, Tableau, Machine Learning",Tableau
+DEMO0171,BI Analyst,Remote,Associate,,"ETL, Tableau, Machine Learning",Machine Learning
+DEMO0172,Data Analyst,Hyderabad,Entry-level,,"Tableau, Power BI, Excel, Communication, A/B Testing, Git, ETL",Tableau
+DEMO0172,Data Analyst,Hyderabad,Entry-level,,"Tableau, Power BI, Excel, Communication, A/B Testing, Git, ETL",Power Bi
+DEMO0172,Data Analyst,Hyderabad,Entry-level,,"Tableau, Power BI, Excel, Communication, A/B Testing, Git, ETL",Excel
+DEMO0172,Data Analyst,Hyderabad,Entry-level,,"Tableau, Power BI, Excel, Communication, A/B Testing, Git, ETL",Communication
+DEMO0172,Data Analyst,Hyderabad,Entry-level,,"Tableau, Power BI, Excel, Communication, A/B Testing, Git, ETL",A/B Testing
+DEMO0172,Data Analyst,Hyderabad,Entry-level,,"Tableau, Power BI, Excel, Communication, A/B Testing, Git, ETL",Git
+DEMO0172,Data Analyst,Hyderabad,Entry-level,,"Tableau, Power BI, Excel, Communication, A/B Testing, Git, ETL",Etl
+DEMO0173,BI Analyst,Remote,Entry-level,,"Python, Excel, A/B Testing",Python
+DEMO0173,BI Analyst,Remote,Entry-level,,"Python, Excel, A/B Testing",Excel
+DEMO0173,BI Analyst,Remote,Entry-level,,"Python, Excel, A/B Testing",A/B Testing
+DEMO0174,Reporting Analyst,Remote,Entry-level,9.0,"Statistics, Pandas, SQL, Tableau, ETL, Power BI, Communication",Statistics
+DEMO0174,Reporting Analyst,Remote,Entry-level,9.0,"Statistics, Pandas, SQL, Tableau, ETL, Power BI, Communication",Pandas
+DEMO0174,Reporting Analyst,Remote,Entry-level,9.0,"Statistics, Pandas, SQL, Tableau, ETL, Power BI, Communication",Sql
+DEMO0174,Reporting Analyst,Remote,Entry-level,9.0,"Statistics, Pandas, SQL, Tableau, ETL, Power BI, Communication",Tableau
+DEMO0174,Reporting Analyst,Remote,Entry-level,9.0,"Statistics, Pandas, SQL, Tableau, ETL, Power BI, Communication",Etl
+DEMO0174,Reporting Analyst,Remote,Entry-level,9.0,"Statistics, Pandas, SQL, Tableau, ETL, Power BI, Communication",Power Bi
+DEMO0174,Reporting Analyst,Remote,Entry-level,9.0,"Statistics, Pandas, SQL, Tableau, ETL, Power BI, Communication",Communication
+DEMO0175,Business Analyst,Chennai,Associate,,"Python, Pandas, Tableau",Python
+DEMO0175,Business Analyst,Chennai,Associate,,"Python, Pandas, Tableau",Pandas
+DEMO0175,Business Analyst,Chennai,Associate,,"Python, Pandas, Tableau",Tableau
+DEMO0176,Reporting Analyst,Remote,Associate,,"Machine Learning, Excel, Python, Tableau",Machine Learning
+DEMO0176,Reporting Analyst,Remote,Associate,,"Machine Learning, Excel, Python, Tableau",Excel
+DEMO0176,Reporting Analyst,Remote,Associate,,"Machine Learning, Excel, Python, Tableau",Python
+DEMO0176,Reporting Analyst,Remote,Associate,,"Machine Learning, Excel, Python, Tableau",Tableau
+DEMO0177,Product Analyst,Mumbai,Associate,,"Python, Tableau, Statistics, Power BI, Machine Learning, A/B Testing, Excel",Python
+DEMO0177,Product Analyst,Mumbai,Associate,,"Python, Tableau, Statistics, Power BI, Machine Learning, A/B Testing, Excel",Tableau
+DEMO0177,Product Analyst,Mumbai,Associate,,"Python, Tableau, Statistics, Power BI, Machine Learning, A/B Testing, Excel",Statistics
+DEMO0177,Product Analyst,Mumbai,Associate,,"Python, Tableau, Statistics, Power BI, Machine Learning, A/B Testing, Excel",Power Bi
+DEMO0177,Product Analyst,Mumbai,Associate,,"Python, Tableau, Statistics, Power BI, Machine Learning, A/B Testing, Excel",Machine Learning
+DEMO0177,Product Analyst,Mumbai,Associate,,"Python, Tableau, Statistics, Power BI, Machine Learning, A/B Testing, Excel",A/B Testing
+DEMO0177,Product Analyst,Mumbai,Associate,,"Python, Tableau, Statistics, Power BI, Machine Learning, A/B Testing, Excel",Excel
+DEMO0178,BI Analyst,Mumbai,Associate,,"Communication, Power BI, A/B Testing",Communication
+DEMO0178,BI Analyst,Mumbai,Associate,,"Communication, Power BI, A/B Testing",Power Bi
+DEMO0178,BI Analyst,Mumbai,Associate,,"Communication, Power BI, A/B Testing",A/B Testing
+DEMO0179,Junior Data Analyst,Kolkata,Mid-level,,"Python, ETL, Tableau, Power BI, Communication, Statistics",Python
+DEMO0179,Junior Data Analyst,Kolkata,Mid-level,,"Python, ETL, Tableau, Power BI, Communication, Statistics",Etl
+DEMO0179,Junior Data Analyst,Kolkata,Mid-level,,"Python, ETL, Tableau, Power BI, Communication, Statistics",Tableau
+DEMO0179,Junior Data Analyst,Kolkata,Mid-level,,"Python, ETL, Tableau, Power BI, Communication, Statistics",Power Bi
+DEMO0179,Junior Data Analyst,Kolkata,Mid-level,,"Python, ETL, Tableau, Power BI, Communication, Statistics",Communication
+DEMO0179,Junior Data Analyst,Kolkata,Mid-level,,"Python, ETL, Tableau, Power BI, Communication, Statistics",Statistics
+DEMO0180,Product Analyst,Bengaluru,Mid-level,,"Git, SQL, Statistics, A/B Testing, Excel, ETL",Git
+DEMO0180,Product Analyst,Bengaluru,Mid-level,,"Git, SQL, Statistics, A/B Testing, Excel, ETL",Sql
+DEMO0180,Product Analyst,Bengaluru,Mid-level,,"Git, SQL, Statistics, A/B Testing, Excel, ETL",Statistics
+DEMO0180,Product Analyst,Bengaluru,Mid-level,,"Git, SQL, Statistics, A/B Testing, Excel, ETL",A/B Testing
+DEMO0180,Product Analyst,Bengaluru,Mid-level,,"Git, SQL, Statistics, A/B Testing, Excel, ETL",Excel
+DEMO0180,Product Analyst,Bengaluru,Mid-level,,"Git, SQL, Statistics, A/B Testing, Excel, ETL",Etl
+DEMO0181,BI Analyst,Kolkata,Mid-level,,"Excel, SQL, A/B Testing, Tableau, Power BI, Git",Excel
+DEMO0181,BI Analyst,Kolkata,Mid-level,,"Excel, SQL, A/B Testing, Tableau, Power BI, Git",Sql
+DEMO0181,BI Analyst,Kolkata,Mid-level,,"Excel, SQL, A/B Testing, Tableau, Power BI, Git",A/B Testing
+DEMO0181,BI Analyst,Kolkata,Mid-level,,"Excel, SQL, A/B Testing, Tableau, Power BI, Git",Tableau
+DEMO0181,BI Analyst,Kolkata,Mid-level,,"Excel, SQL, A/B Testing, Tableau, Power BI, Git",Power Bi
+DEMO0181,BI Analyst,Kolkata,Mid-level,,"Excel, SQL, A/B Testing, Tableau, Power BI, Git",Git
+DEMO0182,Data Analyst,Kolkata,Entry-level,7.0,"Excel, Tableau, Pandas, A/B Testing, Git, Communication",Excel
+DEMO0182,Data Analyst,Kolkata,Entry-level,7.0,"Excel, Tableau, Pandas, A/B Testing, Git, Communication",Tableau
+DEMO0182,Data Analyst,Kolkata,Entry-level,7.0,"Excel, Tableau, Pandas, A/B Testing, Git, Communication",Pandas
+DEMO0182,Data Analyst,Kolkata,Entry-level,7.0,"Excel, Tableau, Pandas, A/B Testing, Git, Communication",A/B Testing
+DEMO0182,Data Analyst,Kolkata,Entry-level,7.0,"Excel, Tableau, Pandas, A/B Testing, Git, Communication",Git
+DEMO0182,Data Analyst,Kolkata,Entry-level,7.0,"Excel, Tableau, Pandas, A/B Testing, Git, Communication",Communication
+DEMO0183,Junior Data Analyst,Pune,Mid-level,9.0,"Statistics, Excel, Tableau, SQL, ETL, Git",Statistics
+DEMO0183,Junior Data Analyst,Pune,Mid-level,9.0,"Statistics, Excel, Tableau, SQL, ETL, Git",Excel
+DEMO0183,Junior Data Analyst,Pune,Mid-level,9.0,"Statistics, Excel, Tableau, SQL, ETL, Git",Tableau
+DEMO0183,Junior Data Analyst,Pune,Mid-level,9.0,"Statistics, Excel, Tableau, SQL, ETL, Git",Sql
+DEMO0183,Junior Data Analyst,Pune,Mid-level,9.0,"Statistics, Excel, Tableau, SQL, ETL, Git",Etl
+DEMO0183,Junior Data Analyst,Pune,Mid-level,9.0,"Statistics, Excel, Tableau, SQL, ETL, Git",Git
+DEMO0184,Junior Data Analyst,Mumbai,Associate,11.5,"Pandas, ETL, Python, Communication",Pandas
+DEMO0184,Junior Data Analyst,Mumbai,Associate,11.5,"Pandas, ETL, Python, Communication",Etl
+DEMO0184,Junior Data Analyst,Mumbai,Associate,11.5,"Pandas, ETL, Python, Communication",Python
+DEMO0184,Junior Data Analyst,Mumbai,Associate,11.5,"Pandas, ETL, Python, Communication",Communication
+DEMO0185,Business Analyst,Kolkata,Entry-level,,"Tableau, Excel, Communication, ETL",Tableau
+DEMO0185,Business Analyst,Kolkata,Entry-level,,"Tableau, Excel, Communication, ETL",Excel
+DEMO0185,Business Analyst,Kolkata,Entry-level,,"Tableau, Excel, Communication, ETL",Communication
+DEMO0185,Business Analyst,Kolkata,Entry-level,,"Tableau, Excel, Communication, ETL",Etl
+DEMO0186,Product Analyst,Pune,Mid-level,,"Communication, Pandas, A/B Testing, ETL, Excel",Communication
+DEMO0186,Product Analyst,Pune,Mid-level,,"Communication, Pandas, A/B Testing, ETL, Excel",Pandas
+DEMO0186,Product Analyst,Pune,Mid-level,,"Communication, Pandas, A/B Testing, ETL, Excel",A/B Testing
+DEMO0186,Product Analyst,Pune,Mid-level,,"Communication, Pandas, A/B Testing, ETL, Excel",Etl
+DEMO0186,Product Analyst,Pune,Mid-level,,"Communication, Pandas, A/B Testing, ETL, Excel",Excel
+DEMO0187,Reporting Analyst,Pune,Associate,5.5,"ETL, Python, Statistics",Etl
+DEMO0187,Reporting Analyst,Pune,Associate,5.5,"ETL, Python, Statistics",Python
+DEMO0187,Reporting Analyst,Pune,Associate,5.5,"ETL, Python, Statistics",Statistics
+DEMO0188,Reporting Analyst,Pune,Associate,13.0,"Communication, Pandas, ETL, Python",Communication
+DEMO0188,Reporting Analyst,Pune,Associate,13.0,"Communication, Pandas, ETL, Python",Pandas
+DEMO0188,Reporting Analyst,Pune,Associate,13.0,"Communication, Pandas, ETL, Python",Etl
+DEMO0188,Reporting Analyst,Pune,Associate,13.0,"Communication, Pandas, ETL, Python",Python
+DEMO0189,Junior Data Analyst,Kolkata,Associate,12.5,"SQL, Statistics, A/B Testing, Machine Learning, Python, Excel, Power BI",Sql
+DEMO0189,Junior Data Analyst,Kolkata,Associate,12.5,"SQL, Statistics, A/B Testing, Machine Learning, Python, Excel, Power BI",Statistics
+DEMO0189,Junior Data Analyst,Kolkata,Associate,12.5,"SQL, Statistics, A/B Testing, Machine Learning, Python, Excel, Power BI",A/B Testing
+DEMO0189,Junior Data Analyst,Kolkata,Associate,12.5,"SQL, Statistics, A/B Testing, Machine Learning, Python, Excel, Power BI",Machine Learning
+DEMO0189,Junior Data Analyst,Kolkata,Associate,12.5,"SQL, Statistics, A/B Testing, Machine Learning, Python, Excel, Power BI",Python
+DEMO0189,Junior Data Analyst,Kolkata,Associate,12.5,"SQL, Statistics, A/B Testing, Machine Learning, Python, Excel, Power BI",Excel
+DEMO0189,Junior Data Analyst,Kolkata,Associate,12.5,"SQL, Statistics, A/B Testing, Machine Learning, Python, Excel, Power BI",Power Bi
+DEMO0190,Business Analyst,Hyderabad,Mid-level,7.5,"SQL, Tableau, Power BI, Git, ETL",Sql
+DEMO0190,Business Analyst,Hyderabad,Mid-level,7.5,"SQL, Tableau, Power BI, Git, ETL",Tableau
+DEMO0190,Business Analyst,Hyderabad,Mid-level,7.5,"SQL, Tableau, Power BI, Git, ETL",Power Bi
+DEMO0190,Business Analyst,Hyderabad,Mid-level,7.5,"SQL, Tableau, Power BI, Git, ETL",Git
+DEMO0190,Business Analyst,Hyderabad,Mid-level,7.5,"SQL, Tableau, Power BI, Git, ETL",Etl
+DEMO0191,BI Analyst,Delhi NCR,Associate,,"SQL, Machine Learning, Git, Power BI, Pandas, A/B Testing, Statistics",Sql
+DEMO0191,BI Analyst,Delhi NCR,Associate,,"SQL, Machine Learning, Git, Power BI, Pandas, A/B Testing, Statistics",Machine Learning
+DEMO0191,BI Analyst,Delhi NCR,Associate,,"SQL, Machine Learning, Git, Power BI, Pandas, A/B Testing, Statistics",Git
+DEMO0191,BI Analyst,Delhi NCR,Associate,,"SQL, Machine Learning, Git, Power BI, Pandas, A/B Testing, Statistics",Power Bi
+DEMO0191,BI Analyst,Delhi NCR,Associate,,"SQL, Machine Learning, Git, Power BI, Pandas, A/B Testing, Statistics",Pandas
+DEMO0191,BI Analyst,Delhi NCR,Associate,,"SQL, Machine Learning, Git, Power BI, Pandas, A/B Testing, Statistics",A/B Testing
+DEMO0191,BI Analyst,Delhi NCR,Associate,,"SQL, Machine Learning, Git, Power BI, Pandas, A/B Testing, Statistics",Statistics
+DEMO0192,Business Analyst,Mumbai,Entry-level,8.0,"A/B Testing, Communication, Statistics, Pandas",A/B Testing
+DEMO0192,Business Analyst,Mumbai,Entry-level,8.0,"A/B Testing, Communication, Statistics, Pandas",Communication
+DEMO0192,Business Analyst,Mumbai,Entry-level,8.0,"A/B Testing, Communication, Statistics, Pandas",Statistics
+DEMO0192,Business Analyst,Mumbai,Entry-level,8.0,"A/B Testing, Communication, Statistics, Pandas",Pandas
+DEMO0193,Reporting Analyst,Delhi NCR,Mid-level,,"Statistics, Tableau, ETL, Communication",Statistics
+DEMO0193,Reporting Analyst,Delhi NCR,Mid-level,,"Statistics, Tableau, ETL, Communication",Tableau
+DEMO0193,Reporting Analyst,Delhi NCR,Mid-level,,"Statistics, Tableau, ETL, Communication",Etl
+DEMO0193,Reporting Analyst,Delhi NCR,Mid-level,,"Statistics, Tableau, ETL, Communication",Communication
+DEMO0194,Business Analyst,Hyderabad,Mid-level,,"Power BI, ETL, Pandas, Machine Learning, Python",Power Bi
+DEMO0194,Business Analyst,Hyderabad,Mid-level,,"Power BI, ETL, Pandas, Machine Learning, Python",Etl
+DEMO0194,Business Analyst,Hyderabad,Mid-level,,"Power BI, ETL, Pandas, Machine Learning, Python",Pandas
+DEMO0194,Business Analyst,Hyderabad,Mid-level,,"Power BI, ETL, Pandas, Machine Learning, Python",Machine Learning
+DEMO0194,Business Analyst,Hyderabad,Mid-level,,"Power BI, ETL, Pandas, Machine Learning, Python",Python
+DEMO0195,Product Analyst,Remote,Entry-level,,"Machine Learning, A/B Testing, Statistics, SQL, Excel",Machine Learning
+DEMO0195,Product Analyst,Remote,Entry-level,,"Machine Learning, A/B Testing, Statistics, SQL, Excel",A/B Testing
+DEMO0195,Product Analyst,Remote,Entry-level,,"Machine Learning, A/B Testing, Statistics, SQL, Excel",Statistics
+DEMO0195,Product Analyst,Remote,Entry-level,,"Machine Learning, A/B Testing, Statistics, SQL, Excel",Sql
+DEMO0195,Product Analyst,Remote,Entry-level,,"Machine Learning, A/B Testing, Statistics, SQL, Excel",Excel
+DEMO0196,BI Analyst,Kolkata,Entry-level,,"Statistics, Git, Communication, Python, Machine Learning",Statistics
+DEMO0196,BI Analyst,Kolkata,Entry-level,,"Statistics, Git, Communication, Python, Machine Learning",Git
+DEMO0196,BI Analyst,Kolkata,Entry-level,,"Statistics, Git, Communication, Python, Machine Learning",Communication
+DEMO0196,BI Analyst,Kolkata,Entry-level,,"Statistics, Git, Communication, Python, Machine Learning",Python
+DEMO0196,BI Analyst,Kolkata,Entry-level,,"Statistics, Git, Communication, Python, Machine Learning",Machine Learning
+DEMO0197,Junior Data Analyst,Chennai,Associate,,"Pandas, Power BI, Python",Pandas
+DEMO0197,Junior Data Analyst,Chennai,Associate,,"Pandas, Power BI, Python",Power Bi
+DEMO0197,Junior Data Analyst,Chennai,Associate,,"Pandas, Power BI, Python",Python
+DEMO0198,Business Analyst,Bengaluru,Entry-level,,"Pandas, ETL, Tableau",Pandas
+DEMO0198,Business Analyst,Bengaluru,Entry-level,,"Pandas, ETL, Tableau",Etl
+DEMO0198,Business Analyst,Bengaluru,Entry-level,,"Pandas, ETL, Tableau",Tableau
+DEMO0199,Reporting Analyst,Remote,Entry-level,,"SQL, A/B Testing, Statistics, Excel, Pandas, Communication",Sql
+DEMO0199,Reporting Analyst,Remote,Entry-level,,"SQL, A/B Testing, Statistics, Excel, Pandas, Communication",A/B Testing
+DEMO0199,Reporting Analyst,Remote,Entry-level,,"SQL, A/B Testing, Statistics, Excel, Pandas, Communication",Statistics
+DEMO0199,Reporting Analyst,Remote,Entry-level,,"SQL, A/B Testing, Statistics, Excel, Pandas, Communication",Excel
+DEMO0199,Reporting Analyst,Remote,Entry-level,,"SQL, A/B Testing, Statistics, Excel, Pandas, Communication",Pandas
+DEMO0199,Reporting Analyst,Remote,Entry-level,,"SQL, A/B Testing, Statistics, Excel, Pandas, Communication",Communication
+DEMO0200,BI Analyst,Chennai,Mid-level,,"Python, Pandas, A/B Testing, Communication, Excel",Python
+DEMO0200,BI Analyst,Chennai,Mid-level,,"Python, Pandas, A/B Testing, Communication, Excel",Pandas
+DEMO0200,BI Analyst,Chennai,Mid-level,,"Python, Pandas, A/B Testing, Communication, Excel",A/B Testing
+DEMO0200,BI Analyst,Chennai,Mid-level,,"Python, Pandas, A/B Testing, Communication, Excel",Communication
+DEMO0200,BI Analyst,Chennai,Mid-level,,"Python, Pandas, A/B Testing, Communication, Excel",Excel
+DEMO0201,Junior Data Analyst,Pune,Entry-level,,"ETL, Machine Learning, Power BI, Excel, Git, A/B Testing, SQL",Etl
+DEMO0201,Junior Data Analyst,Pune,Entry-level,,"ETL, Machine Learning, Power BI, Excel, Git, A/B Testing, SQL",Machine Learning
+DEMO0201,Junior Data Analyst,Pune,Entry-level,,"ETL, Machine Learning, Power BI, Excel, Git, A/B Testing, SQL",Power Bi
+DEMO0201,Junior Data Analyst,Pune,Entry-level,,"ETL, Machine Learning, Power BI, Excel, Git, A/B Testing, SQL",Excel
+DEMO0201,Junior Data Analyst,Pune,Entry-level,,"ETL, Machine Learning, Power BI, Excel, Git, A/B Testing, SQL",Git
+DEMO0201,Junior Data Analyst,Pune,Entry-level,,"ETL, Machine Learning, Power BI, Excel, Git, A/B Testing, SQL",A/B Testing
+DEMO0201,Junior Data Analyst,Pune,Entry-level,,"ETL, Machine Learning, Power BI, Excel, Git, A/B Testing, SQL",Sql
+DEMO0202,Reporting Analyst,Mumbai,Associate,8.5,"A/B Testing, Communication, Tableau, SQL, ETL, Excel, Machine Learning",A/B Testing
+DEMO0202,Reporting Analyst,Mumbai,Associate,8.5,"A/B Testing, Communication, Tableau, SQL, ETL, Excel, Machine Learning",Communication
+DEMO0202,Reporting Analyst,Mumbai,Associate,8.5,"A/B Testing, Communication, Tableau, SQL, ETL, Excel, Machine Learning",Tableau
+DEMO0202,Reporting Analyst,Mumbai,Associate,8.5,"A/B Testing, Communication, Tableau, SQL, ETL, Excel, Machine Learning",Sql
+DEMO0202,Reporting Analyst,Mumbai,Associate,8.5,"A/B Testing, Communication, Tableau, SQL, ETL, Excel, Machine Learning",Etl
+DEMO0202,Reporting Analyst,Mumbai,Associate,8.5,"A/B Testing, Communication, Tableau, SQL, ETL, Excel, Machine Learning",Excel
+DEMO0202,Reporting Analyst,Mumbai,Associate,8.5,"A/B Testing, Communication, Tableau, SQL, ETL, Excel, Machine Learning",Machine Learning
+DEMO0203,Reporting Analyst,Remote,Associate,,"Git, SQL, Statistics",Git
+DEMO0203,Reporting Analyst,Remote,Associate,,"Git, SQL, Statistics",Sql
+DEMO0203,Reporting Analyst,Remote,Associate,,"Git, SQL, Statistics",Statistics
+DEMO0204,Data Analyst,Remote,Mid-level,,"Communication, Excel, SQL",Communication
+DEMO0204,Data Analyst,Remote,Mid-level,,"Communication, Excel, SQL",Excel
+DEMO0204,Data Analyst,Remote,Mid-level,,"Communication, Excel, SQL",Sql
+DEMO0205,Junior Data Analyst,Mumbai,Entry-level,,"A/B Testing, Pandas, Excel, Git, Python, Machine Learning",A/B Testing
+DEMO0205,Junior Data Analyst,Mumbai,Entry-level,,"A/B Testing, Pandas, Excel, Git, Python, Machine Learning",Pandas
+DEMO0205,Junior Data Analyst,Mumbai,Entry-level,,"A/B Testing, Pandas, Excel, Git, Python, Machine Learning",Excel
+DEMO0205,Junior Data Analyst,Mumbai,Entry-level,,"A/B Testing, Pandas, Excel, Git, Python, Machine Learning",Git
+DEMO0205,Junior Data Analyst,Mumbai,Entry-level,,"A/B Testing, Pandas, Excel, Git, Python, Machine Learning",Python
+DEMO0205,Junior Data Analyst,Mumbai,Entry-level,,"A/B Testing, Pandas, Excel, Git, Python, Machine Learning",Machine Learning
+DEMO0206,Product Analyst,Hyderabad,Associate,,"Tableau, Pandas, Power BI",Tableau
+DEMO0206,Product Analyst,Hyderabad,Associate,,"Tableau, Pandas, Power BI",Pandas
+DEMO0206,Product Analyst,Hyderabad,Associate,,"Tableau, Pandas, Power BI",Power Bi
+DEMO0207,Product Analyst,Delhi NCR,Entry-level,,"Excel, SQL, Python, ETL",Excel
+DEMO0207,Product Analyst,Delhi NCR,Entry-level,,"Excel, SQL, Python, ETL",Sql
+DEMO0207,Product Analyst,Delhi NCR,Entry-level,,"Excel, SQL, Python, ETL",Python
+DEMO0207,Product Analyst,Delhi NCR,Entry-level,,"Excel, SQL, Python, ETL",Etl
+DEMO0208,BI Analyst,Hyderabad,Associate,10.0,"SQL, Statistics, Pandas",Sql
+DEMO0208,BI Analyst,Hyderabad,Associate,10.0,"SQL, Statistics, Pandas",Statistics
+DEMO0208,BI Analyst,Hyderabad,Associate,10.0,"SQL, Statistics, Pandas",Pandas
+DEMO0209,Reporting Analyst,Bengaluru,Entry-level,5.5,"Statistics, Python, Tableau, Excel",Statistics
+DEMO0209,Reporting Analyst,Bengaluru,Entry-level,5.5,"Statistics, Python, Tableau, Excel",Python
+DEMO0209,Reporting Analyst,Bengaluru,Entry-level,5.5,"Statistics, Python, Tableau, Excel",Tableau
+DEMO0209,Reporting Analyst,Bengaluru,Entry-level,5.5,"Statistics, Python, Tableau, Excel",Excel
+DEMO0210,Business Analyst,Delhi NCR,Entry-level,9.5,"SQL, Git, Pandas, Power BI",Sql
+DEMO0210,Business Analyst,Delhi NCR,Entry-level,9.5,"SQL, Git, Pandas, Power BI",Git
+DEMO0210,Business Analyst,Delhi NCR,Entry-level,9.5,"SQL, Git, Pandas, Power BI",Pandas
+DEMO0210,Business Analyst,Delhi NCR,Entry-level,9.5,"SQL, Git, Pandas, Power BI",Power Bi
+DEMO0211,Data Analyst,Chennai,Entry-level,6.5,"Power BI, Git, SQL, Pandas",Power Bi
+DEMO0211,Data Analyst,Chennai,Entry-level,6.5,"Power BI, Git, SQL, Pandas",Git
+DEMO0211,Data Analyst,Chennai,Entry-level,6.5,"Power BI, Git, SQL, Pandas",Sql
+DEMO0211,Data Analyst,Chennai,Entry-level,6.5,"Power BI, Git, SQL, Pandas",Pandas
+DEMO0212,BI Analyst,Bengaluru,Associate,9.0,"Tableau, Communication, Power BI, Machine Learning, Statistics, A/B Testing, ETL",Tableau
+DEMO0212,BI Analyst,Bengaluru,Associate,9.0,"Tableau, Communication, Power BI, Machine Learning, Statistics, A/B Testing, ETL",Communication
+DEMO0212,BI Analyst,Bengaluru,Associate,9.0,"Tableau, Communication, Power BI, Machine Learning, Statistics, A/B Testing, ETL",Power Bi
+DEMO0212,BI Analyst,Bengaluru,Associate,9.0,"Tableau, Communication, Power BI, Machine Learning, Statistics, A/B Testing, ETL",Machine Learning
+DEMO0212,BI Analyst,Bengaluru,Associate,9.0,"Tableau, Communication, Power BI, Machine Learning, Statistics, A/B Testing, ETL",Statistics
+DEMO0212,BI Analyst,Bengaluru,Associate,9.0,"Tableau, Communication, Power BI, Machine Learning, Statistics, A/B Testing, ETL",A/B Testing
+DEMO0212,BI Analyst,Bengaluru,Associate,9.0,"Tableau, Communication, Power BI, Machine Learning, Statistics, A/B Testing, ETL",Etl
+DEMO0213,Product Analyst,Mumbai,Associate,,"Statistics, SQL, Pandas",Statistics
+DEMO0213,Product Analyst,Mumbai,Associate,,"Statistics, SQL, Pandas",Sql
+DEMO0213,Product Analyst,Mumbai,Associate,,"Statistics, SQL, Pandas",Pandas
+DEMO0214,Business Analyst,Hyderabad,Mid-level,,"Excel, SQL, Power BI, Git, Pandas",Excel
+DEMO0214,Business Analyst,Hyderabad,Mid-level,,"Excel, SQL, Power BI, Git, Pandas",Sql
+DEMO0214,Business Analyst,Hyderabad,Mid-level,,"Excel, SQL, Power BI, Git, Pandas",Power Bi
+DEMO0214,Business Analyst,Hyderabad,Mid-level,,"Excel, SQL, Power BI, Git, Pandas",Git
+DEMO0214,Business Analyst,Hyderabad,Mid-level,,"Excel, SQL, Power BI, Git, Pandas",Pandas
+DEMO0215,Reporting Analyst,Delhi NCR,Entry-level,,"SQL, Pandas, Python, Power BI, Tableau, Communication, ETL",Sql
+DEMO0215,Reporting Analyst,Delhi NCR,Entry-level,,"SQL, Pandas, Python, Power BI, Tableau, Communication, ETL",Pandas
+DEMO0215,Reporting Analyst,Delhi NCR,Entry-level,,"SQL, Pandas, Python, Power BI, Tableau, Communication, ETL",Python
+DEMO0215,Reporting Analyst,Delhi NCR,Entry-level,,"SQL, Pandas, Python, Power BI, Tableau, Communication, ETL",Power Bi
+DEMO0215,Reporting Analyst,Delhi NCR,Entry-level,,"SQL, Pandas, Python, Power BI, Tableau, Communication, ETL",Tableau
+DEMO0215,Reporting Analyst,Delhi NCR,Entry-level,,"SQL, Pandas, Python, Power BI, Tableau, Communication, ETL",Communication
+DEMO0215,Reporting Analyst,Delhi NCR,Entry-level,,"SQL, Pandas, Python, Power BI, Tableau, Communication, ETL",Etl
+DEMO0216,Reporting Analyst,Hyderabad,Mid-level,,"Python, Excel, A/B Testing",Python
+DEMO0216,Reporting Analyst,Hyderabad,Mid-level,,"Python, Excel, A/B Testing",Excel
+DEMO0216,Reporting Analyst,Hyderabad,Mid-level,,"Python, Excel, A/B Testing",A/B Testing
+DEMO0217,BI Analyst,Hyderabad,Mid-level,,"Tableau, Excel, ETL, Python, A/B Testing, Pandas",Tableau
+DEMO0217,BI Analyst,Hyderabad,Mid-level,,"Tableau, Excel, ETL, Python, A/B Testing, Pandas",Excel
+DEMO0217,BI Analyst,Hyderabad,Mid-level,,"Tableau, Excel, ETL, Python, A/B Testing, Pandas",Etl
+DEMO0217,BI Analyst,Hyderabad,Mid-level,,"Tableau, Excel, ETL, Python, A/B Testing, Pandas",Python
+DEMO0217,BI Analyst,Hyderabad,Mid-level,,"Tableau, Excel, ETL, Python, A/B Testing, Pandas",A/B Testing
+DEMO0217,BI Analyst,Hyderabad,Mid-level,,"Tableau, Excel, ETL, Python, A/B Testing, Pandas",Pandas
+DEMO0218,Data Analyst,Pune,Entry-level,,"Tableau, Python, SQL, Pandas, Machine Learning",Tableau
+DEMO0218,Data Analyst,Pune,Entry-level,,"Tableau, Python, SQL, Pandas, Machine Learning",Python
+DEMO0218,Data Analyst,Pune,Entry-level,,"Tableau, Python, SQL, Pandas, Machine Learning",Sql
+DEMO0218,Data Analyst,Pune,Entry-level,,"Tableau, Python, SQL, Pandas, Machine Learning",Pandas
+DEMO0218,Data Analyst,Pune,Entry-level,,"Tableau, Python, SQL, Pandas, Machine Learning",Machine Learning
+DEMO0219,Business Analyst,Mumbai,Mid-level,,"Power BI, Pandas, Statistics, Excel",Power Bi
+DEMO0219,Business Analyst,Mumbai,Mid-level,,"Power BI, Pandas, Statistics, Excel",Pandas
+DEMO0219,Business Analyst,Mumbai,Mid-level,,"Power BI, Pandas, Statistics, Excel",Statistics
+DEMO0219,Business Analyst,Mumbai,Mid-level,,"Power BI, Pandas, Statistics, Excel",Excel
+DEMO0220,BI Analyst,Kolkata,Entry-level,,"SQL, Machine Learning, A/B Testing",Sql
+DEMO0220,BI Analyst,Kolkata,Entry-level,,"SQL, Machine Learning, A/B Testing",Machine Learning
+DEMO0220,BI Analyst,Kolkata,Entry-level,,"SQL, Machine Learning, A/B Testing",A/B Testing
+DEMO0221,Business Analyst,Mumbai,Mid-level,,"Tableau, A/B Testing, Machine Learning, Python",Tableau
+DEMO0221,Business Analyst,Mumbai,Mid-level,,"Tableau, A/B Testing, Machine Learning, Python",A/B Testing
+DEMO0221,Business Analyst,Mumbai,Mid-level,,"Tableau, A/B Testing, Machine Learning, Python",Machine Learning
+DEMO0221,Business Analyst,Mumbai,Mid-level,,"Tableau, A/B Testing, Machine Learning, Python",Python
+DEMO0222,Junior Data Analyst,Mumbai,Mid-level,,"Excel, Tableau, Pandas",Excel
+DEMO0222,Junior Data Analyst,Mumbai,Mid-level,,"Excel, Tableau, Pandas",Tableau
+DEMO0222,Junior Data Analyst,Mumbai,Mid-level,,"Excel, Tableau, Pandas",Pandas
+DEMO0223,Product Analyst,Chennai,Mid-level,,"Machine Learning, Git, A/B Testing, Statistics, ETL",Machine Learning
+DEMO0223,Product Analyst,Chennai,Mid-level,,"Machine Learning, Git, A/B Testing, Statistics, ETL",Git
+DEMO0223,Product Analyst,Chennai,Mid-level,,"Machine Learning, Git, A/B Testing, Statistics, ETL",A/B Testing
+DEMO0223,Product Analyst,Chennai,Mid-level,,"Machine Learning, Git, A/B Testing, Statistics, ETL",Statistics
+DEMO0223,Product Analyst,Chennai,Mid-level,,"Machine Learning, Git, A/B Testing, Statistics, ETL",Etl
+DEMO0224,BI Analyst,Mumbai,Associate,,"Machine Learning, Git, Statistics",Machine Learning
+DEMO0224,BI Analyst,Mumbai,Associate,,"Machine Learning, Git, Statistics",Git
+DEMO0224,BI Analyst,Mumbai,Associate,,"Machine Learning, Git, Statistics",Statistics
+DEMO0225,Data Analyst,Chennai,Mid-level,,"Communication, Pandas, Statistics, Python",Communication
+DEMO0225,Data Analyst,Chennai,Mid-level,,"Communication, Pandas, Statistics, Python",Pandas
+DEMO0225,Data Analyst,Chennai,Mid-level,,"Communication, Pandas, Statistics, Python",Statistics
+DEMO0225,Data Analyst,Chennai,Mid-level,,"Communication, Pandas, Statistics, Python",Python
+DEMO0226,Reporting Analyst,Mumbai,Entry-level,4.0,"Python, Communication, Power BI, Machine Learning, Tableau, Excel, ETL",Python
+DEMO0226,Reporting Analyst,Mumbai,Entry-level,4.0,"Python, Communication, Power BI, Machine Learning, Tableau, Excel, ETL",Communication
+DEMO0226,Reporting Analyst,Mumbai,Entry-level,4.0,"Python, Communication, Power BI, Machine Learning, Tableau, Excel, ETL",Power Bi
+DEMO0226,Reporting Analyst,Mumbai,Entry-level,4.0,"Python, Communication, Power BI, Machine Learning, Tableau, Excel, ETL",Machine Learning
+DEMO0226,Reporting Analyst,Mumbai,Entry-level,4.0,"Python, Communication, Power BI, Machine Learning, Tableau, Excel, ETL",Tableau
+DEMO0226,Reporting Analyst,Mumbai,Entry-level,4.0,"Python, Communication, Power BI, Machine Learning, Tableau, Excel, ETL",Excel
+DEMO0226,Reporting Analyst,Mumbai,Entry-level,4.0,"Python, Communication, Power BI, Machine Learning, Tableau, Excel, ETL",Etl
+DEMO0227,Reporting Analyst,Pune,Entry-level,,"Python, Statistics, A/B Testing, ETL",Python
+DEMO0227,Reporting Analyst,Pune,Entry-level,,"Python, Statistics, A/B Testing, ETL",Statistics
+DEMO0227,Reporting Analyst,Pune,Entry-level,,"Python, Statistics, A/B Testing, ETL",A/B Testing
+DEMO0227,Reporting Analyst,Pune,Entry-level,,"Python, Statistics, A/B Testing, ETL",Etl
+DEMO0228,BI Analyst,Pune,Mid-level,,"Communication, Excel, Statistics, Tableau, A/B Testing, ETL",Communication
+DEMO0228,BI Analyst,Pune,Mid-level,,"Communication, Excel, Statistics, Tableau, A/B Testing, ETL",Excel
+DEMO0228,BI Analyst,Pune,Mid-level,,"Communication, Excel, Statistics, Tableau, A/B Testing, ETL",Statistics
+DEMO0228,BI Analyst,Pune,Mid-level,,"Communication, Excel, Statistics, Tableau, A/B Testing, ETL",Tableau
+DEMO0228,BI Analyst,Pune,Mid-level,,"Communication, Excel, Statistics, Tableau, A/B Testing, ETL",A/B Testing
+DEMO0228,BI Analyst,Pune,Mid-level,,"Communication, Excel, Statistics, Tableau, A/B Testing, ETL",Etl
+DEMO0229,BI Analyst,Bengaluru,Mid-level,,"ETL, Communication, Python, Pandas",Etl
+DEMO0229,BI Analyst,Bengaluru,Mid-level,,"ETL, Communication, Python, Pandas",Communication
+DEMO0229,BI Analyst,Bengaluru,Mid-level,,"ETL, Communication, Python, Pandas",Python
+DEMO0229,BI Analyst,Bengaluru,Mid-level,,"ETL, Communication, Python, Pandas",Pandas
+DEMO0230,Reporting Analyst,Pune,Associate,9.0,"Python, Communication, Statistics",Python
+DEMO0230,Reporting Analyst,Pune,Associate,9.0,"Python, Communication, Statistics",Communication
+DEMO0230,Reporting Analyst,Pune,Associate,9.0,"Python, Communication, Statistics",Statistics
+DEMO0231,BI Analyst,Hyderabad,Associate,,"ETL, Excel, Statistics, Machine Learning",Etl
+DEMO0231,BI Analyst,Hyderabad,Associate,,"ETL, Excel, Statistics, Machine Learning",Excel
+DEMO0231,BI Analyst,Hyderabad,Associate,,"ETL, Excel, Statistics, Machine Learning",Statistics
+DEMO0231,BI Analyst,Hyderabad,Associate,,"ETL, Excel, Statistics, Machine Learning",Machine Learning
+DEMO0232,Data Analyst,Kolkata,Mid-level,,"Machine Learning, Pandas, Python, ETL, A/B Testing, Power BI",Machine Learning
+DEMO0232,Data Analyst,Kolkata,Mid-level,,"Machine Learning, Pandas, Python, ETL, A/B Testing, Power BI",Pandas
+DEMO0232,Data Analyst,Kolkata,Mid-level,,"Machine Learning, Pandas, Python, ETL, A/B Testing, Power BI",Python
+DEMO0232,Data Analyst,Kolkata,Mid-level,,"Machine Learning, Pandas, Python, ETL, A/B Testing, Power BI",Etl
+DEMO0232,Data Analyst,Kolkata,Mid-level,,"Machine Learning, Pandas, Python, ETL, A/B Testing, Power BI",A/B Testing
+DEMO0232,Data Analyst,Kolkata,Mid-level,,"Machine Learning, Pandas, Python, ETL, A/B Testing, Power BI",Power Bi
+DEMO0233,Junior Data Analyst,Chennai,Entry-level,10.0,"SQL, Tableau, A/B Testing",Sql
+DEMO0233,Junior Data Analyst,Chennai,Entry-level,10.0,"SQL, Tableau, A/B Testing",Tableau
+DEMO0233,Junior Data Analyst,Chennai,Entry-level,10.0,"SQL, Tableau, A/B Testing",A/B Testing
+DEMO0234,Data Analyst,Bengaluru,Entry-level,8.0,"Communication, A/B Testing, Machine Learning, SQL, Pandas",Communication
+DEMO0234,Data Analyst,Bengaluru,Entry-level,8.0,"Communication, A/B Testing, Machine Learning, SQL, Pandas",A/B Testing
+DEMO0234,Data Analyst,Bengaluru,Entry-level,8.0,"Communication, A/B Testing, Machine Learning, SQL, Pandas",Machine Learning
+DEMO0234,Data Analyst,Bengaluru,Entry-level,8.0,"Communication, A/B Testing, Machine Learning, SQL, Pandas",Sql
+DEMO0234,Data Analyst,Bengaluru,Entry-level,8.0,"Communication, A/B Testing, Machine Learning, SQL, Pandas",Pandas
+DEMO0235,Product Analyst,Kolkata,Entry-level,5.5,"A/B Testing, Git, Tableau, Communication, ETL, Excel, SQL",A/B Testing
+DEMO0235,Product Analyst,Kolkata,Entry-level,5.5,"A/B Testing, Git, Tableau, Communication, ETL, Excel, SQL",Git
+DEMO0235,Product Analyst,Kolkata,Entry-level,5.5,"A/B Testing, Git, Tableau, Communication, ETL, Excel, SQL",Tableau
+DEMO0235,Product Analyst,Kolkata,Entry-level,5.5,"A/B Testing, Git, Tableau, Communication, ETL, Excel, SQL",Communication
+DEMO0235,Product Analyst,Kolkata,Entry-level,5.5,"A/B Testing, Git, Tableau, Communication, ETL, Excel, SQL",Etl
+DEMO0235,Product Analyst,Kolkata,Entry-level,5.5,"A/B Testing, Git, Tableau, Communication, ETL, Excel, SQL",Excel
+DEMO0235,Product Analyst,Kolkata,Entry-level,5.5,"A/B Testing, Git, Tableau, Communication, ETL, Excel, SQL",Sql
+DEMO0236,BI Analyst,Delhi NCR,Associate,,"Machine Learning, Power BI, Excel, SQL, ETL, Communication, Statistics",Machine Learning
+DEMO0236,BI Analyst,Delhi NCR,Associate,,"Machine Learning, Power BI, Excel, SQL, ETL, Communication, Statistics",Power Bi
+DEMO0236,BI Analyst,Delhi NCR,Associate,,"Machine Learning, Power BI, Excel, SQL, ETL, Communication, Statistics",Excel
+DEMO0236,BI Analyst,Delhi NCR,Associate,,"Machine Learning, Power BI, Excel, SQL, ETL, Communication, Statistics",Sql
+DEMO0236,BI Analyst,Delhi NCR,Associate,,"Machine Learning, Power BI, Excel, SQL, ETL, Communication, Statistics",Etl
+DEMO0236,BI Analyst,Delhi NCR,Associate,,"Machine Learning, Power BI, Excel, SQL, ETL, Communication, Statistics",Communication
+DEMO0236,BI Analyst,Delhi NCR,Associate,,"Machine Learning, Power BI, Excel, SQL, ETL, Communication, Statistics",Statistics
+DEMO0237,Data Analyst,Delhi NCR,Entry-level,,"Pandas, Python, Statistics, A/B Testing, Communication, Excel, Power BI",Pandas
+DEMO0237,Data Analyst,Delhi NCR,Entry-level,,"Pandas, Python, Statistics, A/B Testing, Communication, Excel, Power BI",Python
+DEMO0237,Data Analyst,Delhi NCR,Entry-level,,"Pandas, Python, Statistics, A/B Testing, Communication, Excel, Power BI",Statistics
+DEMO0237,Data Analyst,Delhi NCR,Entry-level,,"Pandas, Python, Statistics, A/B Testing, Communication, Excel, Power BI",A/B Testing
+DEMO0237,Data Analyst,Delhi NCR,Entry-level,,"Pandas, Python, Statistics, A/B Testing, Communication, Excel, Power BI",Communication
+DEMO0237,Data Analyst,Delhi NCR,Entry-level,,"Pandas, Python, Statistics, A/B Testing, Communication, Excel, Power BI",Excel
+DEMO0237,Data Analyst,Delhi NCR,Entry-level,,"Pandas, Python, Statistics, A/B Testing, Communication, Excel, Power BI",Power Bi
+DEMO0238,Product Analyst,Bengaluru,Associate,12.0,"Excel, ETL, Statistics",Excel
+DEMO0238,Product Analyst,Bengaluru,Associate,12.0,"Excel, ETL, Statistics",Etl
+DEMO0238,Product Analyst,Bengaluru,Associate,12.0,"Excel, ETL, Statistics",Statistics
+DEMO0239,Junior Data Analyst,Pune,Entry-level,,"Power BI, Machine Learning, Tableau, Excel, Pandas, ETL, Statistics",Power Bi
+DEMO0239,Junior Data Analyst,Pune,Entry-level,,"Power BI, Machine Learning, Tableau, Excel, Pandas, ETL, Statistics",Machine Learning
+DEMO0239,Junior Data Analyst,Pune,Entry-level,,"Power BI, Machine Learning, Tableau, Excel, Pandas, ETL, Statistics",Tableau
+DEMO0239,Junior Data Analyst,Pune,Entry-level,,"Power BI, Machine Learning, Tableau, Excel, Pandas, ETL, Statistics",Excel
+DEMO0239,Junior Data Analyst,Pune,Entry-level,,"Power BI, Machine Learning, Tableau, Excel, Pandas, ETL, Statistics",Pandas
+DEMO0239,Junior Data Analyst,Pune,Entry-level,,"Power BI, Machine Learning, Tableau, Excel, Pandas, ETL, Statistics",Etl
+DEMO0239,Junior Data Analyst,Pune,Entry-level,,"Power BI, Machine Learning, Tableau, Excel, Pandas, ETL, Statistics",Statistics
+DEMO0240,Business Analyst,Delhi NCR,Associate,,"Python, SQL, Pandas, Excel",Python
+DEMO0240,Business Analyst,Delhi NCR,Associate,,"Python, SQL, Pandas, Excel",Sql
+DEMO0240,Business Analyst,Delhi NCR,Associate,,"Python, SQL, Pandas, Excel",Pandas
+DEMO0240,Business Analyst,Delhi NCR,Associate,,"Python, SQL, Pandas, Excel",Excel
+DEMO0241,Junior Data Analyst,Pune,Mid-level,,"Pandas, Git, Statistics, Tableau, Machine Learning, A/B Testing, SQL",Pandas
+DEMO0241,Junior Data Analyst,Pune,Mid-level,,"Pandas, Git, Statistics, Tableau, Machine Learning, A/B Testing, SQL",Git
+DEMO0241,Junior Data Analyst,Pune,Mid-level,,"Pandas, Git, Statistics, Tableau, Machine Learning, A/B Testing, SQL",Statistics
+DEMO0241,Junior Data Analyst,Pune,Mid-level,,"Pandas, Git, Statistics, Tableau, Machine Learning, A/B Testing, SQL",Tableau
+DEMO0241,Junior Data Analyst,Pune,Mid-level,,"Pandas, Git, Statistics, Tableau, Machine Learning, A/B Testing, SQL",Machine Learning
+DEMO0241,Junior Data Analyst,Pune,Mid-level,,"Pandas, Git, Statistics, Tableau, Machine Learning, A/B Testing, SQL",A/B Testing
+DEMO0241,Junior Data Analyst,Pune,Mid-level,,"Pandas, Git, Statistics, Tableau, Machine Learning, A/B Testing, SQL",Sql
+DEMO0242,Data Analyst,Kolkata,Mid-level,10.5,"Communication, Excel, Tableau",Communication
+DEMO0242,Data Analyst,Kolkata,Mid-level,10.5,"Communication, Excel, Tableau",Excel
+DEMO0242,Data Analyst,Kolkata,Mid-level,10.5,"Communication, Excel, Tableau",Tableau
+DEMO0243,Junior Data Analyst,Kolkata,Associate,,"Communication, A/B Testing, Pandas, SQL",Communication
+DEMO0243,Junior Data Analyst,Kolkata,Associate,,"Communication, A/B Testing, Pandas, SQL",A/B Testing
+DEMO0243,Junior Data Analyst,Kolkata,Associate,,"Communication, A/B Testing, Pandas, SQL",Pandas
+DEMO0243,Junior Data Analyst,Kolkata,Associate,,"Communication, A/B Testing, Pandas, SQL",Sql
+DEMO0244,BI Analyst,Remote,Mid-level,9.5,"Tableau, Machine Learning, Excel, Power BI, Python",Tableau
+DEMO0244,BI Analyst,Remote,Mid-level,9.5,"Tableau, Machine Learning, Excel, Power BI, Python",Machine Learning
+DEMO0244,BI Analyst,Remote,Mid-level,9.5,"Tableau, Machine Learning, Excel, Power BI, Python",Excel
+DEMO0244,BI Analyst,Remote,Mid-level,9.5,"Tableau, Machine Learning, Excel, Power BI, Python",Power Bi
+DEMO0244,BI Analyst,Remote,Mid-level,9.5,"Tableau, Machine Learning, Excel, Power BI, Python",Python
+DEMO0245,Junior Data Analyst,Bengaluru,Entry-level,,"Git, Statistics, SQL, A/B Testing, Python, Communication",Git
+DEMO0245,Junior Data Analyst,Bengaluru,Entry-level,,"Git, Statistics, SQL, A/B Testing, Python, Communication",Statistics
+DEMO0245,Junior Data Analyst,Bengaluru,Entry-level,,"Git, Statistics, SQL, A/B Testing, Python, Communication",Sql
+DEMO0245,Junior Data Analyst,Bengaluru,Entry-level,,"Git, Statistics, SQL, A/B Testing, Python, Communication",A/B Testing
+DEMO0245,Junior Data Analyst,Bengaluru,Entry-level,,"Git, Statistics, SQL, A/B Testing, Python, Communication",Python
+DEMO0245,Junior Data Analyst,Bengaluru,Entry-level,,"Git, Statistics, SQL, A/B Testing, Python, Communication",Communication
+DEMO0246,Data Analyst,Remote,Mid-level,,"SQL, Machine Learning, A/B Testing, Statistics",Sql
+DEMO0246,Data Analyst,Remote,Mid-level,,"SQL, Machine Learning, A/B Testing, Statistics",Machine Learning
+DEMO0246,Data Analyst,Remote,Mid-level,,"SQL, Machine Learning, A/B Testing, Statistics",A/B Testing
+DEMO0246,Data Analyst,Remote,Mid-level,,"SQL, Machine Learning, A/B Testing, Statistics",Statistics
+DEMO0247,Junior Data Analyst,Remote,Entry-level,,"Machine Learning, Python, A/B Testing, Git, Statistics, ETL, Excel",Machine Learning
+DEMO0247,Junior Data Analyst,Remote,Entry-level,,"Machine Learning, Python, A/B Testing, Git, Statistics, ETL, Excel",Python
+DEMO0247,Junior Data Analyst,Remote,Entry-level,,"Machine Learning, Python, A/B Testing, Git, Statistics, ETL, Excel",A/B Testing
+DEMO0247,Junior Data Analyst,Remote,Entry-level,,"Machine Learning, Python, A/B Testing, Git, Statistics, ETL, Excel",Git
+DEMO0247,Junior Data Analyst,Remote,Entry-level,,"Machine Learning, Python, A/B Testing, Git, Statistics, ETL, Excel",Statistics
+DEMO0247,Junior Data Analyst,Remote,Entry-level,,"Machine Learning, Python, A/B Testing, Git, Statistics, ETL, Excel",Etl
+DEMO0247,Junior Data Analyst,Remote,Entry-level,,"Machine Learning, Python, A/B Testing, Git, Statistics, ETL, Excel",Excel
+DEMO0248,Business Analyst,Kolkata,Entry-level,,"ETL, Power BI, A/B Testing, Tableau",Etl
+DEMO0248,Business Analyst,Kolkata,Entry-level,,"ETL, Power BI, A/B Testing, Tableau",Power Bi
+DEMO0248,Business Analyst,Kolkata,Entry-level,,"ETL, Power BI, A/B Testing, Tableau",A/B Testing
+DEMO0248,Business Analyst,Kolkata,Entry-level,,"ETL, Power BI, A/B Testing, Tableau",Tableau
+DEMO0249,Business Analyst,Kolkata,Associate,,"Communication, Tableau, ETL, Pandas, Git",Communication
+DEMO0249,Business Analyst,Kolkata,Associate,,"Communication, Tableau, ETL, Pandas, Git",Tableau
+DEMO0249,Business Analyst,Kolkata,Associate,,"Communication, Tableau, ETL, Pandas, Git",Etl
+DEMO0249,Business Analyst,Kolkata,Associate,,"Communication, Tableau, ETL, Pandas, Git",Pandas
+DEMO0249,Business Analyst,Kolkata,Associate,,"Communication, Tableau, ETL, Pandas, Git",Git
+DEMO0250,Reporting Analyst,Hyderabad,Associate,,"SQL, Git, Statistics",Sql
+DEMO0250,Reporting Analyst,Hyderabad,Associate,,"SQL, Git, Statistics",Git
+DEMO0250,Reporting Analyst,Hyderabad,Associate,,"SQL, Git, Statistics",Statistics

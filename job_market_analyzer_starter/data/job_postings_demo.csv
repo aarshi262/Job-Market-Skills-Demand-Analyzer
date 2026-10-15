@@ -1,0 +1,251 @@
+job_id,job_title,company,location,experience_level,work_mode,posted_date,salary_min_lpa,salary_max_lpa,skills,job_url
+DEMO0001,Product Analyst,Pinecone Services,Hyderabad,Mid-level,Hybrid,2025-04-15,6.0,9.0,"SQL, Tableau, Power BI",https://example.com/demo-job
+DEMO0002,Business Analyst,NovaWorks,Chennai,Associate,On-site,2025-06-13,,,"Communication, SQL, Git, Power BI, Pandas, Excel, A/B Testing",https://example.com/demo-job
+DEMO0003,Data Analyst,Aster Analytics,Kolkata,Mid-level,On-site,2025-09-28,,,"Pandas, Excel, Statistics",https://example.com/demo-job
+DEMO0004,Reporting Analyst,BluePeak Tech,Mumbai,Entry-level,Hybrid,2025-10-24,,,"ETL, Communication, Statistics, Power BI, Excel",https://example.com/demo-job
+DEMO0005,BI Analyst,Pinecone Services,Mumbai,Entry-level,Hybrid,2025-06-25,,,"Statistics, A/B Testing, Power BI, Tableau",https://example.com/demo-job
+DEMO0006,Product Analyst,BluePeak Tech,Mumbai,Mid-level,Remote,2025-10-02,,,"Power BI, ETL, Statistics, SQL, A/B Testing, Pandas, Git",https://example.com/demo-job
+DEMO0007,Junior Data Analyst,BrightPath,Mumbai,Entry-level,Remote,2026-02-13,,,"Python, Tableau, A/B Testing, Power BI, ETL, Statistics",https://example.com/demo-job
+DEMO0008,Data Analyst,Orbit Insights,Delhi NCR,Mid-level,On-site,2026-09-03,,,"ETL, Python, Pandas, Excel",https://example.com/demo-job
+DEMO0009,Reporting Analyst,Vertex Labs,Pune,Mid-level,On-site,2025-01-04,,,"ETL, Statistics, Excel, Tableau, Pandas",https://example.com/demo-job
+DEMO0010,Product Analyst,Orbit Insights,Bengaluru,Entry-level,Hybrid,2025-11-28,,,"Communication, Power BI, Python, Statistics, A/B Testing, Tableau, Pandas",https://example.com/demo-job
+DEMO0011,BI Analyst,Pinecone Services,Pune,Entry-level,Remote,2025-03-12,4.0,9.0,"SQL, Power BI, Communication, Excel",https://example.com/demo-job
+DEMO0012,BI Analyst,Pinecone Services,Kolkata,Entry-level,On-site,2026-03-25,9.0,13.0,"Communication, Pandas, Power BI, Git, A/B Testing, Statistics, Python",https://example.com/demo-job
+DEMO0013,Reporting Analyst,Aster Analytics,Chennai,Entry-level,Remote,2025-03-11,,,"Power BI, Communication, A/B Testing, SQL, Excel, Statistics, Pandas",https://example.com/demo-job
+DEMO0014,Business Analyst,BluePeak Tech,Remote,Associate,Hybrid,2025-04-07,,,"Python, Communication, ETL, Machine Learning, Power BI, Pandas, Git",https://example.com/demo-job
+DEMO0015,Data Analyst,Cedar Digital,Kolkata,Entry-level,Hybrid,2025-07-16,4.0,7.0,"SQL, Pandas, Statistics",https://example.com/demo-job
+DEMO0016,Data Analyst,Orbit Insights,Kolkata,Entry-level,Hybrid,2026-02-21,,,"Git, Excel, SQL, A/B Testing, Communication, Machine Learning",https://example.com/demo-job
+DEMO0017,Data Analyst,Aster Analytics,Bengaluru,Mid-level,Hybrid,2025-08-11,,,"Tableau, Machine Learning, A/B Testing, Pandas, ETL, Excel",https://example.com/demo-job
+DEMO0018,Reporting Analyst,BluePeak Tech,Mumbai,Mid-level,Remote,2026-02-18,4.0,7.0,"Python, SQL, Git, Excel, A/B Testing, ETL, Tableau",https://example.com/demo-job
+DEMO0019,Product Analyst,NovaWorks,Pune,Mid-level,Remote,2025-09-29,8.0,11.0,"Communication, Git, Statistics, Tableau, Power BI, A/B Testing, Pandas",https://example.com/demo-job
+DEMO0020,Data Analyst,Cedar Digital,Delhi NCR,Entry-level,Hybrid,2026-07-05,,,"Machine Learning, Communication, ETL",https://example.com/demo-job
+DEMO0021,BI Analyst,Vertex Labs,Hyderabad,Entry-level,Remote,2025-05-18,,,"Python, Machine Learning, Git, Tableau, SQL",https://example.com/demo-job
+DEMO0022,Reporting Analyst,BluePeak Tech,Remote,Associate,On-site,2025-02-22,,,"A/B Testing, Statistics, Power BI, Tableau",https://example.com/demo-job
+DEMO0023,Product Analyst,Pinecone Services,Bengaluru,Associate,Remote,2025-06-02,,,"Python, Machine Learning, Git, Pandas, SQL",https://example.com/demo-job
+DEMO0024,Data Analyst,NovaWorks,Pune,Entry-level,On-site,2026-07-28,,,"Statistics, SQL, A/B Testing, Power BI, Git",https://example.com/demo-job
+DEMO0025,Junior Data Analyst,BluePeak Tech,Remote,Entry-level,Hybrid,2025-06-13,,,"Python, Statistics, Pandas",https://example.com/demo-job
+DEMO0026,Junior Data Analyst,BluePeak Tech,Delhi NCR,Associate,Remote,2025-10-13,,,"Tableau, Power BI, ETL, SQL, Communication",https://example.com/demo-job
+DEMO0027,Reporting Analyst,NovaWorks,Chennai,Mid-level,Hybrid,2026-09-03,,,"SQL, Excel, Tableau, Python, Communication",https://example.com/demo-job
+DEMO0028,Data Analyst,BluePeak Tech,Chennai,Mid-level,Hybrid,2026-03-18,,,"Communication, Power BI, Tableau, SQL, Pandas, Git",https://example.com/demo-job
+DEMO0029,BI Analyst,NovaWorks,Pune,Mid-level,Remote,2026-03-07,5.0,8.0,"Tableau, ETL, Pandas, Statistics, Communication, Git, Python",https://example.com/demo-job
+DEMO0030,Data Analyst,Pinecone Services,Kolkata,Mid-level,On-site,2025-08-07,,,"Tableau, Power BI, Pandas, Statistics, Machine Learning",https://example.com/demo-job
+DEMO0031,Product Analyst,Cedar Digital,Kolkata,Mid-level,On-site,2025-02-17,,,"Statistics, Excel, Power BI, Tableau, Communication, Pandas, ETL",https://example.com/demo-job
+DEMO0032,Reporting Analyst,BluePeak Tech,Remote,Entry-level,On-site,2025-01-06,,,"A/B Testing, Pandas, Machine Learning, ETL",https://example.com/demo-job
+DEMO0033,Junior Data Analyst,Pinecone Services,Chennai,Associate,Remote,2026-04-21,,,"Git, Power BI, Excel",https://example.com/demo-job
+DEMO0034,Junior Data Analyst,Cedar Digital,Delhi NCR,Associate,On-site,2026-05-12,,,"Machine Learning, Python, A/B Testing, Communication, Tableau, Pandas, Excel",https://example.com/demo-job
+DEMO0035,BI Analyst,BluePeak Tech,Remote,Associate,Hybrid,2025-08-08,9.0,12.0,"Git, Excel, Python, Communication, Power BI",https://example.com/demo-job
+DEMO0036,Business Analyst,NovaWorks,Mumbai,Associate,On-site,2026-02-04,8.0,12.0,"Pandas, Communication, SQL, A/B Testing, Machine Learning, ETL",https://example.com/demo-job
+DEMO0037,Junior Data Analyst,Aster Analytics,Remote,Mid-level,Remote,2026-07-01,,,"ETL, A/B Testing, Pandas, Python, Machine Learning",https://example.com/demo-job
+DEMO0038,Junior Data Analyst,Orbit Insights,Chennai,Associate,Hybrid,2025-08-05,,,"Machine Learning, Python, SQL, Tableau",https://example.com/demo-job
+DEMO0039,Junior Data Analyst,Aster Analytics,Bengaluru,Entry-level,On-site,2025-03-12,,,"Excel, Machine Learning, SQL, Git, Communication",https://example.com/demo-job
+DEMO0040,Business Analyst,Northstar Systems,Hyderabad,Entry-level,Hybrid,2026-01-13,10.0,14.0,"Machine Learning, ETL, Excel, Power BI",https://example.com/demo-job
+DEMO0041,BI Analyst,Summit Data,Hyderabad,Mid-level,On-site,2025-11-05,6.0,8.0,"ETL, Pandas, A/B Testing, Power BI, Excel, Tableau, Statistics",https://example.com/demo-job
+DEMO0042,BI Analyst,BluePeak Tech,Remote,Associate,Remote,2026-05-17,,,"Git, ETL, Statistics",https://example.com/demo-job
+DEMO0043,Business Analyst,BrightPath,Mumbai,Entry-level,Hybrid,2025-10-02,,,"Python, Git, Tableau, ETL, Machine Learning, Power BI",https://example.com/demo-job
+DEMO0044,Junior Data Analyst,BrightPath,Delhi NCR,Associate,Hybrid,2025-08-06,,,"Communication, ETL, Pandas, Statistics, SQL, Power BI, Python",https://example.com/demo-job
+DEMO0045,BI Analyst,Orbit Insights,Kolkata,Associate,On-site,2025-09-04,10.0,16.0,"SQL, Git, Power BI, Excel, Communication, Statistics, Machine Learning",https://example.com/demo-job
+DEMO0046,Product Analyst,BrightPath,Remote,Mid-level,Remote,2026-06-28,,,"Tableau, ETL, Communication, Statistics",https://example.com/demo-job
+DEMO0047,BI Analyst,Cedar Digital,Mumbai,Mid-level,Hybrid,2025-07-09,,,"Tableau, Power BI, Excel, ETL, Statistics",https://example.com/demo-job
+DEMO0048,Reporting Analyst,Northstar Systems,Delhi NCR,Entry-level,On-site,2026-07-01,,,"Tableau, Excel, Power BI, A/B Testing, Communication, Python, ETL",https://example.com/demo-job
+DEMO0049,Business Analyst,Aster Analytics,Delhi NCR,Associate,On-site,2025-07-08,,,"Excel, SQL, Communication, Tableau, Machine Learning, Power BI",https://example.com/demo-job
+DEMO0050,Data Analyst,BluePeak Tech,Remote,Mid-level,Remote,2025-09-12,,,"ETL, A/B Testing, SQL, Python, Git, Pandas, Tableau",https://example.com/demo-job
+DEMO0051,Reporting Analyst,Cedar Digital,Mumbai,Associate,Remote,2025-04-12,3.0,9.0,"Machine Learning, A/B Testing, Tableau, Pandas, Communication, ETL",https://example.com/demo-job
+DEMO0052,Reporting Analyst,Vertex Labs,Bengaluru,Entry-level,Hybrid,2026-04-27,,,"Python, SQL, Pandas",https://example.com/demo-job
+DEMO0053,Junior Data Analyst,Pinecone Services,Mumbai,Mid-level,On-site,2025-04-28,,,"ETL, Power BI, Tableau",https://example.com/demo-job
+DEMO0054,Data Analyst,Orbit Insights,Delhi NCR,Mid-level,Hybrid,2025-05-08,,,"Python, Tableau, Communication",https://example.com/demo-job
+DEMO0055,Junior Data Analyst,Cedar Digital,Bengaluru,Mid-level,Hybrid,2025-04-04,,,"Excel, Communication, SQL, Pandas, Statistics, Tableau",https://example.com/demo-job
+DEMO0056,Business Analyst,Orbit Insights,Chennai,Associate,Hybrid,2025-04-04,9.0,14.0,"Git, ETL, Machine Learning, Tableau, Python, A/B Testing",https://example.com/demo-job
+DEMO0057,Business Analyst,Vertex Labs,Chennai,Entry-level,Hybrid,2025-11-19,,,"Pandas, Machine Learning, Tableau, A/B Testing, SQL",https://example.com/demo-job
+DEMO0058,Data Analyst,Vertex Labs,Pune,Associate,Hybrid,2025-07-28,,,"Machine Learning, Pandas, SQL, Power BI, Statistics, Tableau, Git",https://example.com/demo-job
+DEMO0059,Data Analyst,Orbit Insights,Hyderabad,Mid-level,On-site,2025-04-27,,,"Power BI, Python, Tableau, Git, SQL, Communication, A/B Testing",https://example.com/demo-job
+DEMO0060,Reporting Analyst,Summit Data,Pune,Entry-level,Hybrid,2025-07-15,,,"Pandas, Machine Learning, ETL, Power BI, Communication",https://example.com/demo-job
+DEMO0061,BI Analyst,BrightPath,Chennai,Mid-level,Remote,2026-05-11,,,"Tableau, SQL, A/B Testing, Communication, Machine Learning, Pandas, Excel",https://example.com/demo-job
+DEMO0062,Business Analyst,NovaWorks,Remote,Mid-level,Remote,2026-04-30,,,"Communication, Pandas, Power BI, ETL",https://example.com/demo-job
+DEMO0063,Data Analyst,Orbit Insights,Bengaluru,Mid-level,On-site,2026-06-23,,,"Git, Communication, Statistics, Excel",https://example.com/demo-job
+DEMO0064,Business Analyst,Pinecone Services,Remote,Associate,Remote,2025-12-03,,,"Machine Learning, Tableau, Statistics",https://example.com/demo-job
+DEMO0065,Reporting Analyst,NovaWorks,Hyderabad,Mid-level,Remote,2025-04-03,,,"Communication, Excel, Power BI",https://example.com/demo-job
+DEMO0066,Product Analyst,Northstar Systems,Mumbai,Mid-level,Hybrid,2026-03-18,,,"SQL, A/B Testing, Statistics, ETL, Tableau",https://example.com/demo-job
+DEMO0067,Business Analyst,Cedar Digital,Kolkata,Mid-level,Hybrid,2025-05-27,,,"Excel, Communication, Pandas, Power BI",https://example.com/demo-job
+DEMO0068,Junior Data Analyst,NovaWorks,Delhi NCR,Associate,Hybrid,2025-11-03,8.0,14.0,"ETL, Git, Python, Excel, Machine Learning",https://example.com/demo-job
+DEMO0069,Junior Data Analyst,Vertex Labs,Bengaluru,Mid-level,Hybrid,2025-10-30,,,"Power BI, Pandas, Communication",https://example.com/demo-job
+DEMO0070,Product Analyst,Cedar Digital,Mumbai,Mid-level,Hybrid,2025-12-27,,,"Communication, Machine Learning, Tableau",https://example.com/demo-job
+DEMO0071,Product Analyst,BrightPath,Pune,Entry-level,Hybrid,2026-08-17,10.0,12.0,"ETL, Excel, SQL, Tableau",https://example.com/demo-job
+DEMO0072,Business Analyst,Orbit Insights,Delhi NCR,Mid-level,Hybrid,2025-09-21,,,"Git, Statistics, A/B Testing, Communication",https://example.com/demo-job
+DEMO0073,Data Analyst,Aster Analytics,Delhi NCR,Mid-level,On-site,2026-02-09,,,"Power BI, ETL, Pandas, Git",https://example.com/demo-job
+DEMO0074,Product Analyst,Pinecone Services,Chennai,Mid-level,On-site,2026-09-27,,,"Communication, Pandas, Statistics, Excel, Power BI",https://example.com/demo-job
+DEMO0075,Junior Data Analyst,BluePeak Tech,Hyderabad,Entry-level,Remote,2026-05-20,3.0,7.0,"ETL, Pandas, Excel, Python, SQL",https://example.com/demo-job
+DEMO0076,Product Analyst,BrightPath,Mumbai,Associate,Hybrid,2025-02-03,,,"Pandas, Communication, Python, A/B Testing, Excel, Git, Power BI",https://example.com/demo-job
+DEMO0077,Data Analyst,Orbit Insights,Hyderabad,Mid-level,On-site,2025-05-06,,,"Git, ETL, Statistics, SQL, Pandas",https://example.com/demo-job
+DEMO0078,Data Analyst,Cedar Digital,Mumbai,Entry-level,Hybrid,2026-07-22,,,"Statistics, Power BI, Python",https://example.com/demo-job
+DEMO0079,Reporting Analyst,Aster Analytics,Pune,Entry-level,Hybrid,2025-04-23,,,"Tableau, Python, ETL",https://example.com/demo-job
+DEMO0080,BI Analyst,BluePeak Tech,Hyderabad,Associate,Hybrid,2026-06-23,,,"Python, Tableau, SQL",https://example.com/demo-job
+DEMO0081,Data Analyst,NovaWorks,Remote,Mid-level,On-site,2026-05-06,,,"Git, Power BI, Communication, SQL, Tableau, ETL",https://example.com/demo-job
+DEMO0082,Data Analyst,Summit Data,Chennai,Associate,Remote,2025-10-09,4.0,7.0,"Statistics, Communication, Python",https://example.com/demo-job
+DEMO0083,Reporting Analyst,Orbit Insights,Remote,Associate,Remote,2025-12-14,6.0,11.0,"Excel, A/B Testing, Git, Power BI, Pandas, Communication",https://example.com/demo-job
+DEMO0084,Product Analyst,BluePeak Tech,Chennai,Entry-level,Remote,2026-03-19,,,"Statistics, Python, Machine Learning, Excel, Git",https://example.com/demo-job
+DEMO0085,Reporting Analyst,Vertex Labs,Chennai,Entry-level,Remote,2026-09-07,3.0,7.0,"ETL, Excel, Pandas, Statistics, Communication",https://example.com/demo-job
+DEMO0086,Junior Data Analyst,Cedar Digital,Remote,Mid-level,Remote,2026-08-11,,,"Excel, Statistics, Git, ETL",https://example.com/demo-job
+DEMO0087,Data Analyst,Northstar Systems,Pune,Mid-level,Remote,2025-01-07,8.0,12.0,"ETL, Tableau, SQL, Python, A/B Testing, Statistics, Git",https://example.com/demo-job
+DEMO0088,Product Analyst,BrightPath,Pune,Associate,Hybrid,2026-04-10,,,"Excel, Git, Power BI",https://example.com/demo-job
+DEMO0089,Reporting Analyst,Orbit Insights,Kolkata,Associate,Hybrid,2026-03-11,7.0,12.0,"Excel, SQL, Python, Communication, ETL, Statistics, Machine Learning",https://example.com/demo-job
+DEMO0090,BI Analyst,Aster Analytics,Bengaluru,Entry-level,Hybrid,2026-09-06,,,"Excel, Tableau, Communication, Machine Learning, ETL, SQL",https://example.com/demo-job
+DEMO0091,BI Analyst,Pinecone Services,Mumbai,Mid-level,Remote,2026-01-25,,,"Statistics, Excel, SQL, Machine Learning, Pandas",https://example.com/demo-job
+DEMO0092,Data Analyst,Summit Data,Remote,Mid-level,Remote,2026-03-16,8.0,14.0,"A/B Testing, SQL, Pandas, ETL, Machine Learning, Git",https://example.com/demo-job
+DEMO0093,Data Analyst,NovaWorks,Remote,Mid-level,On-site,2025-09-07,9.0,11.0,"Python, Communication, Machine Learning, Statistics, Excel",https://example.com/demo-job
+DEMO0094,BI Analyst,Cedar Digital,Chennai,Associate,Remote,2026-06-07,,,"Statistics, Python, Excel, Git",https://example.com/demo-job
+DEMO0095,Business Analyst,BluePeak Tech,Pune,Mid-level,Hybrid,2025-06-06,,,"Excel, Python, Tableau, Power BI",https://example.com/demo-job
+DEMO0096,Reporting Analyst,Orbit Insights,Delhi NCR,Associate,Remote,2026-04-26,10.0,12.0,"ETL, Communication, A/B Testing, Statistics, Git, Excel",https://example.com/demo-job
+DEMO0097,BI Analyst,Pinecone Services,Remote,Associate,Remote,2026-09-01,,,"Machine Learning, SQL, ETL, Statistics, Tableau, Communication",https://example.com/demo-job
+DEMO0098,Data Analyst,BluePeak Tech,Chennai,Mid-level,On-site,2026-04-07,5.0,7.0,"Communication, ETL, Power BI, Statistics, Machine Learning, Tableau",https://example.com/demo-job
+DEMO0099,Business Analyst,BrightPath,Bengaluru,Mid-level,Remote,2026-02-23,7.0,12.0,"Machine Learning, Git, ETL, Python, Statistics, Communication",https://example.com/demo-job
+DEMO0100,Reporting Analyst,NovaWorks,Pune,Mid-level,Remote,2025-11-14,,,"Tableau, A/B Testing, Communication, Python, Statistics, SQL",https://example.com/demo-job
+DEMO0101,Junior Data Analyst,Vertex Labs,Pune,Entry-level,Hybrid,2026-01-07,,,"Python, ETL, Git, Excel, Pandas",https://example.com/demo-job
+DEMO0102,Business Analyst,Northstar Systems,Remote,Entry-level,On-site,2026-09-25,,,"Python, Excel, Tableau, ETL",https://example.com/demo-job
+DEMO0103,Reporting Analyst,Summit Data,Delhi NCR,Mid-level,Hybrid,2026-03-31,8.0,11.0,"A/B Testing, Machine Learning, SQL, Pandas",https://example.com/demo-job
+DEMO0104,Junior Data Analyst,Pinecone Services,Remote,Entry-level,On-site,2026-01-27,,,"Statistics, ETL, Communication, Machine Learning",https://example.com/demo-job
+DEMO0105,BI Analyst,Vertex Labs,Hyderabad,Entry-level,Hybrid,2025-05-08,4.0,10.0,"ETL, Machine Learning, Statistics",https://example.com/demo-job
+DEMO0106,Junior Data Analyst,NovaWorks,Chennai,Entry-level,Hybrid,2025-02-24,,,"Power BI, Machine Learning, Statistics",https://example.com/demo-job
+DEMO0107,Data Analyst,Northstar Systems,Kolkata,Associate,Remote,2026-04-29,3.0,7.0,"Excel, ETL, Statistics, Python, Git",https://example.com/demo-job
+DEMO0108,BI Analyst,Cedar Digital,Delhi NCR,Entry-level,On-site,2025-10-23,,,"Python, Git, Communication, ETL",https://example.com/demo-job
+DEMO0109,Reporting Analyst,NovaWorks,Bengaluru,Mid-level,Hybrid,2025-10-26,6.0,9.0,"Excel, A/B Testing, Machine Learning, Git, SQL, Statistics",https://example.com/demo-job
+DEMO0110,Product Analyst,Aster Analytics,Remote,Associate,Hybrid,2026-04-27,,,"Git, Statistics, Excel",https://example.com/demo-job
+DEMO0111,Data Analyst,BrightPath,Pune,Mid-level,Hybrid,2026-07-14,,,"Power BI, ETL, Excel, Statistics, Python",https://example.com/demo-job
+DEMO0112,Business Analyst,Aster Analytics,Chennai,Associate,Remote,2025-07-24,,,"Excel, Machine Learning, SQL, Tableau",https://example.com/demo-job
+DEMO0113,Junior Data Analyst,BluePeak Tech,Chennai,Associate,Hybrid,2025-10-07,,,"SQL, ETL, Power BI, Tableau, Statistics",https://example.com/demo-job
+DEMO0114,Junior Data Analyst,NovaWorks,Pune,Mid-level,Hybrid,2025-03-22,4.0,9.0,"Python, Machine Learning, ETL, Statistics, Tableau",https://example.com/demo-job
+DEMO0115,Product Analyst,Aster Analytics,Chennai,Mid-level,Hybrid,2026-04-03,,,"Tableau, Machine Learning, Communication, Pandas, Python",https://example.com/demo-job
+DEMO0116,Data Analyst,Aster Analytics,Pune,Mid-level,Remote,2025-06-13,,,"ETL, A/B Testing, Pandas",https://example.com/demo-job
+DEMO0117,Data Analyst,Orbit Insights,Chennai,Associate,Hybrid,2025-06-07,,,"ETL, Statistics, A/B Testing, Pandas",https://example.com/demo-job
+DEMO0118,Reporting Analyst,Pinecone Services,Remote,Mid-level,On-site,2026-05-27,3.0,6.0,"Pandas, Statistics, Tableau, Power BI, Excel",https://example.com/demo-job
+DEMO0119,Junior Data Analyst,Orbit Insights,Pune,Mid-level,Hybrid,2025-03-17,,,"Communication, Tableau, Machine Learning, Power BI",https://example.com/demo-job
+DEMO0120,BI Analyst,BrightPath,Mumbai,Entry-level,On-site,2025-06-28,,,"A/B Testing, Excel, Git, Communication, Tableau",https://example.com/demo-job
+DEMO0121,Junior Data Analyst,Northstar Systems,Hyderabad,Entry-level,Hybrid,2026-07-19,,,"Statistics, Git, Communication",https://example.com/demo-job
+DEMO0122,Junior Data Analyst,Pinecone Services,Chennai,Entry-level,Remote,2026-04-23,,,"Pandas, A/B Testing, Communication, Excel, Python, Machine Learning, Statistics",https://example.com/demo-job
+DEMO0123,Business Analyst,Cedar Digital,Chennai,Mid-level,Hybrid,2025-11-27,,,"Git, SQL, Excel, A/B Testing, Python, Machine Learning",https://example.com/demo-job
+DEMO0124,Product Analyst,Northstar Systems,Pune,Mid-level,Remote,2026-08-18,,,"Tableau, Python, A/B Testing, Git, Excel, Communication, Statistics",https://example.com/demo-job
+DEMO0125,Reporting Analyst,NovaWorks,Bengaluru,Associate,Remote,2026-08-09,,,"SQL, Excel, A/B Testing",https://example.com/demo-job
+DEMO0126,BI Analyst,NovaWorks,Kolkata,Associate,On-site,2026-03-27,3.0,6.0,"Power BI, ETL, Pandas, Tableau, Machine Learning, SQL",https://example.com/demo-job
+DEMO0127,Product Analyst,Orbit Insights,Hyderabad,Associate,Hybrid,2025-09-05,4.0,8.0,"A/B Testing, Statistics, Pandas, Python, ETL",https://example.com/demo-job
+DEMO0128,BI Analyst,Orbit Insights,Kolkata,Associate,Hybrid,2025-06-13,8.0,11.0,"Communication, Pandas, Power BI, Python, Statistics, Tableau",https://example.com/demo-job
+DEMO0129,Junior Data Analyst,Vertex Labs,Bengaluru,Entry-level,Hybrid,2026-04-27,10.0,16.0,"Machine Learning, Power BI, ETL, Statistics, SQL, A/B Testing, Python",https://example.com/demo-job
+DEMO0130,BI Analyst,Pinecone Services,Kolkata,Mid-level,Hybrid,2026-01-31,,,"Statistics, SQL, Pandas, ETL, Power BI, Python",https://example.com/demo-job
+DEMO0131,Reporting Analyst,BrightPath,Pune,Entry-level,Remote,2026-07-26,8.0,12.0,"Python, Excel, Pandas",https://example.com/demo-job
+DEMO0132,Data Analyst,Pinecone Services,Pune,Associate,Remote,2026-09-13,10.0,13.0,"Python, Statistics, Machine Learning",https://example.com/demo-job
+DEMO0133,Reporting Analyst,BrightPath,Chennai,Mid-level,On-site,2025-01-18,,,"Communication, Statistics, Git, A/B Testing, Machine Learning",https://example.com/demo-job
+DEMO0134,Product Analyst,Orbit Insights,Pune,Mid-level,Remote,2026-08-21,,,"Communication, Machine Learning, Tableau",https://example.com/demo-job
+DEMO0135,Junior Data Analyst,BrightPath,Remote,Entry-level,Hybrid,2026-03-28,,,"ETL, Power BI, SQL, Excel",https://example.com/demo-job
+DEMO0136,Reporting Analyst,NovaWorks,Chennai,Entry-level,Hybrid,2026-06-23,,,"A/B Testing, SQL, Python, Git, Power BI, Tableau",https://example.com/demo-job
+DEMO0137,BI Analyst,Vertex Labs,Mumbai,Mid-level,Remote,2025-11-01,7.0,10.0,"Communication, Machine Learning, Power BI, A/B Testing, Tableau",https://example.com/demo-job
+DEMO0138,Reporting Analyst,Vertex Labs,Bengaluru,Associate,Remote,2025-05-30,,,"Tableau, Excel, Communication, Git, Pandas",https://example.com/demo-job
+DEMO0139,Product Analyst,Summit Data,Mumbai,Entry-level,On-site,2025-04-22,,,"A/B Testing, Machine Learning, Power BI, Communication, Tableau",https://example.com/demo-job
+DEMO0140,Product Analyst,Aster Analytics,Pune,Associate,Remote,2025-05-21,,,"SQL, Excel, Pandas, Statistics",https://example.com/demo-job
+DEMO0141,Junior Data Analyst,Pinecone Services,Bengaluru,Entry-level,Hybrid,2025-08-26,,,"Tableau, Statistics, A/B Testing, SQL",https://example.com/demo-job
+DEMO0142,Data Analyst,Orbit Insights,Kolkata,Entry-level,Remote,2025-10-19,4.0,8.0,"Machine Learning, Python, Tableau, SQL, Git, ETL",https://example.com/demo-job
+DEMO0143,Data Analyst,Cedar Digital,Pune,Mid-level,Remote,2026-08-05,,,"Python, Machine Learning, Tableau, A/B Testing, SQL",https://example.com/demo-job
+DEMO0144,Reporting Analyst,Aster Analytics,Delhi NCR,Associate,On-site,2025-09-12,10.0,14.0,"Excel, Pandas, A/B Testing, Python, Git",https://example.com/demo-job
+DEMO0145,BI Analyst,Orbit Insights,Delhi NCR,Entry-level,Hybrid,2025-05-02,,,"Communication, A/B Testing, SQL, Tableau, Statistics",https://example.com/demo-job
+DEMO0146,Product Analyst,Northstar Systems,Kolkata,Mid-level,Remote,2026-05-05,,,"A/B Testing, Excel, Tableau, Statistics, Power BI",https://example.com/demo-job
+DEMO0147,Junior Data Analyst,BluePeak Tech,Bengaluru,Mid-level,Remote,2026-08-01,8.0,10.0,"ETL, Power BI, A/B Testing, Excel, Machine Learning, Tableau, Statistics",https://example.com/demo-job
+DEMO0148,Business Analyst,Aster Analytics,Kolkata,Entry-level,Remote,2026-04-02,,,"Git, Machine Learning, Excel, Power BI, ETL",https://example.com/demo-job
+DEMO0149,Reporting Analyst,BluePeak Tech,Bengaluru,Associate,Hybrid,2026-08-16,,,"ETL, Tableau, SQL, Pandas, A/B Testing, Git",https://example.com/demo-job
+DEMO0150,Data Analyst,NovaWorks,Chennai,Associate,Hybrid,2025-05-19,,,"Machine Learning, SQL, Tableau",https://example.com/demo-job
+DEMO0151,Junior Data Analyst,Northstar Systems,Remote,Mid-level,On-site,2025-05-02,,,"ETL, A/B Testing, Git",https://example.com/demo-job
+DEMO0152,Data Analyst,Cedar Digital,Mumbai,Associate,Hybrid,2026-01-24,9.0,15.0,"Tableau, Machine Learning, Git",https://example.com/demo-job
+DEMO0153,Product Analyst,BluePeak Tech,Hyderabad,Mid-level,On-site,2025-07-31,,,"SQL, ETL, Pandas",https://example.com/demo-job
+DEMO0154,Data Analyst,Aster Analytics,Pune,Mid-level,Hybrid,2025-08-11,,,"A/B Testing, SQL, Pandas, Machine Learning",https://example.com/demo-job
+DEMO0155,Reporting Analyst,NovaWorks,Delhi NCR,Associate,On-site,2025-08-15,,,"Communication, A/B Testing, Statistics, Power BI, Tableau",https://example.com/demo-job
+DEMO0156,Product Analyst,NovaWorks,Chennai,Mid-level,Hybrid,2025-12-19,10.0,12.0,"ETL, A/B Testing, Pandas, Git",https://example.com/demo-job
+DEMO0157,Business Analyst,NovaWorks,Pune,Associate,On-site,2026-02-27,3.0,9.0,"Machine Learning, Power BI, ETL, Tableau, Python, Pandas, Communication",https://example.com/demo-job
+DEMO0158,Data Analyst,Aster Analytics,Hyderabad,Entry-level,Remote,2026-09-10,,,"Statistics, Excel, Git, Power BI, SQL, Python",https://example.com/demo-job
+DEMO0159,Junior Data Analyst,Cedar Digital,Mumbai,Associate,On-site,2026-05-06,,,"Statistics, Tableau, SQL, Power BI",https://example.com/demo-job
+DEMO0160,Junior Data Analyst,Orbit Insights,Chennai,Entry-level,Hybrid,2025-04-11,10.0,15.0,"Git, ETL, Statistics, Tableau, A/B Testing, Python",https://example.com/demo-job
+DEMO0161,Business Analyst,BrightPath,Mumbai,Associate,Remote,2025-07-20,,,"SQL, Tableau, Git, Pandas",https://example.com/demo-job
+DEMO0162,Product Analyst,Pinecone Services,Kolkata,Entry-level,Remote,2025-05-24,,,"Tableau, Machine Learning, ETL, Communication, Python",https://example.com/demo-job
+DEMO0163,Reporting Analyst,Cedar Digital,Hyderabad,Mid-level,On-site,2025-05-21,3.0,8.0,"Excel, ETL, SQL",https://example.com/demo-job
+DEMO0164,BI Analyst,Aster Analytics,Remote,Entry-level,On-site,2025-01-17,10.0,15.0,"Communication, ETL, A/B Testing",https://example.com/demo-job
+DEMO0165,BI Analyst,Pinecone Services,Pune,Entry-level,On-site,2025-04-09,,,"Git, ETL, Pandas",https://example.com/demo-job
+DEMO0166,BI Analyst,BluePeak Tech,Bengaluru,Entry-level,Hybrid,2025-11-04,,,"Pandas, Excel, Statistics, A/B Testing, Machine Learning",https://example.com/demo-job
+DEMO0167,Data Analyst,Summit Data,Hyderabad,Mid-level,On-site,2025-12-06,,,"A/B Testing, Python, Excel",https://example.com/demo-job
+DEMO0168,Product Analyst,Aster Analytics,Mumbai,Mid-level,On-site,2025-11-19,,,"Machine Learning, Tableau, SQL, Excel, ETL, A/B Testing, Pandas",https://example.com/demo-job
+DEMO0169,Junior Data Analyst,Pinecone Services,Chennai,Associate,Remote,2026-02-03,,,"Tableau, Python, Communication",https://example.com/demo-job
+DEMO0170,Product Analyst,BluePeak Tech,Chennai,Mid-level,Remote,2025-08-26,,,"Git, Statistics, SQL",https://example.com/demo-job
+DEMO0171,BI Analyst,Pinecone Services,Remote,Associate,On-site,2025-12-31,,,"ETL, Tableau, Machine Learning",https://example.com/demo-job
+DEMO0172,Data Analyst,BrightPath,Hyderabad,Entry-level,On-site,2025-11-21,,,"Tableau, Power BI, Excel, Communication, A/B Testing, Git, ETL",https://example.com/demo-job
+DEMO0173,BI Analyst,Pinecone Services,Remote,Entry-level,On-site,2026-07-25,,,"Python, Excel, A/B Testing",https://example.com/demo-job
+DEMO0174,Reporting Analyst,Northstar Systems,Remote,Entry-level,On-site,2026-06-18,6.0,12.0,"Statistics, Pandas, SQL, Tableau, ETL, Power BI, Communication",https://example.com/demo-job
+DEMO0175,Business Analyst,BluePeak Tech,Chennai,Associate,On-site,2026-05-11,,,"Python, Pandas, Tableau",https://example.com/demo-job
+DEMO0176,Reporting Analyst,Summit Data,Remote,Associate,Hybrid,2025-12-07,,,"Machine Learning, Excel, Python, Tableau",https://example.com/demo-job
+DEMO0177,Product Analyst,Orbit Insights,Mumbai,Associate,Hybrid,2025-10-26,,,"Python, Tableau, Statistics, Power BI, Machine Learning, A/B Testing, Excel",https://example.com/demo-job
+DEMO0178,BI Analyst,Orbit Insights,Mumbai,Associate,Hybrid,2025-01-28,,,"Communication, Power BI, A/B Testing",https://example.com/demo-job
+DEMO0179,Junior Data Analyst,BluePeak Tech,Kolkata,Mid-level,Hybrid,2026-01-22,,,"Python, ETL, Tableau, Power BI, Communication, Statistics",https://example.com/demo-job
+DEMO0180,Product Analyst,Summit Data,Bengaluru,Mid-level,Remote,2025-06-20,,,"Git, SQL, Statistics, A/B Testing, Excel, ETL",https://example.com/demo-job
+DEMO0181,BI Analyst,NovaWorks,Kolkata,Mid-level,Remote,2026-01-19,,,"Excel, SQL, A/B Testing, Tableau, Power BI, Git",https://example.com/demo-job
+DEMO0182,Data Analyst,BrightPath,Kolkata,Entry-level,Remote,2025-11-16,5.0,9.0,"Excel, Tableau, Pandas, A/B Testing, Git, Communication",https://example.com/demo-job
+DEMO0183,Junior Data Analyst,Cedar Digital,Pune,Mid-level,On-site,2025-06-18,8.0,10.0,"Statistics, Excel, Tableau, SQL, ETL, Git",https://example.com/demo-job
+DEMO0184,Junior Data Analyst,Summit Data,Mumbai,Associate,Remote,2025-01-30,9.0,14.0,"Pandas, ETL, Python, Communication",https://example.com/demo-job
+DEMO0185,Business Analyst,Cedar Digital,Kolkata,Entry-level,Hybrid,2025-11-30,,,"Tableau, Excel, Communication, ETL",https://example.com/demo-job
+DEMO0186,Product Analyst,Summit Data,Pune,Mid-level,Remote,2026-04-14,,,"Communication, Pandas, A/B Testing, ETL, Excel",https://example.com/demo-job
+DEMO0187,Reporting Analyst,BluePeak Tech,Pune,Associate,Remote,2025-11-09,4.0,7.0,"ETL, Python, Statistics",https://example.com/demo-job
+DEMO0188,Reporting Analyst,Pinecone Services,Pune,Associate,Hybrid,2025-06-27,10.0,16.0,"Communication, Pandas, ETL, Python",https://example.com/demo-job
+DEMO0189,Junior Data Analyst,NovaWorks,Kolkata,Associate,On-site,2026-05-19,10.0,15.0,"SQL, Statistics, A/B Testing, Machine Learning, Python, Excel, Power BI",https://example.com/demo-job
+DEMO0190,Business Analyst,Orbit Insights,Hyderabad,Mid-level,On-site,2026-08-03,5.0,10.0,"SQL, Tableau, Power BI, Git, ETL",https://example.com/demo-job
+DEMO0191,BI Analyst,Orbit Insights,Delhi NCR,Associate,On-site,2025-02-03,,,"SQL, Machine Learning, Git, Power BI, Pandas, A/B Testing, Statistics",https://example.com/demo-job
+DEMO0192,Business Analyst,Cedar Digital,Mumbai,Entry-level,Remote,2025-05-23,5.0,11.0,"A/B Testing, Communication, Statistics, Pandas",https://example.com/demo-job
+DEMO0193,Reporting Analyst,Aster Analytics,Delhi NCR,Mid-level,On-site,2026-02-26,,,"Statistics, Tableau, ETL, Communication",https://example.com/demo-job
+DEMO0194,Business Analyst,Orbit Insights,Hyderabad,Mid-level,On-site,2026-01-20,,,"Power BI, ETL, Pandas, Machine Learning, Python",https://example.com/demo-job
+DEMO0195,Product Analyst,Pinecone Services,Remote,Entry-level,Hybrid,2025-03-06,,,"Machine Learning, A/B Testing, Statistics, SQL, Excel",https://example.com/demo-job
+DEMO0196,BI Analyst,BluePeak Tech,Kolkata,Entry-level,On-site,2025-02-17,,,"Statistics, Git, Communication, Python, Machine Learning",https://example.com/demo-job
+DEMO0197,Junior Data Analyst,BluePeak Tech,Chennai,Associate,On-site,2025-10-08,,,"Pandas, Power BI, Python",https://example.com/demo-job
+DEMO0198,Business Analyst,BluePeak Tech,Bengaluru,Entry-level,Hybrid,2025-04-04,,,"Pandas, ETL, Tableau",https://example.com/demo-job
+DEMO0199,Reporting Analyst,Cedar Digital,Remote,Entry-level,Remote,2025-03-14,,,"SQL, A/B Testing, Statistics, Excel, Pandas, Communication",https://example.com/demo-job
+DEMO0200,BI Analyst,Orbit Insights,Chennai,Mid-level,On-site,2025-06-18,,,"Python, Pandas, A/B Testing, Communication, Excel",https://example.com/demo-job
+DEMO0201,Junior Data Analyst,BrightPath,Pune,Entry-level,Hybrid,2026-03-16,,,"ETL, Machine Learning, Power BI, Excel, Git, A/B Testing, SQL",https://example.com/demo-job
+DEMO0202,Reporting Analyst,Aster Analytics,Mumbai,Associate,Hybrid,2025-10-30,6.0,11.0,"A/B Testing, Communication, Tableau, SQL, ETL, Excel, Machine Learning",https://example.com/demo-job
+DEMO0203,Reporting Analyst,Summit Data,Remote,Associate,Remote,2026-02-01,,,"Git, SQL, Statistics",https://example.com/demo-job
+DEMO0204,Data Analyst,Aster Analytics,Remote,Mid-level,Hybrid,2025-02-10,,,"Communication, Excel, SQL",https://example.com/demo-job
+DEMO0205,Junior Data Analyst,Pinecone Services,Mumbai,Entry-level,Remote,2025-03-22,,,"A/B Testing, Pandas, Excel, Git, Python, Machine Learning",https://example.com/demo-job
+DEMO0206,Product Analyst,NovaWorks,Hyderabad,Associate,Remote,2025-03-30,,,"Tableau, Pandas, Power BI",https://example.com/demo-job
+DEMO0207,Product Analyst,Pinecone Services,Delhi NCR,Entry-level,Hybrid,2025-12-22,,,"Excel, SQL, Python, ETL",https://example.com/demo-job
+DEMO0208,BI Analyst,Vertex Labs,Hyderabad,Associate,Hybrid,2025-03-07,7.0,13.0,"SQL, Statistics, Pandas",https://example.com/demo-job
+DEMO0209,Reporting Analyst,Aster Analytics,Bengaluru,Entry-level,On-site,2026-06-06,4.0,7.0,"Statistics, Python, Tableau, Excel",https://example.com/demo-job
+DEMO0210,Business Analyst,BrightPath,Delhi NCR,Entry-level,Remote,2026-03-03,8.0,11.0,"SQL, Git, Pandas, Power BI",https://example.com/demo-job
+DEMO0211,Data Analyst,Vertex Labs,Chennai,Entry-level,Remote,2025-10-17,4.0,9.0,"Power BI, Git, SQL, Pandas",https://example.com/demo-job
+DEMO0212,BI Analyst,Northstar Systems,Bengaluru,Associate,On-site,2025-09-09,6.0,12.0,"Tableau, Communication, Power BI, Machine Learning, Statistics, A/B Testing, ETL",https://example.com/demo-job
+DEMO0213,Product Analyst,Pinecone Services,Mumbai,Associate,Hybrid,2025-07-30,,,"Statistics, SQL, Pandas",https://example.com/demo-job
+DEMO0214,Business Analyst,Summit Data,Hyderabad,Mid-level,On-site,2025-03-28,,,"Excel, SQL, Power BI, Git, Pandas",https://example.com/demo-job
+DEMO0215,Reporting Analyst,Orbit Insights,Delhi NCR,Entry-level,On-site,2025-11-22,,,"SQL, Pandas, Python, Power BI, Tableau, Communication, ETL",https://example.com/demo-job
+DEMO0216,Reporting Analyst,NovaWorks,Hyderabad,Mid-level,Hybrid,2025-11-18,,,"Python, Excel, A/B Testing",https://example.com/demo-job
+DEMO0217,BI Analyst,Northstar Systems,Hyderabad,Mid-level,On-site,2025-12-02,,,"Tableau, Excel, ETL, Python, A/B Testing, Pandas",https://example.com/demo-job
+DEMO0218,Data Analyst,BluePeak Tech,Pune,Entry-level,On-site,2026-04-19,,,"Tableau, Python, SQL, Pandas, Machine Learning",https://example.com/demo-job
+DEMO0219,Business Analyst,BluePeak Tech,Mumbai,Mid-level,Hybrid,2025-01-23,,,"Power BI, Pandas, Statistics, Excel",https://example.com/demo-job
+DEMO0220,BI Analyst,NovaWorks,Kolkata,Entry-level,Hybrid,2026-03-20,,,"SQL, Machine Learning, A/B Testing",https://example.com/demo-job
+DEMO0221,Business Analyst,Summit Data,Mumbai,Mid-level,Hybrid,2026-09-27,,,"Tableau, A/B Testing, Machine Learning, Python",https://example.com/demo-job
+DEMO0222,Junior Data Analyst,Pinecone Services,Mumbai,Mid-level,Remote,2025-07-24,,,"Excel, Tableau, Pandas",https://example.com/demo-job
+DEMO0223,Product Analyst,Aster Analytics,Chennai,Mid-level,On-site,2025-07-04,,,"Machine Learning, Git, A/B Testing, Statistics, ETL",https://example.com/demo-job
+DEMO0224,BI Analyst,Cedar Digital,Mumbai,Associate,Remote,2025-04-13,,,"Machine Learning, Git, Statistics",https://example.com/demo-job
+DEMO0225,Data Analyst,BrightPath,Chennai,Mid-level,On-site,2026-08-30,,,"Communication, Pandas, Statistics, Python",https://example.com/demo-job
+DEMO0226,Reporting Analyst,Cedar Digital,Mumbai,Entry-level,Remote,2025-02-27,3.0,5.0,"Python, Communication, Power BI, Machine Learning, Tableau, Excel, ETL",https://example.com/demo-job
+DEMO0227,Reporting Analyst,Summit Data,Pune,Entry-level,Remote,2025-06-01,,,"Python, Statistics, A/B Testing, ETL",https://example.com/demo-job
+DEMO0228,BI Analyst,BrightPath,Pune,Mid-level,Remote,2026-05-14,,,"Communication, Excel, Statistics, Tableau, A/B Testing, ETL",https://example.com/demo-job
+DEMO0229,BI Analyst,Northstar Systems,Bengaluru,Mid-level,Remote,2025-05-11,,,"ETL, Communication, Python, Pandas",https://example.com/demo-job
+DEMO0230,Reporting Analyst,Orbit Insights,Pune,Associate,Remote,2025-04-17,6.0,12.0,"Python, Communication, Statistics",https://example.com/demo-job
+DEMO0231,BI Analyst,Cedar Digital,Hyderabad,Associate,Hybrid,2025-08-03,,,"ETL, Excel, Statistics, Machine Learning",https://example.com/demo-job
+DEMO0232,Data Analyst,BluePeak Tech,Kolkata,Mid-level,Remote,2026-01-20,,,"Machine Learning, Pandas, Python, ETL, A/B Testing, Power BI",https://example.com/demo-job
+DEMO0233,Junior Data Analyst,BluePeak Tech,Chennai,Entry-level,Hybrid,2025-04-18,8.0,12.0,"SQL, Tableau, A/B Testing",https://example.com/demo-job
+DEMO0234,Data Analyst,Northstar Systems,Bengaluru,Entry-level,Hybrid,2026-03-21,5.0,11.0,"Communication, A/B Testing, Machine Learning, SQL, Pandas",https://example.com/demo-job
+DEMO0235,Product Analyst,Pinecone Services,Kolkata,Entry-level,On-site,2026-08-09,3.0,8.0,"A/B Testing, Git, Tableau, Communication, ETL, Excel, SQL",https://example.com/demo-job
+DEMO0236,BI Analyst,BluePeak Tech,Delhi NCR,Associate,Hybrid,2026-04-30,,,"Machine Learning, Power BI, Excel, SQL, ETL, Communication, Statistics",https://example.com/demo-job
+DEMO0237,Data Analyst,Orbit Insights,Delhi NCR,Entry-level,Hybrid,2026-03-27,,,"Pandas, Python, Statistics, A/B Testing, Communication, Excel, Power BI",https://example.com/demo-job
+DEMO0238,Product Analyst,Pinecone Services,Bengaluru,Associate,Remote,2025-08-21,9.0,15.0,"Excel, ETL, Statistics",https://example.com/demo-job
+DEMO0239,Junior Data Analyst,Pinecone Services,Pune,Entry-level,Hybrid,2026-08-08,,,"Power BI, Machine Learning, Tableau, Excel, Pandas, ETL, Statistics",https://example.com/demo-job
+DEMO0240,Business Analyst,Summit Data,Delhi NCR,Associate,Remote,2025-06-01,,,"Python, SQL, Pandas, Excel",https://example.com/demo-job
+DEMO0241,Junior Data Analyst,Northstar Systems,Pune,Mid-level,Remote,2026-03-01,,,"Pandas, Git, Statistics, Tableau, Machine Learning, A/B Testing, SQL",https://example.com/demo-job
+DEMO0242,Data Analyst,NovaWorks,Kolkata,Mid-level,Remote,2025-09-28,8.0,13.0,"Communication, Excel, Tableau",https://example.com/demo-job
+DEMO0243,Junior Data Analyst,Aster Analytics,Kolkata,Associate,Hybrid,2025-09-01,,,"Communication, A/B Testing, Pandas, SQL",https://example.com/demo-job
+DEMO0244,BI Analyst,Vertex Labs,Remote,Mid-level,Remote,2025-11-25,7.0,12.0,"Tableau, Machine Learning, Excel, Power BI, Python",https://example.com/demo-job
+DEMO0245,Junior Data Analyst,Northstar Systems,Bengaluru,Entry-level,On-site,2026-02-18,,,"Git, Statistics, SQL, A/B Testing, Python, Communication",https://example.com/demo-job
+DEMO0246,Data Analyst,Orbit Insights,Remote,Mid-level,On-site,2026-01-13,,,"SQL, Machine Learning, A/B Testing, Statistics",https://example.com/demo-job
+DEMO0247,Junior Data Analyst,Aster Analytics,Remote,Entry-level,On-site,2025-10-19,,,"Machine Learning, Python, A/B Testing, Git, Statistics, ETL, Excel",https://example.com/demo-job
+DEMO0248,Business Analyst,Aster Analytics,Kolkata,Entry-level,Remote,2025-01-21,,,"ETL, Power BI, A/B Testing, Tableau",https://example.com/demo-job
+DEMO0249,Business Analyst,Cedar Digital,Kolkata,Associate,Remote,2025-09-16,,,"Communication, Tableau, ETL, Pandas, Git",https://example.com/demo-job
+DEMO0250,Reporting Analyst,Orbit Insights,Hyderabad,Associate,Hybrid,2025-04-21,,,"SQL, Git, Statistics",https://example.com/demo-job
