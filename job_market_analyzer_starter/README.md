@@ -1,107 +1,48 @@
 # Job Market & Skills Demand Analyzer
 
-**Stack:** Python, Pandas, MySQL, Power BI  
-**Level:** Beginner
+## Project Overview
+The Job Market & Skills Demand Analyzer is a beginner-friendly data analytics project that explores job postings, salary information, job locations, work modes, and in-demand skills using Python, SQL, and Power BI.
 
-## Important data note
-`data/job_postings_demo.csv` is a **synthetic practice dataset** created to help you learn the workflow. It is not a record of actual vacancies and must not be used to claim real-world job-market findings in a resume or interview.
+## Objectives
+- Analyze job postings and job titles.
+- Explore job locations and work modes.
+- Calculate average salary information.
+- Identify frequently requested skills.
+- Present key findings through an interactive Power BI dashboard.
 
-For a portfolio version with real evidence, replace it with a public dataset whose source, collection date, license, and limitations you document. One project/dataset reference to evaluate is the public GitHub repository below; inspect its README and dataset provenance before reuse:
-- https://github.com/powaromkar931-netizen/India_Tech_Job_Market_Analysis
-- Alternative project reference: https://github.com/vaishnavivahile/Data-Analyst-Job-Market-Analysis
+## Tools & Technologies
+- **Python:** Pandas for data cleaning and analysis
+- **SQL:** Queries for analyzing job data
+- **Power BI:** Interactive dashboard and visualizations
+- **CSV:** Dataset storage and data exchange
 
-Do not copy another person's completed project or claim their findings as your own. Use only the dataset you can lawfully access and cite its original source.
+## Project Structure
+- `data/` — Dataset and processed data
+- `python/` — Python scripts for data cleaning and analysis
+- `sql/` — SQL analysis queries
+- `README.md` — Project documentation
+- `Job_Market_Skills_Analyzer.pbix` — Power BI dashboard
 
-## Business questions
-1. Which job titles appear most frequently?
-2. Which skills are mentioned in the most postings?
-3. Which locations have the most listings in the dataset?
-4. What salary ranges are disclosed, and how many records include salary?
-5. How does posting volume vary by month?
-6. Which skills appear across experience levels?
+## Dashboard Features
+- Total job postings
+- Average salary overview
+- Job title analysis
+- Location and work-mode analysis
+- Most in-demand skills chart
+- Interactive slicers for filtering the results
 
-## Folder structure
-- `data/job_postings_demo.csv` — synthetic practice data
-- `python/analyze_jobs.py` — cleaning and exploratory analysis
-- `sql/analysis_queries.sql` — SQL practice queries
-- `data/processed/` — generated CSV outputs (created after running Python)
+## How to Run
+1. Download or clone this repository.
+2. Install Python and Pandas.
+3. Run the Python analysis script from the project folder.
+4. Use the SQL files to practice querying the dataset.
+5. Open the `.pbix` file in Power BI Desktop to explore the dashboard.
 
-## Step 1 — Python setup
-Install Python 3.10+ and run:
-```bash
-python -m pip install pandas
-python python/analyze_jobs.py
-```
-The script creates `data/processed/jobs_clean.csv` and `data/processed/job_skills.csv`.
+## Dataset Disclaimer
+The included dataset is synthetic demonstration data created for learning and portfolio practice. The results should not be interpreted as real-world job-market statistics.
 
-## Step 2 — SQL
-Create a MySQL database and import the two processed CSVs into tables named `jobs_clean` and `job_skills`. Use the queries in `sql/analysis_queries.sql`.
+## Learning Outcomes
+This project demonstrates beginner-level skills in data cleaning, exploratory data analysis, SQL querying, and dashboard development.
 
-Suggested `jobs_clean` columns:
-`job_id, job_title, company, location, experience_level, work_mode, posted_date, salary_min_lpa, salary_max_lpa, job_url, salary_mid_lpa, posted_month`
-
-Suggested `job_skills` columns:
-`job_id, job_title, location, experience_level, salary_mid_lpa, skills, skill`
-
-## Step 3 — Power BI dashboard
-Use **Get Data → Text/CSV** to import `jobs_clean.csv` and `job_skills.csv`.
-
-Build one report page with:
-- KPI cards: total postings, number of roles, locations, salary disclosure %
-- Bar chart: top 10 skills by jobs mentioning skill
-- Bar chart: postings by job title
-- Column chart: postings by location
-- Line chart: postings by month
-- Slicers: experience level, location, work mode
-
-Useful measures (adjust table names to your model):
-```DAX
-Total Postings = DISTINCTCOUNT(jobs_clean[job_id])
-
-Roles Count = DISTINCTCOUNT(jobs_clean[job_title])
-
-Locations Count = DISTINCTCOUNT(jobs_clean[location])
-
-Salary Disclosure % =
-DIVIDE(
-    COUNT(jobs_clean[salary_mid_lpa]),
-    DISTINCTCOUNT(jobs_clean[job_id]),
-    0
-)
-```
-For skill demand, use `job_skills` and count distinct `job_id` per skill. Create a relationship between `jobs_clean[job_id]` and `job_skills[job_id]` if needed; avoid double-counting postings after expanding skills.
-
-## Step 4 — Interpretation
-For each chart, write 1–2 sentences answering:
-- What do I observe?
-- What might it mean for a job seeker?
-- What are the limits of this dataset?
-
-Do not assume that a skill causes higher salary just because the two appear together. Salary data may be missing or unrepresentative.
-
-## Resume bullet — use only after completing with real sourced data
-**Job Market & Skills Demand Analyzer | Python, SQL, Power BI**
-- Cleaned and analyzed public job-posting data using Python and Pandas, documenting missing values and duplicate handling.
-- Used SQL to summarize role demand, skill frequency, location patterns, and disclosed salary ranges.
-- Built an interactive Power BI dashboard with KPI cards, skill-demand charts, role/location breakdowns, and filters.
-- Documented data source, collection period, key findings, and limitations.
-
-Replace generic wording with your actual dataset size and verified findings. Never invent metrics.
-
-## GitHub checklist
-- Add the dataset's original source and license/terms.
-- Include your cleaning and SQL scripts.
-- Add a screenshot of your own Power BI dashboard.
-- Add 3–5 findings supported by your own analysis.
-- Explain missing salary data and any other limitations.
-- Do not upload private, restricted, or personally identifiable data.
-
-## Interview explanation
-"I built a Job Market & Skills Demand Analyzer to understand which skills appear most often in data-related job postings. I used Python and Pandas to inspect missing values, standardize fields, remove duplicate job IDs, and split skill lists into a separate analysis table. I then used SQL to compare skills, job titles, locations, and disclosed salary ranges. Finally, I created a Power BI dashboard with filters so users can explore the data. I also documented the source and limitations, especially missing salary information. The results describe the dataset I analyzed and should not automatically be generalized to the entire job market."
-
-## Beginner concepts to learn
-- Rows, columns, data types
-- Missing values and duplicates
-- `value_counts()`, `groupby()`, `explode()`
-- SQL `SELECT`, `GROUP BY`, `COUNT`, `AVG`, `ORDER BY`
-- Power BI visuals, slicers, relationships, basic DAX
+## Author
+Aarshi Singh — MSc Computer Science Graduate
