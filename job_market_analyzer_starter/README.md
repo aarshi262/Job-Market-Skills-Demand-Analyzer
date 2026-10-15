@@ -48,4 +48,4 @@ This project demonstrates beginner-level skills in data cleaning, exploratory da
 Aarshi Singh — MSc Computer Science Graduate
 ## Power BI Dashboard
 
-![Job Market & Skills Demand Analyzer Dashboard](../../dashboard.png)
+![Job Market & Skills Demand Analyzer Dashboard](../dashboard.png)
